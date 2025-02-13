@@ -10,31 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c9b3b08 (feature: local workflow)
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.x'
-<<<<<<< HEAD
 
-=======
-    
->>>>>>> c9b3b08 (feature: local workflow)
     - name: Run script
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         pip install requests
         python scripts/update_readme.py
-<<<<<<< HEAD
-
-=======
     
->>>>>>> c9b3b08 (feature: local workflow)
     - name: Commit changes
       run: |
         git config --global user.name "Guannan"
