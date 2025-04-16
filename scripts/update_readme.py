@@ -19,6 +19,7 @@ def get_starred_activity():
 
 def update_readme():
     # 生成动态内容
+    print("before-run")
     new_content = "## 🚀 关注动态\n"
     for event in get_following_activity():
         new_content += f"- [{event['type']}] {event['actor']['login']} - {event['repo']['name']}\n"
@@ -35,3 +36,4 @@ def update_readme():
 
     with open('../README.md', 'w') as f:
         f.write(updated_readme)
+    print("after-run")
