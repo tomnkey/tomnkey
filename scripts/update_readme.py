@@ -37,3 +37,6 @@ def update_readme():
     with open('../README.md', 'w') as f:
         f.write(updated_readme)
     print("after-run")
+
+if __name__ == "__main__":
+    update_readme()
