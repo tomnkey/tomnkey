@@ -17,6 +17,8 @@ jobs:
         python-version: '3.x'
 
     - name: Run script
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         pip install requests
         python scripts/update_readme.py
