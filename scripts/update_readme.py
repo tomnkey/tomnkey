@@ -8,6 +8,7 @@ def get_following_activity():
     # 获取关注用户的公开活动
     events = []
     users = requests.get("https://api.github.com/users/tomnkey/following", headers=HEADERS).json()
+    print(f"Found {len(users)} users")
     for user in users[:5]:  # 取前5个关注用户
         events += requests.get(f"https://api.github.com/users/{user['login']}/events/public", headers=HEADERS).json()
     return sorted(events, key=lambda x: x['created_at'], reverse=True)[:10]
