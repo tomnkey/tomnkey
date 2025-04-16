@@ -1,5 +1,6 @@
 import requests
 from datetime import datetime
+import os
 
 HEADERS = {"Authorization": f"token {os.environ['GH_TOKEN']}"}
 
