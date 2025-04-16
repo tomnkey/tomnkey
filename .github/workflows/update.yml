@@ -18,15 +18,15 @@ jobs:
 
     - name: Run script
       env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        GH_TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
         pip install requests
         python scripts/update_readme.py
     
     - name: Commit changes
       run: |
-        git config --global user.name "Guannan"
-        git config --global user.email "happyguannan@gmail.com"
+        git config --global user.name "tomnkey"
+        git config --global user.email "tom@nkey.com"
         git add README.md
         git commit -m "Update dynamic content"
         git push
