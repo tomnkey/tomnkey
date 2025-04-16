@@ -18,7 +18,7 @@ jobs:
 
     - name: Run script
       env:
-        GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         pip install requests
         python scripts/update_readme.py
