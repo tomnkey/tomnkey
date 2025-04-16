@@ -29,12 +29,12 @@ def update_readme():
         new_content += f"- [{star['name']}] 最后更新：{datetime.strptime(star['pushed_at'], '%Y-%m-%dT%H:%M:%SZ').strftime('%Y-%m-%d %H:%M')}\n"
 
     # 替换README中的动态区块
-    with open('../README.md', 'r') as f:
+    with open('README.md', 'r') as f:
         readme = f.read()
 
     updated_readme = readme.replace('<!--DYNAMIC-->', f'<!--DYNAMIC-->\n{new_content}')
 
-    with open('../README.md', 'w') as f:
+    with open('README.md', 'w') as f:
         f.write(updated_readme)
     print("after-run")
 
