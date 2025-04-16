@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [kubeshark] 最后更新：2025-04-16 17:28
+- [readest] 最后更新：2025-04-16 15:36
+- [survey-creator] 最后更新：2025-04-16 13:45
+- [grpc-gateway] 最后更新：2025-04-16 07:29
+- [catapult] 最后更新：2025-04-16 05:17
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [kubeshark] 最后更新：2025-04-16 16:43
 - [readest] 最后更新：2025-04-16 15:36
 - [survey-creator] 最后更新：2025-04-16 13:45
