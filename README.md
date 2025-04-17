@@ -87,6 +87,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/doc-extractor
 
 ## 🌟 Star动态
+- [go-zero] 最后更新：2025-04-17 15:07
+- [survey-creator] 最后更新：2025-04-17 14:58
+- [readest] 最后更新：2025-04-17 09:17
+- [grpc-gateway] 最后更新：2025-04-17 07:15
+- [awesome-go] 最后更新：2025-04-17 03:18
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/resumei
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/doc-extractor
+- [PullRequestEvent] alex - alex/doc-extractor
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-04-17 14:58
 - [go-zero] 最后更新：2025-04-17 14:39
 - [readest] 最后更新：2025-04-17 09:17
