@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [grpc-gateway] 最后更新：2025-04-18 01:43
+- [we-drawing] 最后更新：2025-04-17 23:01
+- [catapult] 最后更新：2025-04-17 21:35
+- [go-zero] 最后更新：2025-04-17 15:07
+- [survey-creator] 最后更新：2025-04-17 14:58
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/Signal-Calling-Service
+- [IssueCommentEvent] alex - signalapp/Signal-Calling-Service
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-04-17 23:01
 - [grpc-gateway] 最后更新：2025-04-17 22:40
 - [catapult] 最后更新：2025-04-17 21:35
