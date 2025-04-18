@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [WatchEvent] jkp - andrewyng/aisuite
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-04-18 08:17
+- [gofr] 最后更新：2025-04-18 06:42
+- [gin-vue-admin] 最后更新：2025-04-18 03:44
+- [grpc-gateway] 最后更新：2025-04-18 01:43
+- [we-drawing] 最后更新：2025-04-17 23:01
+
+## 🚀 关注动态
 - [WatchEvent] jkp - andrewyng/aisuite
 - [IssueCommentEvent] alex - pyca/pyopenssl
 - [PushEvent] alex - alex/cryptography
