@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-04-19 16:00
+- [tmuxp] 最后更新：2025-04-19 10:40
+- [survey-creator] 最后更新：2025-04-19 09:30
+- [grpc-gateway] 最后更新：2025-04-18 23:17
+- [we-drawing] 最后更新：2025-04-18 23:01
+
+## 🚀 关注动态
+- [IssuesEvent] alex - odota/core
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - huggingface/candle
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-04-19 15:02
 - [tmuxp] 最后更新：2025-04-19 10:40
 - [survey-creator] 最后更新：2025-04-19 09:30
