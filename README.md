@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/pyopenssl
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-04-20 03:39
+- [we-drawing] 最后更新：2025-04-19 23:01
+- [servers] 最后更新：2025-04-19 21:09
+- [tmuxp] 最后更新：2025-04-19 10:40
+- [survey-creator] 最后更新：2025-04-19 09:30
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - odota/core
+- [IssuesEvent] alex - odota/core
+- [IssuesEvent] alex - odota/core
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-04-20 03:16
 - [we-drawing] 最后更新：2025-04-19 23:01
 - [servers] 最后更新：2025-04-19 21:09
