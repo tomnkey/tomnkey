@@ -75,6 +75,25 @@ Here are some ideas to get you started:
 - [survey-creator] 最后更新：2025-04-19 09:30
 
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - odota/core
+- [IssuesEvent] alex - odota/core
+- [IssuesEvent] alex - odota/core
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-04-19 23:01
+- [servers] 最后更新：2025-04-19 21:09
+- [readest] 最后更新：2025-04-19 16:08
+- [tmuxp] 最后更新：2025-04-19 10:40
+- [survey-creator] 最后更新：2025-04-19 09:30
+
+## 🚀 关注动态
 - [IssuesEvent] alex - odota/core
 - [PullRequestEvent] alex - alex/rust-asn1
 - [CreateEvent] alex - alex/rust-asn1
