@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-04-21 05:23
+- [go-zero] 最后更新：2025-04-21 04:18
+- [gin-vue-admin] 最后更新：2025-04-21 03:51
+- [we-drawing] 最后更新：2025-04-20 23:02
+- [readest] 最后更新：2025-04-20 04:30
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - odota/core
+- [IssuesEvent] alex - odota/core
+- [IssuesEvent] alex - odota/core
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [go-zero] 最后更新：2025-04-21 04:18
 - [gin-vue-admin] 最后更新：2025-04-21 03:51
 - [we-drawing] 最后更新：2025-04-20 23:02
