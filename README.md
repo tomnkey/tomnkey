@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-04-21 10:30
+- [gin-vue-admin] 最后更新：2025-04-21 10:20
+- [primevue] 最后更新：2025-04-21 08:14
+- [grpc-gateway] 最后更新：2025-04-21 07:15
+- [survey-creator] 最后更新：2025-04-21 06:48
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/rust-asn1
 - [PullRequestEvent] alex - alex/rust-asn1
 - [PullRequestReviewEvent] alex - alex/rust-asn1
