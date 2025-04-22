@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-04-22 12:52
+- [servers] 最后更新：2025-04-22 12:37
+- [survey-creator] 最后更新：2025-04-22 12:08
+- [grpc-gateway] 最后更新：2025-04-22 10:37
+- [gofr] 最后更新：2025-04-22 09:36
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
