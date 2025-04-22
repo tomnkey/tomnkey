@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-04-22 18:29
+- [readest] 最后更新：2025-04-22 17:01
+- [grpc-gateway] 最后更新：2025-04-22 16:54
+- [servers] 最后更新：2025-04-22 14:43
+- [survey-creator] 最后更新：2025-04-22 14:18
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-04-22 17:01
 - [grpc-gateway] 最后更新：2025-04-22 16:54
 - [servers] 最后更新：2025-04-22 14:43
