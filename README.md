@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-04-23 12:01
+- [survey-creator] 最后更新：2025-04-23 10:15
+- [django-rest-framework] 最后更新：2025-04-23 09:03
+- [gofr] 最后更新：2025-04-23 07:16
+- [grpc-gateway] 最后更新：2025-04-23 05:44
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - dependabot/dependabot-core
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-04-23 10:15
 - [django-rest-framework] 最后更新：2025-04-23 09:03
 - [gofr] 最后更新：2025-04-23 07:16
