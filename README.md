@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [WatchEvent] bryanveloso - nari-labs/dia
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - dependabot/dependabot-core
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-04-23 21:49
+- [servers] 最后更新：2025-04-23 20:25
+- [grpc-gateway] 最后更新：2025-04-23 19:45
+- [go-zero] 最后更新：2025-04-23 19:13
+- [kubeshark] 最后更新：2025-04-23 17:39
+
+## 🚀 关注动态
 - [WatchEvent] bryanveloso - nari-labs/dia
 - [DeleteEvent] alex - alex/cryptography
 - [IssueCommentEvent] alex - dependabot/dependabot-core
