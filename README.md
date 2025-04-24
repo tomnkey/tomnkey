@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [status-mobile] 最后更新：2025-04-24 18:09
+- [readest] 最后更新：2025-04-24 17:53
+- [servers] 最后更新：2025-04-24 17:17
+- [status-desktop] 最后更新：2025-04-24 17:02
+- [go-ethereum] 最后更新：2025-04-24 16:19
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
 - [DeleteEvent] alex - alex/csv-sql
