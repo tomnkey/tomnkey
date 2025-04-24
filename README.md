@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [WatchEvent] bryanveloso - upstash/context7
+- [IssueCommentEvent] alex - pyca/cryptography
+- [WatchEvent] bryanveloso - nari-labs/dia
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - dependabot/dependabot-core
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gin-vue-admin] 最后更新：2025-04-24 13:47
+- [gofr] 最后更新：2025-04-24 13:39
+- [status-desktop] 最后更新：2025-04-24 13:37
+- [status-go] 最后更新：2025-04-24 13:06
+- [status-mobile] 最后更新：2025-04-24 12:48
+
+## 🚀 关注动态
 - [WatchEvent] bryanveloso - upstash/context7
 - [IssueCommentEvent] alex - pyca/cryptography
 - [WatchEvent] bryanveloso - nari-labs/dia
