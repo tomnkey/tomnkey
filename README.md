@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-04-25 19:01
+- [survey-creator] 最后更新：2025-04-25 18:33
+- [servers] 最后更新：2025-04-25 17:24
+- [status-desktop] 最后更新：2025-04-25 17:18
+- [readest] 最后更新：2025-04-25 12:42
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/infra
 - [PushEvent] alex - pyca/infra
 - [PullRequestEvent] alex - pyca/infra
