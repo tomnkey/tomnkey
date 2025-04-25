@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-04-25 14:00
+- [servers] 最后更新：2025-04-25 13:36
+- [readest] 最后更新：2025-04-25 12:42
+- [go-ethereum] 最后更新：2025-04-25 11:27
+- [status-mobile] 最后更新：2025-04-25 10:40
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/tycho
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-04-25 12:42
 - [status-desktop] 最后更新：2025-04-25 12:27
 - [go-ethereum] 最后更新：2025-04-25 11:27
