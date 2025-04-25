@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [status-desktop] 最后更新：2025-04-25 17:18
 
 ## 🚀 关注动态
+- [DeleteEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+
+## 🌟 Star动态
+- [migrate] 最后更新：2025-04-25 20:14
+- [sourcebot] 最后更新：2025-04-25 19:01
+- [survey-creator] 最后更新：2025-04-25 18:33
+- [servers] 最后更新：2025-04-25 17:24
+- [status-desktop] 最后更新：2025-04-25 17:18
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - Homebrew/brew-pip-audit
 - [CreateEvent] alex - Homebrew/brew-pip-audit
 - [DeleteEvent] alex - pyca/infra
