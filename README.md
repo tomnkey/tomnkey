@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - Homebrew/brew-pip-audit
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-04-25 23:02
+- [migrate] 最后更新：2025-04-25 20:14
+- [sourcebot] 最后更新：2025-04-25 19:01
+- [survey-creator] 最后更新：2025-04-25 18:33
+- [servers] 最后更新：2025-04-25 17:24
+
+## 🚀 关注动态
+- [DeleteEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+
+## 🌟 Star动态
 - [migrate] 最后更新：2025-04-25 20:14
 - [sourcebot] 最后更新：2025-04-25 19:01
 - [survey-creator] 最后更新：2025-04-25 18:33
