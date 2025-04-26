@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [DeleteEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [CreateEvent] alex - certifi/python-certifi
+- [CreateEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-04-26 15:37
+- [django-rest-framework] 最后更新：2025-04-26 14:58
+- [servers] 最后更新：2025-04-26 09:22
+- [we-drawing] 最后更新：2025-04-25 23:02
+- [migrate] 最后更新：2025-04-25 20:14
+
+## 🚀 关注动态
 - [DeleteEvent] alex - certifi/python-certifi
 - [PushEvent] alex - certifi/python-certifi
 - [PullRequestEvent] alex - certifi/python-certifi
