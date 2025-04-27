@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] alex - alex/cryptography
+- [DeleteEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [CreateEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - ctz/graviola
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-04-27 19:34
+- [status-desktop] 最后更新：2025-04-27 14:25
+- [status-go] 最后更新：2025-04-27 14:17
+- [servers] 最后更新：2025-04-27 13:54
+- [django-rest-framework] 最后更新：2025-04-27 13:21
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/cryptography
 - [DeleteEvent] alex - certifi/python-certifi
 - [PushEvent] alex - certifi/python-certifi
