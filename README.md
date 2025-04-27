@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - certifi/python-certifi
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-04-27 06:01
+- [MoneyPrinterTurbo] 最后更新：2025-04-27 05:35
+- [sourcebot] 最后更新：2025-04-26 23:08
+- [we-drawing] 最后更新：2025-04-26 23:01
+- [readest] 最后更新：2025-04-26 15:37
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-04-26 23:08
 - [we-drawing] 最后更新：2025-04-26 23:01
 - [servers] 最后更新：2025-04-26 20:00
