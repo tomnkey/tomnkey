@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-04-27 14:25
+- [status-go] 最后更新：2025-04-27 14:17
+- [servers] 最后更新：2025-04-27 13:54
+- [django-rest-framework] 最后更新：2025-04-27 13:21
+- [MoneyPrinterTurbo] 最后更新：2025-04-27 05:35
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-04-27 13:54
 - [django-rest-framework] 最后更新：2025-04-27 13:21
 - [status-desktop] 最后更新：2025-04-27 12:05
