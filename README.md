@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-04-28 20:14
+- [servers] 最后更新：2025-04-28 20:13
+- [sourcebot] 最后更新：2025-04-28 19:40
+- [kubeshark] 最后更新：2025-04-28 16:29
+- [readest] 最后更新：2025-04-28 16:25
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - actions/setup-python
+- [PullRequestEvent] gravityblast - vacp2p/staking-demo-app
+- [CreateEvent] gravityblast - vacp2p/staking-demo-app
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-04-28 19:40
 - [kubeshark] 最后更新：2025-04-28 16:29
 - [readest] 最后更新：2025-04-28 16:25
