@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [status-go] 最后更新：2025-04-27 14:17
 
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [django-rest-framework] 最后更新：2025-04-28 04:08
+- [we-drawing] 最后更新：2025-04-27 23:01
+- [survey-creator] 最后更新：2025-04-27 19:34
+- [status-desktop] 最后更新：2025-04-27 14:25
+- [status-go] 最后更新：2025-04-27 14:17
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/cryptography
