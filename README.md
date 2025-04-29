@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PullRequestEvent] gravityblast - vacp2p/staking-demo-app
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-04-29 19:14
+- [readest] 最后更新：2025-04-29 18:02
+- [survey-creator] 最后更新：2025-04-29 14:37
+- [gin-vue-admin] 最后更新：2025-04-29 14:33
+- [primevue] 最后更新：2025-04-29 14:15
+
+## 🚀 关注动态
 - [PullRequestEvent] gravityblast - vacp2p/staking-demo-app
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
