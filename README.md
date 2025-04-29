@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-04-29 05:39
+- [gin-vue-admin] 最后更新：2025-04-29 05:21
+- [survey-creator] 最后更新：2025-04-29 04:39
+- [v2rayA] 最后更新：2025-04-29 02:14
+- [we-drawing] 最后更新：2025-04-28 23:01
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [PushEvent] alex - alex/queries-rs
