@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-04-30 08:56
+- [go-ethereum] 最后更新：2025-04-30 08:52
+- [primevue] 最后更新：2025-04-30 07:57
+- [readest] 最后更新：2025-04-30 07:36
+- [status-desktop] 最后更新：2025-04-30 07:30
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PullRequestEvent] gravityblast - vacp2p/staking-demo-app
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [primevue] 最后更新：2025-04-30 07:57
 - [status-mobile] 最后更新：2025-04-30 07:50
 - [readest] 最后更新：2025-04-30 07:36
