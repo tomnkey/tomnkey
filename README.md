@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-05-01 23:01
+- [self-hosted] 最后更新：2025-05-01 17:18
+- [servers] 最后更新：2025-05-01 16:05
+- [status-desktop] 最后更新：2025-05-01 15:55
+- [django-rest-framework] 最后更新：2025-05-01 12:44
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-05-01 17:18
 - [servers] 最后更新：2025-05-01 16:05
 - [status-desktop] 最后更新：2025-05-01 15:55
