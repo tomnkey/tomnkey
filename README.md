@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-04-30 23:01
+- [sourcebot] 最后更新：2025-04-30 22:43
+- [survey-creator] 最后更新：2025-04-30 18:21
+- [status-desktop] 最后更新：2025-04-30 16:40
+- [readest] 最后更新：2025-04-30 16:01
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-04-30 21:25
 - [survey-creator] 最后更新：2025-04-30 18:21
 - [status-desktop] 最后更新：2025-04-30 16:40
