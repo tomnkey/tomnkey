@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-05-02 13:19
+- [readest] 最后更新：2025-05-02 13:08
+- [gofr] 最后更新：2025-05-02 12:30
+- [primevue] 最后更新：2025-05-02 11:26
+- [self-hosted] 最后更新：2025-05-02 11:19
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - C2SP/wycheproof
+- [WatchEvent] bryanveloso - greensock/GSAP
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-05-02 13:08
 - [gofr] 最后更新：2025-05-02 12:30
 - [primevue] 最后更新：2025-05-02 11:26
