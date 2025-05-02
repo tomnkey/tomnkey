@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [primevue] 最后更新：2025-05-02 09:48
+- [readest] 最后更新：2025-05-02 09:15
+- [kubeshark] 最后更新：2025-05-02 08:20
+- [survey-creator] 最后更新：2025-05-02 08:19
+- [sourcebot] 最后更新：2025-05-02 03:48
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - greensock/GSAP
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [kubeshark] 最后更新：2025-05-02 08:20
 - [survey-creator] 最后更新：2025-05-02 08:19
 - [primevue] 最后更新：2025-05-02 06:42
