@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-05-03 15:33
+- [readest] 最后更新：2025-05-03 10:07
+- [sourcebot] 最后更新：2025-05-03 06:56
+- [we-drawing] 最后更新：2025-05-02 23:01
+- [status-mobile] 最后更新：2025-05-02 17:07
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssuesEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-05-03 10:07
 - [sourcebot] 最后更新：2025-05-03 06:56
 - [we-drawing] 最后更新：2025-05-02 23:01
