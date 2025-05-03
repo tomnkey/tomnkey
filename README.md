@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-03 06:56
+- [we-drawing] 最后更新：2025-05-02 23:01
+- [servers] 最后更新：2025-05-02 18:16
+- [status-mobile] 最后更新：2025-05-02 17:07
+- [go-ethereum] 最后更新：2025-05-02 15:50
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-05-02 23:57
 - [we-drawing] 最后更新：2025-05-02 23:01
 - [servers] 最后更新：2025-05-02 18:16
