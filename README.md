@@ -113,6 +113,25 @@ Here are some ideas to get you started:
 - [sourcebot] 最后更新：2025-05-03 18:34
 
 ## 🚀 关注动态
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [WatchEvent] bryanveloso - cloudflare/mcp-server-cloudflare
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-05-04 12:40
+- [readest] 最后更新：2025-05-04 11:46
+- [status-mobile] 最后更新：2025-05-04 03:58
+- [we-drawing] 最后更新：2025-05-03 23:01
+- [sourcebot] 最后更新：2025-05-03 18:34
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - PyO3/pyo3
