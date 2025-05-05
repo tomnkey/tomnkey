@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-05-05 10:42
+- [self-hosted] 最后更新：2025-05-05 10:19
+- [survey-creator] 最后更新：2025-05-05 10:03
+- [servers] 最后更新：2025-05-05 10:00
+- [readest] 最后更新：2025-05-05 09:58
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-05-05 10:00
 - [readest] 最后更新：2025-05-05 09:58
 - [status-go] 最后更新：2025-05-05 09:01
