@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-05 07:58
+- [status-go] 最后更新：2025-05-05 07:58
+- [survey-creator] 最后更新：2025-05-05 07:32
+- [primevue] 最后更新：2025-05-05 07:29
+- [status-mobile] 最后更新：2025-05-05 06:54
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/line-counter
 - [PushEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
