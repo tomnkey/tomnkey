@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-05-05 04:01
+- [go-ethereum] 最后更新：2025-05-05 02:09
+- [we-drawing] 最后更新：2025-05-04 23:01
+- [readest] 最后更新：2025-05-04 11:46
+- [status-mobile] 最后更新：2025-05-04 03:58
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2025-05-05 02:09
 - [we-drawing] 最后更新：2025-05-04 23:01
 - [readest] 最后更新：2025-05-04 11:46
