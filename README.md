@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/maturin
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-05-06 03:59
+- [go-ethereum] 最后更新：2025-05-06 03:32
+- [sourcebot] 最后更新：2025-05-06 00:06
+- [we-drawing] 最后更新：2025-05-05 23:01
+- [status-desktop] 最后更新：2025-05-05 21:25
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
