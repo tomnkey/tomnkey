@@ -24,6 +24,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
 - [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
 - [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-mobile] 最后更新：2025-05-08 21:29
+- [status-desktop] 最后更新：2025-05-08 21:20
+- [status-go] 最后更新：2025-05-08 19:26
+- [sourcebot] 最后更新：2025-05-08 16:54
+- [readest] 最后更新：2025-05-08 16:21
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
 - [DeleteEvent] alex - alex/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssuesEvent] alex - pyca/cryptography
