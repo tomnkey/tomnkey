@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-05-08 06:57
+- [status-desktop] 最后更新：2025-05-08 06:55
+- [gofr] 最后更新：2025-05-08 06:50
+- [gin-vue-admin] 最后更新：2025-05-08 05:55
+- [sourcebot] 最后更新：2025-05-08 04:31
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [gin-vue-admin] 最后更新：2025-05-08 05:55
 - [sourcebot] 最后更新：2025-05-08 04:31
 - [status-go] 最后更新：2025-05-08 02:38
