@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/pynacl
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-09 19:15
+- [status-desktop] 最后更新：2025-05-09 17:56
+- [status-go] 最后更新：2025-05-09 16:46
+- [status-mobile] 最后更新：2025-05-09 16:00
+- [servers] 最后更新：2025-05-09 14:17
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-05-09 18:52
 - [status-desktop] 最后更新：2025-05-09 17:56
 - [status-go] 最后更新：2025-05-09 16:46
