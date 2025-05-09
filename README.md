@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/pynacl
 
 ## 🌟 Star动态
+- [MoneyPrinterTurbo] 最后更新：2025-05-09 12:57
+- [readest] 最后更新：2025-05-09 12:40
+- [status-mobile] 最后更新：2025-05-09 12:21
+- [primevue] 最后更新：2025-05-09 12:15
+- [status-desktop] 最后更新：2025-05-09 11:45
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
 - [primevue] 最后更新：2025-05-09 11:54
 - [status-desktop] 最后更新：2025-05-09 11:45
 - [status-go] 最后更新：2025-05-09 11:17
