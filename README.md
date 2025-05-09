@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
 
 ## 🌟 Star动态
+- [gin-vue-admin] 最后更新：2025-05-09 07:02
+- [gofr] 最后更新：2025-05-09 06:52
+- [status-desktop] 最后更新：2025-05-09 06:27
+- [go-ethereum] 最后更新：2025-05-09 05:52
+- [MoneyPrinterTurbo] 最后更新：2025-05-09 02:07
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [DeleteEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-05-09 06:02
 - [go-ethereum] 最后更新：2025-05-09 05:52
 - [MoneyPrinterTurbo] 最后更新：2025-05-09 02:07
