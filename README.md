@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [DeleteEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-09 01:30
+- [sourcebot] 最后更新：2025-05-09 00:31
+- [we-drawing] 最后更新：2025-05-08 23:02
+- [status-mobile] 最后更新：2025-05-08 21:29
+- [status-go] 最后更新：2025-05-08 19:26
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
 - [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
 - [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
 - [DeleteEvent] alex - pyca/cryptography
