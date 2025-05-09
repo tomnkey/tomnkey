@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-09 10:59
+- [go-ethereum] 最后更新：2025-05-09 10:56
+- [gofr] 最后更新：2025-05-09 10:42
+- [servers] 最后更新：2025-05-09 10:14
+- [status-mobile] 最后更新：2025-05-09 09:27
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/pynacl
 - [PullRequestEvent] alex - pyca/pynacl
 - [PushEvent] alex - pyca/pynacl
