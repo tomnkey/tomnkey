@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-05-09 23:01
 
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewCommentEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [IssueCommentEvent] alex - actions/partner-runner-images
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [MoneyPrinterTurbo] 最后更新：2025-05-10 09:22
+- [readest] 最后更新：2025-05-10 06:27
+- [sourcebot] 最后更新：2025-05-10 01:03
+- [go-ethereum] 最后更新：2025-05-10 00:27
+- [we-drawing] 最后更新：2025-05-09 23:01
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - C2SP/x509-limbo
 - [PushEvent] alex - C2SP/x509-limbo
 - [IssueCommentEvent] alex - C2SP/x509-limbo
