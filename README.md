@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-10 19:29
+- [status-mobile] 最后更新：2025-05-10 18:27
+- [readest] 最后更新：2025-05-10 16:28
+- [MoneyPrinterTurbo] 最后更新：2025-05-10 09:22
+- [go-ethereum] 最后更新：2025-05-10 00:27
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewCommentEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - C2SP/x509-limbo
+- [IssueCommentEvent] alex - actions/partner-runner-images
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-05-10 18:27
 - [sourcebot] 最后更新：2025-05-10 17:07
 - [readest] 最后更新：2025-05-10 16:28
