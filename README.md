@@ -56,6 +56,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-05-09 23:01
 
 ## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-05-10 06:27
+- [MoneyPrinterTurbo] 最后更新：2025-05-10 06:19
+- [sourcebot] 最后更新：2025-05-10 01:03
+- [go-ethereum] 最后更新：2025-05-10 00:27
+- [we-drawing] 最后更新：2025-05-09 23:01
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
