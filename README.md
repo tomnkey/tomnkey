@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [CommitCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [WatchEvent] bryanveloso - pypolestar/polestar_api
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+
+## 🌟 Star动态
+- [MoneyPrinterTurbo] 最后更新：2025-05-11 04:48
+- [we-drawing] 最后更新：2025-05-10 23:01
+- [status-desktop] 最后更新：2025-05-10 21:22
+- [sourcebot] 最后更新：2025-05-10 19:29
+- [status-mobile] 最后更新：2025-05-10 18:27
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
