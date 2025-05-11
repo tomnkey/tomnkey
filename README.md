@@ -100,6 +100,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [WatchEvent] bryanveloso - pypolestar/polestar_api
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewCommentEvent] alex - C2SP/x509-limbo
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-05-10 23:01
+- [status-desktop] 最后更新：2025-05-10 21:22
+- [sourcebot] 最后更新：2025-05-10 19:29
+- [status-mobile] 最后更新：2025-05-10 18:27
+- [readest] 最后更新：2025-05-10 16:28
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - C2SP/x509-limbo
 - [PullRequestReviewCommentEvent] alex - C2SP/x509-limbo
 - [PushEvent] alex - C2SP/x509-limbo
