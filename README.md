@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/maturin
+- [PullRequestEvent] alex - PyO3/maturin
+- [CreateEvent] alex - alex/maturin
+- [ForkEvent] alex - PyO3/maturin
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-12 20:25
+- [status-go] 最后更新：2025-05-12 20:17
+- [status-desktop] 最后更新：2025-05-12 20:07
+- [go-ethereum] 最后更新：2025-05-12 18:55
+- [status-mobile] 最后更新：2025-05-12 18:43
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
