@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssuesEvent] alex - zed-industries/zed
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gin-vue-admin] 最后更新：2025-05-12 03:26
+- [status-go] 最后更新：2025-05-12 03:03
+- [servers] 最后更新：2025-05-12 00:28
+- [we-drawing] 最后更新：2025-05-11 23:01
+- [sourcebot] 最后更新：2025-05-11 22:10
+
+## 🚀 关注动态
 - [IssuesEvent] alex - zed-industries/zed
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [IssueCommentEvent] alex - pyca/cryptography
