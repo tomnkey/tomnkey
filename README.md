@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-05-12 16:00
+- [status-desktop] 最后更新：2025-05-12 15:54
+- [status-go] 最后更新：2025-05-12 15:36
+- [status-mobile] 最后更新：2025-05-12 14:40
+- [survey-creator] 最后更新：2025-05-12 12:53
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssuesEvent] alex - zed-industries/zed
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-05-12 14:40
 - [status-desktop] 最后更新：2025-05-12 14:32
 - [status-go] 最后更新：2025-05-12 13:52
