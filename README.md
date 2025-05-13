@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-13 14:54
+- [servers] 最后更新：2025-05-13 14:48
+- [status-mobile] 最后更新：2025-05-13 14:45
+- [django-rest-framework] 最后更新：2025-05-13 14:10
+- [gin-vue-admin] 最后更新：2025-05-13 13:58
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-05-13 14:02
 - [status-desktop] 最后更新：2025-05-13 14:01
 - [gin-vue-admin] 最后更新：2025-05-13 13:58
