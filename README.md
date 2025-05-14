@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-14 18:14
+- [status-go] 最后更新：2025-05-14 17:13
+- [status-mobile] 最后更新：2025-05-14 17:06
+- [kubeshark] 最后更新：2025-05-14 15:27
+- [go-ethereum] 最后更新：2025-05-14 14:50
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - PyO3/pyo3
 - [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
 - [DeleteEvent] alex - alex/cryptography
