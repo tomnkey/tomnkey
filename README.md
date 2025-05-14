@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [CreateEvent] alex - alex/pyo3
+- [IssuesEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-05-14 19:39
+- [status-desktop] 最后更新：2025-05-14 19:17
+- [status-go] 最后更新：2025-05-14 17:13
+- [status-mobile] 最后更新：2025-05-14 17:06
+- [kubeshark] 最后更新：2025-05-14 15:27
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
