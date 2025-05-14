@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - PyO3/pyo3
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-05-14 09:02
+- [survey-creator] 最后更新：2025-05-14 08:39
+- [status-desktop] 最后更新：2025-05-14 08:34
+- [gin-vue-admin] 最后更新：2025-05-14 08:27
+- [servers] 最后更新：2025-05-14 07:57
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-05-14 07:58
 - [servers] 最后更新：2025-05-14 07:57
 - [status-desktop] 最后更新：2025-05-14 07:50
