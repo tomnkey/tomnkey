@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-05-15 11:02
+- [gin-vue-admin] 最后更新：2025-05-15 10:44
+- [status-go] 最后更新：2025-05-15 10:37
+- [status-desktop] 最后更新：2025-05-15 09:45
+- [survey-creator] 最后更新：2025-05-15 09:19
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/bcrypt
 - [PullRequestEvent] alex - pyca/bcrypt
 - [PushEvent] alex - pyca/bcrypt
