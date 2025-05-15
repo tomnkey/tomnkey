@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/pyo3
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-05-15 07:45
+- [status-go] 最后更新：2025-05-15 07:40
+- [go-ethereum] 最后更新：2025-05-15 07:32
+- [survey-creator] 最后更新：2025-05-15 07:12
+- [readest] 最后更新：2025-05-15 03:33
+
+## 🚀 关注动态
+- [CreateEvent] jkp - jkp/bitcoin-node
+- [CreateEvent] jkp - jkp/bitcoin-node
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-05-15 06:06
 - [readest] 最后更新：2025-05-15 03:33
 - [sourcebot] 最后更新：2025-05-15 01:34
