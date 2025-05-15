@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [CreateEvent] jkp - jkp/bitcoin-node
+- [CreateEvent] jkp - jkp/bitcoin-node
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-05-15 09:01
+- [status-mobile] 最后更新：2025-05-15 08:48
+- [go-ethereum] 最后更新：2025-05-15 07:32
+- [survey-creator] 最后更新：2025-05-15 07:12
+- [readest] 最后更新：2025-05-15 03:33
+
+## 🚀 关注动态
 - [CreateEvent] jkp - jkp/bitcoin-node
 - [CreateEvent] jkp - jkp/bitcoin-node
 - [PushEvent] bryanveloso - bryanveloso/multiverse
