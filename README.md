@@ -26,6 +26,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
+- [CreateEvent] jkp - reallm-assist/google-infrastructure
+- [CreateEvent] jkp - reallm-assist/google-infrastructure
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-15 21:44
+- [status-desktop] 最后更新：2025-05-15 21:22
+- [status-mobile] 最后更新：2025-05-15 21:04
+- [status-go] 最后更新：2025-05-15 21:02
+- [go-ethereum] 最后更新：2025-05-15 20:54
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [IssueCommentEvent] alex - alex/rust-asn1
 
