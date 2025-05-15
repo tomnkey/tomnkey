@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [CreateEvent] jkp - jkp/bitcoin-node
+- [CreateEvent] jkp - jkp/bitcoin-node
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+
+## 🌟 Star动态
+- [status-mobile] 最后更新：2025-05-15 06:06
+- [readest] 最后更新：2025-05-15 03:33
+- [sourcebot] 最后更新：2025-05-15 01:34
+- [we-drawing] 最后更新：2025-05-14 23:01
+- [status-go] 最后更新：2025-05-14 22:18
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
