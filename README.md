@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-05-16 07:28
+- [readest] 最后更新：2025-05-16 06:23
+- [status-go] 最后更新：2025-05-16 06:23
+- [MoneyPrinterTurbo] 最后更新：2025-05-16 03:03
+- [we-drawing] 最后更新：2025-05-15 23:01
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/communities-contracts
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] gravityblast - status-im/communities-contracts
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-05-16 06:47
 - [readest] 最后更新：2025-05-16 06:23
 - [status-go] 最后更新：2025-05-16 06:23
