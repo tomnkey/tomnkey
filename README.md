@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-05-16 10:54
+- [servers] 最后更新：2025-05-16 10:33
+- [go-ethereum] 最后更新：2025-05-16 10:29
+- [status-go] 最后更新：2025-05-16 10:13
+- [self-hosted] 最后更新：2025-05-16 09:53
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/communities-contracts
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] gravityblast - status-im/communities-contracts
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-05-16 09:53
 - [status-mobile] 最后更新：2025-05-16 09:43
 - [status-desktop] 最后更新：2025-05-16 09:34
