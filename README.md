@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-05-17 15:50
+- [status-desktop] 最后更新：2025-05-17 15:13
+- [readest] 最后更新：2025-05-17 15:02
+- [status-go] 最后更新：2025-05-17 14:50
+- [gin-vue-admin] 最后更新：2025-05-17 07:44
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [CreateEvent] bryanveloso - omnypro/perpetual
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-05-17 15:02
 - [status-desktop] 最后更新：2025-05-17 15:01
 - [status-go] 最后更新：2025-05-17 14:50
