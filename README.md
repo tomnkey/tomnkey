@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnypro/perpetual
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-05-17 20:57
+- [servers] 最后更新：2025-05-17 19:45
+- [status-desktop] 最后更新：2025-05-17 16:04
+- [readest] 最后更新：2025-05-17 15:02
+- [gin-vue-admin] 最后更新：2025-05-17 07:44
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - pyca/cryptography
