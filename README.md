@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-05-17 19:45
+- [status-desktop] 最后更新：2025-05-17 16:04
+- [readest] 最后更新：2025-05-17 15:02
+- [status-go] 最后更新：2025-05-17 14:50
+- [gin-vue-admin] 最后更新：2025-05-17 07:44
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-05-17 18:21
 - [status-desktop] 最后更新：2025-05-17 16:04
 - [readest] 最后更新：2025-05-17 15:02
