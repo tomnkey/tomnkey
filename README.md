@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-05-20 06:45
+- [status-desktop] 最后更新：2025-05-20 06:43
+- [status-mobile] 最后更新：2025-05-20 06:18
+- [status-go] 最后更新：2025-05-20 06:05
+- [gofr] 最后更新：2025-05-20 05:19
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
