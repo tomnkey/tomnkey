@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-05-20 14:02
+- [go-ethereum] 最后更新：2025-05-20 13:38
+- [readest] 最后更新：2025-05-20 13:11
+- [status-mobile] 最后更新：2025-05-20 12:58
+- [status-desktop] 最后更新：2025-05-20 12:17
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - omnypro/perpetual
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-05-20 13:11
 - [status-mobile] 最后更新：2025-05-20 12:58
 - [go-ethereum] 最后更新：2025-05-20 12:57
