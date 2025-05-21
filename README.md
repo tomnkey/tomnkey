@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [IssueCommentEvent] alex - zed-industries/zed
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-05-21 14:00
+- [status-mobile] 最后更新：2025-05-21 13:50
+- [survey-creator] 最后更新：2025-05-21 13:05
+- [servers] 最后更新：2025-05-21 13:00
+- [status-desktop] 最后更新：2025-05-21 12:51
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - zed-industries/zed
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [PushEvent] alex - pyca/cryptography
