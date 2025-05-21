@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - omnypro/perpetual
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-21 06:34
+- [status-desktop] 最后更新：2025-05-21 06:30
+- [status-go] 最后更新：2025-05-21 06:21
+- [gofr] 最后更新：2025-05-21 05:20
+- [servers] 最后更新：2025-05-21 04:20
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - omnypro/perpetual
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-05-21 05:37
 - [gofr] 最后更新：2025-05-21 05:20
 - [servers] 最后更新：2025-05-21 04:20
