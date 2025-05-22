@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-05-22 05:03
+- [servers] 最后更新：2025-05-22 04:20
+- [sourcebot] 最后更新：2025-05-22 03:40
+- [we-drawing] 最后更新：2025-05-21 23:02
+- [status-desktop] 最后更新：2025-05-21 21:55
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/queries-rs
