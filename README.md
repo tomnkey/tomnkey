@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-05-24 10:54
+- [readest] 最后更新：2025-05-24 05:14
+- [sourcebot] 最后更新：2025-05-24 02:44
+- [we-drawing] 最后更新：2025-05-23 23:01
+- [status-go] 最后更新：2025-05-23 19:44
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-lang/rust
+- [DeleteEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-05-24 05:14
 - [sourcebot] 最后更新：2025-05-24 02:44
 - [we-drawing] 最后更新：2025-05-23 23:01
