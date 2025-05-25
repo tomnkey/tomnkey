@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [django-rest-framework] 最后更新：2025-05-25 10:07
+- [readest] 最后更新：2025-05-25 07:32
+- [sourcebot] 最后更新：2025-05-25 02:06
+- [we-drawing] 最后更新：2025-05-24 23:01
+- [status-go] 最后更新：2025-05-24 14:16
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-05-25 07:32
 - [sourcebot] 最后更新：2025-05-25 02:06
 - [we-drawing] 最后更新：2025-05-24 23:01
