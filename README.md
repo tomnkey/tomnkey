@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-05-26 21:58
+- [servers] 最后更新：2025-05-26 21:39
+- [status-desktop] 最后更新：2025-05-26 21:13
+- [sourcebot] 最后更新：2025-05-26 20:41
+- [status-go] 最后更新：2025-05-26 20:13
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
 - [PushEvent] alex - alex/queries-rs
