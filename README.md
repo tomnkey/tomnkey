@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.com
+- [PushEvent] bryanveloso - bryanveloso/rathena
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - libressl/portable
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [CreateEvent] brosner - brosner/teufa
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-05-25 23:01
+- [sourcebot] 最后更新：2025-05-25 20:33
+- [django-rest-framework] 最后更新：2025-05-25 10:07
+- [readest] 最后更新：2025-05-25 07:32
+- [status-go] 最后更新：2025-05-24 14:16
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - libressl/portable
 - [IssueCommentEvent] alex - Homebrew/homebrew-core
 - [CreateEvent] brosner - brosner/teufa
