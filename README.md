@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - gravityblast/.dotfiles
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] brosner - brosner/teufa
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-27 11:57
+- [self-hosted] 最后更新：2025-05-27 11:07
+- [survey-creator] 最后更新：2025-05-27 08:23
+- [status-go] 最后更新：2025-05-27 06:01
+- [servers] 最后更新：2025-05-27 04:22
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] brosner - brosner/teufa
 - [IssueCommentEvent] alex - rust-lang/rust
