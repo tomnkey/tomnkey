@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - rust-lang/rust
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-05-27 14:59
+- [survey-creator] 最后更新：2025-05-27 14:50
+- [status-go] 最后更新：2025-05-27 14:43
+- [status-desktop] 最后更新：2025-05-27 14:28
+- [status-mobile] 最后更新：2025-05-27 14:26
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - gravityblast/.dotfiles
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] brosner - brosner/teufa
+- [IssueCommentEvent] alex - rust-lang/rust
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-05-27 14:01
 - [servers] 最后更新：2025-05-27 13:42
 - [survey-creator] 最后更新：2025-05-27 13:34
