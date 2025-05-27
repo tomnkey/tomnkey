@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-05-27 06:01
+- [servers] 最后更新：2025-05-27 04:22
+- [status-mobile] 最后更新：2025-05-27 03:15
+- [sourcebot] 最后更新：2025-05-26 23:07
+- [we-drawing] 最后更新：2025-05-26 23:01
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] brosner - brosner/teufa
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-05-27 04:22
 - [status-mobile] 最后更新：2025-05-27 03:15
 - [sourcebot] 最后更新：2025-05-26 23:07
