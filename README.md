@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-05-28 13:03
+- [status-go] 最后更新：2025-05-28 12:48
+- [survey-creator] 最后更新：2025-05-28 12:24
+- [gofr] 最后更新：2025-05-28 12:21
+- [status-desktop] 最后更新：2025-05-28 12:18
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - alex/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-05-28 11:58
 - [status-desktop] 最后更新：2025-05-28 11:41
 - [go-ethereum] 最后更新：2025-05-28 11:31
