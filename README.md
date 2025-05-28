@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] brosner - brosner/teufa
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-28 04:07
+- [status-go] 最后更新：2025-05-28 03:52
+- [we-drawing] 最后更新：2025-05-27 23:01
+- [survey-creator] 最后更新：2025-05-27 22:03
+- [status-desktop] 最后更新：2025-05-27 18:38
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - bryanbraun/after-dark-css
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - gravityblast/.dotfiles
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] brosner - brosner/teufa
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-05-28 03:52
 - [sourcebot] 最后更新：2025-05-28 02:14
 - [we-drawing] 最后更新：2025-05-27 23:01
