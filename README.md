@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [IssueCommentEvent] alex - C2SP/x509-limbo
+- [PushEvent] alex - alex/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-05-28 18:53
+- [go-ethereum] 最后更新：2025-05-28 18:14
+- [status-desktop] 最后更新：2025-05-28 17:20
+- [survey-creator] 最后更新：2025-05-28 16:07
+- [readest] 最后更新：2025-05-28 15:05
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - C2SP/x509-limbo
 - [PushEvent] alex - alex/rust-openssl
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
