@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-05-29 10:43
+- [go-ethereum] 最后更新：2025-05-29 10:26
+- [status-go] 最后更新：2025-05-29 10:26
+- [status-desktop] 最后更新：2025-05-29 09:44
+- [servers] 最后更新：2025-05-29 08:41
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - pyca/infra
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-05-29 09:47
 - [status-desktop] 最后更新：2025-05-29 09:44
 - [survey-creator] 最后更新：2025-05-29 09:42
