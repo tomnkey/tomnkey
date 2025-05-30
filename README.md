@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [kubeshark] 最后更新：2025-05-30 01:27
+- [servers] 最后更新：2025-05-29 23:02
+- [we-drawing] 最后更新：2025-05-29 23:01
+- [status-desktop] 最后更新：2025-05-29 20:57
+- [primevue] 最后更新：2025-05-29 19:59
+
+## 🚀 关注动态
+- [CreateEvent] bryanveloso - omnypro/obs-websocket
+- [IssueCommentEvent] bryanveloso - oven-sh/bun
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-05-29 23:02
 - [we-drawing] 最后更新：2025-05-29 23:01
 - [status-desktop] 最后更新：2025-05-29 20:57
