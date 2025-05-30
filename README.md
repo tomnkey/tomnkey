@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-05-30 12:58
+- [status-go] 最后更新：2025-05-30 12:52
+- [survey-creator] 最后更新：2025-05-30 12:38
+- [readest] 最后更新：2025-05-30 07:10
+- [kubeshark] 最后更新：2025-05-30 01:27
+
+## 🚀 关注动态
+- [CreateEvent] bryanveloso - omnypro/obs-websocket
+- [PullRequestReviewCommentEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewCommentEvent] alex - C2SP/x509-limbo
+- [CreateEvent] bryanveloso - omnypro/obs-websocket
+- [IssueCommentEvent] bryanveloso - oven-sh/bun
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-05-30 12:02
 - [status-desktop] 最后更新：2025-05-30 11:41
 - [status-go] 最后更新：2025-05-30 10:05
