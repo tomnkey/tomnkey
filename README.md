@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-05-30 23:01
 
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-05-31 13:02
+- [status-desktop] 最后更新：2025-05-31 11:12
+- [status-mobile] 最后更新：2025-05-31 10:36
+- [status-go] 最后更新：2025-05-31 07:31
+- [we-drawing] 最后更新：2025-05-30 23:01
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
 - [PushEvent] alex - alex/queries-rs
