@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-01 19:28
+- [servers] 最后更新：2025-06-01 13:24
+- [readest] 最后更新：2025-06-01 02:57
+- [sourcebot] 最后更新：2025-05-31 23:59
+- [we-drawing] 最后更新：2025-05-31 23:01
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/rust-asn1
 - [PushEvent] alex - alex/rust-asn1
 - [PushEvent] alex - alex/rust-asn1
