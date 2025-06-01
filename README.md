@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - alex/rust-asn1
 - [CreateEvent] alex - alex/rust-asn1
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [WatchEvent] bryanveloso - ai-robots-txt/ai.robots.txt
+- [PushEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-01 09:27
+- [readest] 最后更新：2025-06-01 02:57
+- [sourcebot] 最后更新：2025-05-31 23:59
+- [we-drawing] 最后更新：2025-05-31 23:01
+- [servers] 最后更新：2025-05-31 18:31
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
 - [PullRequestEvent] alex - alex/rust-asn1
 - [CreateEvent] alex - alex/rust-asn1
 - [WatchEvent] bryanveloso - ai-robots-txt/ai.robots.txt
