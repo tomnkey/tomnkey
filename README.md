@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-06-02 06:44
+- [readest] 最后更新：2025-06-02 06:25
+- [status-desktop] 最后更新：2025-06-02 06:24
+- [status-go] 最后更新：2025-06-02 06:18
+- [sourcebot] 最后更新：2025-06-02 01:51
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [WatchEvent] bryanveloso - RetroTournaments/RetroTournaments.org
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-02 06:03
 - [readest] 最后更新：2025-06-02 05:59
 - [status-go] 最后更新：2025-06-02 05:39
