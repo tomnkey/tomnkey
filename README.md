@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - llvm/llvm-project
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-03 05:45
+- [status-desktop] 最后更新：2025-06-03 04:49
+- [servers] 最后更新：2025-06-03 03:59
+- [kubeshark] 最后更新：2025-06-03 03:41
+- [survey-creator] 最后更新：2025-06-03 01:09
+
+## 🚀 关注动态
 - [IssuesEvent] alex - llvm/llvm-project
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
