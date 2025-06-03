@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-03 13:02
+- [status-desktop] 最后更新：2025-06-03 13:00
+- [go-ethereum] 最后更新：2025-06-03 12:36
+- [gofr] 最后更新：2025-06-03 12:30
+- [kubeshark] 最后更新：2025-06-03 12:24
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/dotfiles
+- [PullRequestEvent] bryanveloso - RetroTournaments/RetroTournaments.org
+- [PushEvent] bryanveloso - bryanveloso/retrotournaments.org
+- [CreateEvent] bryanveloso - bryanveloso/retrotournaments.org
+- [ForkEvent] bryanveloso - RetroTournaments/RetroTournaments.org
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-03 12:01
 - [status-desktop] 最后更新：2025-06-03 11:41
 - [readest] 最后更新：2025-06-03 11:22
