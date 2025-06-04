@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-04 02:30
+- [self-hosted] 最后更新：2025-06-04 01:40
+- [we-drawing] 最后更新：2025-06-03 23:01
+- [go-ethereum] 最后更新：2025-06-03 22:19
+- [status-desktop] 最后更新：2025-06-03 21:42
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - pkmn/engine
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/dotfiles
+- [PullRequestEvent] bryanveloso - RetroTournaments/RetroTournaments.org
+- [PushEvent] bryanveloso - bryanveloso/retrotournaments.org
+- [CreateEvent] bryanveloso - bryanveloso/retrotournaments.org
+- [ForkEvent] bryanveloso - RetroTournaments/RetroTournaments.org
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-06-04 00:53
 - [we-drawing] 最后更新：2025-06-03 23:01
 - [go-ethereum] 最后更新：2025-06-03 22:19
