@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-06-04 23:01
+- [sourcebot] 最后更新：2025-06-04 21:53
+- [status-desktop] 最后更新：2025-06-04 21:38
+- [kubeshark] 最后更新：2025-06-04 21:24
+- [status-go] 最后更新：2025-06-04 21:17
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [CreateEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [CreateEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-06-04 21:53
 - [status-desktop] 最后更新：2025-06-04 21:38
 - [kubeshark] 最后更新：2025-06-04 21:24
