@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [CreateEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-04 13:55
+- [status-go] 最后更新：2025-06-04 13:54
+- [status-mobile] 最后更新：2025-06-04 13:41
+- [go-ethereum] 最后更新：2025-06-04 13:07
+- [survey-creator] 最后更新：2025-06-04 12:30
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/line-counter
 - [DeleteEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
