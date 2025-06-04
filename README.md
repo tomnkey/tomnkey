@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - tokio-rs/console
+- [IssueCommentEvent] bryanveloso - RetroTournaments/RetroTournaments.org
+- [WatchEvent] bryanveloso - pkmn/engine
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-04 12:02
+- [status-go] 最后更新：2025-06-04 11:45
+- [survey-creator] 最后更新：2025-06-04 11:40
+- [gofr] 最后更新：2025-06-04 10:51
+- [go-ethereum] 最后更新：2025-06-04 10:32
+
+## 🚀 关注动态
 - [IssuesEvent] alex - tokio-rs/console
 - [IssueCommentEvent] bryanveloso - RetroTournaments/RetroTournaments.org
 - [WatchEvent] bryanveloso - pkmn/engine
