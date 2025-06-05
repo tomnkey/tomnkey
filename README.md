@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-05 07:54
+- [status-go] 最后更新：2025-06-05 07:46
+- [survey-creator] 最后更新：2025-06-05 07:44
+- [gofr] 最后更新：2025-06-05 07:08
+- [readest] 最后更新：2025-06-05 06:40
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/rust-asn1
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-05 07:01
 - [readest] 最后更新：2025-06-05 06:40
 - [status-go] 最后更新：2025-06-05 06:12
