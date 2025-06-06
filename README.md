@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-06-06 11:01
+- [status-desktop] 最后更新：2025-06-06 10:41
+- [readest] 最后更新：2025-06-06 10:08
+- [go-ethereum] 最后更新：2025-06-06 09:49
+- [status-go] 最后更新：2025-06-06 09:43
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - llvm/llvm-project
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-06 09:57
 - [go-ethereum] 最后更新：2025-06-06 09:49
 - [readest] 最后更新：2025-06-06 09:47
