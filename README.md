@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - omnypro/scaffolde
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-06 17:50
+- [status-desktop] 最后更新：2025-06-06 17:44
+- [survey-creator] 最后更新：2025-06-06 16:47
+- [status-go] 最后更新：2025-06-06 14:39
+- [readest] 最后更新：2025-06-06 14:24
+
+## 🚀 关注动态
+- [DeleteEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-06-06 17:02
 - [status-desktop] 最后更新：2025-06-06 16:48
 - [survey-creator] 最后更新：2025-06-06 16:47
