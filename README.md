@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - llvm/llvm-project
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-06 08:52
+- [gofr] 最后更新：2025-06-06 08:22
+- [status-desktop] 最后更新：2025-06-06 08:18
+- [survey-creator] 最后更新：2025-06-06 08:12
+- [sourcebot] 最后更新：2025-06-06 05:50
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/csv-sql
 - [DeleteEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
