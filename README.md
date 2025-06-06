@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - llvm/llvm-project
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-06-06 14:41
+- [status-go] 最后更新：2025-06-06 14:39
+- [readest] 最后更新：2025-06-06 14:24
+- [status-desktop] 最后更新：2025-06-06 13:42
+- [go-ethereum] 最后更新：2025-06-06 12:30
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/ex-post-progress
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [IssueCommentEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - llvm/llvm-project
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-06-06 13:59
 - [status-desktop] 最后更新：2025-06-06 13:42
 - [readest] 最后更新：2025-06-06 13:40
