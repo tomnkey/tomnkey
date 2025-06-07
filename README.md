@@ -56,6 +56,25 @@ Here are some ideas to get you started:
 - [status-go] 最后更新：2025-06-06 22:10
 
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-06-07 00:07
+- [go-ethereum] 最后更新：2025-06-06 23:33
+- [we-drawing] 最后更新：2025-06-06 23:01
+- [status-desktop] 最后更新：2025-06-06 22:14
+- [status-go] 最后更新：2025-06-06 22:10
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
