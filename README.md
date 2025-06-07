@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-06-07 15:06
+- [go-ethereum] 最后更新：2025-06-07 09:43
+- [readest] 最后更新：2025-06-07 05:59
+- [servers] 最后更新：2025-06-07 04:20
+- [self-hosted] 最后更新：2025-06-07 00:07
+
+## 🚀 关注动态
+- [IssueCommentEvent] jkp - anthropics/claude-code
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-06-07 14:56
 - [go-ethereum] 最后更新：2025-06-07 09:43
 - [readest] 最后更新：2025-06-07 05:59
