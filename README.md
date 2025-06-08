@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-06-08 08:23
+- [we-drawing] 最后更新：2025-06-07 23:01
+- [sourcebot] 最后更新：2025-06-07 21:08
+- [go-ethereum] 最后更新：2025-06-07 09:43
+- [readest] 最后更新：2025-06-07 05:59
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - crossbeam-rs/crossbeam
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] jkp - anthropics/claude-code
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-06-07 23:01
 - [sourcebot] 最后更新：2025-06-07 21:08
 - [survey-creator] 最后更新：2025-06-07 15:06
