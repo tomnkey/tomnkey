@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/rust-openssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - llvm/llvm-project
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-06-08 13:01
+- [survey-creator] 最后更新：2025-06-08 08:23
+- [we-drawing] 最后更新：2025-06-07 23:01
+- [sourcebot] 最后更新：2025-06-07 21:08
+- [go-ethereum] 最后更新：2025-06-07 09:43
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - llvm/llvm-project
 - [PushEvent] bryanveloso - bryanveloso/landale
