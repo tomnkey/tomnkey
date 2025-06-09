@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - crossbeam-rs/crossbeam
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-09 19:01
+- [status-desktop] 最后更新：2025-06-09 18:40
+- [status-go] 最后更新：2025-06-09 18:32
+- [servers] 最后更新：2025-06-09 15:57
+- [survey-creator] 最后更新：2025-06-09 15:29
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - crossbeam-rs/crossbeam
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
