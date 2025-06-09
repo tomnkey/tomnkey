@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [WatchEvent] jkp - grll/claude-code-action
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-09 17:46
+- [status-desktop] 最后更新：2025-06-09 16:15
+- [servers] 最后更新：2025-06-09 15:57
+- [status-go] 最后更新：2025-06-09 15:38
+- [survey-creator] 最后更新：2025-06-09 15:29
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - crossbeam-rs/crossbeam
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [WatchEvent] jkp - grll/claude-code-action
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-09 16:15
 - [servers] 最后更新：2025-06-09 15:57
 - [status-go] 最后更新：2025-06-09 15:38
