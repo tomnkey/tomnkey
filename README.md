@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-11 15:34
+- [status-go] 最后更新：2025-06-11 15:31
+- [self-hosted] 最后更新：2025-06-11 14:57
+- [survey-creator] 最后更新：2025-06-11 14:57
+- [status-mobile] 最后更新：2025-06-11 14:07
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-06-11 14:57
 - [survey-creator] 最后更新：2025-06-11 14:57
 - [status-desktop] 最后更新：2025-06-11 14:31
