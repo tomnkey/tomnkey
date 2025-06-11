@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-06-11 06:55
+- [status-desktop] 最后更新：2025-06-11 06:44
+- [MoneyPrinterTurbo] 最后更新：2025-06-11 06:34
+- [status-go] 最后更新：2025-06-11 06:00
+- [gofr] 最后更新：2025-06-11 05:49
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PullRequestReviewEvent] alex - alex/ex-post-progress
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-11 06:00
 - [gofr] 最后更新：2025-06-11 05:49
 - [survey-creator] 最后更新：2025-06-11 03:19
