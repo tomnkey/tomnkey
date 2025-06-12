@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - Homebrew/brew
+- [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
+- [IssuesEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/brew
+- [IssuesEvent] gravityblast - vacp2p/linea-monorepo
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-12 16:18
+- [status-go] 最后更新：2025-06-12 16:09
+- [readest] 最后更新：2025-06-12 15:56
+- [playwright] 最后更新：2025-06-12 15:49
+- [gofr] 最后更新：2025-06-12 14:27
+
+## 🚀 关注动态
 - [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
 - [IssuesEvent] gravityblast - vacp2p/linea-monorepo
 - [PushEvent] alex - pyca/cryptography
