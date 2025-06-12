@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - Homebrew/brew
+- [PullRequestReviewCommentEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/brew
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - Homebrew/brew
+- [CreateEvent] alex - alex/brew
+- [ForkEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-12 00:59
+- [self-hosted] 最后更新：2025-06-12 00:55
+- [status-go] 最后更新：2025-06-12 00:54
+- [sourcebot] 最后更新：2025-06-11 23:10
+- [we-drawing] 最后更新：2025-06-11 23:01
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - Homebrew/brew
 - [CreateEvent] alex - alex/brew
 - [ForkEvent] alex - Homebrew/brew
