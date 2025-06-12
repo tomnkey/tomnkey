@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-12 18:23
+- [gofr] 最后更新：2025-06-12 18:04
+- [playwright] 最后更新：2025-06-12 17:29
+- [status-desktop] 最后更新：2025-06-12 16:18
+- [readest] 最后更新：2025-06-12 15:56
+
+## 🚀 关注动态
+- [DeleteEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - alex/brew
+- [IssueCommentEvent] alex - Homebrew/brew
+- [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
+- [IssuesEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-06-12 17:51
 - [playwright] 最后更新：2025-06-12 17:29
 - [status-go] 最后更新：2025-06-12 17:22
