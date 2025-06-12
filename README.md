@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] jkp - jkp/claude-code-action
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-06-12 11:02
+- [status-desktop] 最后更新：2025-06-12 10:47
+- [playwright] 最后更新：2025-06-12 10:28
+- [status-go] 最后更新：2025-06-12 10:23
+- [go-ethereum] 最后更新：2025-06-12 09:53
+
+## 🚀 关注动态
+- [ReleaseEvent] jkp - jkp/claude-code-action
+- [CreateEvent] jkp - jkp/claude-code-action
+- [PushEvent] jkp - jkp/claude-code-action
+- [CreateEvent] jkp - jkp/claude-code-base-action
+- [ReleaseEvent] jkp - jkp/claude-code-base-action
+- [PushEvent] jkp - jkp/claude-code-base-action
+- [ForkEvent] jkp - grll/claude-code-base-action
+- [IssuesEvent] jkp - grll/claude-code-action
+- [ReleaseEvent] jkp - jkp/claude-code-action
+- [CreateEvent] jkp - jkp/claude-code-action
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-06-12 10:00
 - [go-ethereum] 最后更新：2025-06-12 09:53
 - [survey-creator] 最后更新：2025-06-12 09:52
