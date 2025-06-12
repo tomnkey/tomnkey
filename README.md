@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [ReleaseEvent] jkp - jkp/claude-code-action
+- [CreateEvent] jkp - jkp/claude-code-action
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-12 14:02
+- [gofr] 最后更新：2025-06-12 13:49
+- [survey-creator] 最后更新：2025-06-12 13:45
+- [go-ethereum] 最后更新：2025-06-12 12:59
+- [servers] 最后更新：2025-06-12 12:43
+
+## 🚀 关注动态
 - [ReleaseEvent] jkp - jkp/claude-code-action
 - [CreateEvent] jkp - jkp/claude-code-action
 - [PushEvent] jkp - jkp/claude-code-action
