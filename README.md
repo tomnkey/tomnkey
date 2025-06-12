@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-06-12 05:02
+- [survey-creator] 最后更新：2025-06-12 04:09
+- [status-desktop] 最后更新：2025-06-12 00:59
+- [self-hosted] 最后更新：2025-06-12 00:55
+- [status-go] 最后更新：2025-06-12 00:54
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - Homebrew/brew
+- [PullRequestReviewCommentEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/brew
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - Homebrew/brew
+- [CreateEvent] alex - alex/brew
+- [ForkEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-12 00:59
 - [self-hosted] 最后更新：2025-06-12 00:55
 - [status-go] 最后更新：2025-06-12 00:54
