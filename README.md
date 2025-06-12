@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssuesEvent] jkp - grll/claude-code-action
+- [ReleaseEvent] jkp - jkp/claude-code-action
+- [CreateEvent] jkp - jkp/claude-code-action
+- [PushEvent] jkp - jkp/claude-code-action
+- [ForkEvent] jkp - grll/claude-code-action
+- [PullRequestReviewEvent] alex - Homebrew/brew
+- [PullRequestReviewCommentEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/brew
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-12 08:47
+- [gofr] 最后更新：2025-06-12 08:47
+- [playwright] 最后更新：2025-06-12 08:46
+- [status-go] 最后更新：2025-06-12 08:42
+- [survey-creator] 最后更新：2025-06-12 06:24
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - Homebrew/brew
 - [PullRequestReviewCommentEvent] alex - Homebrew/brew
 - [PushEvent] alex - alex/brew
