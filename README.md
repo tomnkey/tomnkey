@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [ForkEvent] alex - Homebrew/brew
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-06-12 06:50
+- [survey-creator] 最后更新：2025-06-12 06:24
+- [gofr] 最后更新：2025-06-12 05:44
+- [gin-vue-admin] 最后更新：2025-06-12 05:13
+- [status-desktop] 最后更新：2025-06-12 00:59
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - Homebrew/brew
+- [PullRequestReviewCommentEvent] alex - Homebrew/brew
+- [PushEvent] alex - alex/brew
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] alex - Homebrew/brew
+- [CreateEvent] alex - alex/brew
+- [ForkEvent] alex - Homebrew/brew
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-06-12 05:44
 - [gin-vue-admin] 最后更新：2025-06-12 05:13
 - [survey-creator] 最后更新：2025-06-12 04:09
