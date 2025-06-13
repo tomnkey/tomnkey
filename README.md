@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-13 18:01
+- [status-go] 最后更新：2025-06-13 17:28
+- [sourcebot] 最后更新：2025-06-13 17:24
+- [ollama] 最后更新：2025-06-13 16:58
+- [readest] 最后更新：2025-06-13 15:36
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] bryanveloso - bryanveloso/multiverse
