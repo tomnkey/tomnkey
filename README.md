@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] jkp - anthropics/claude-code-action
 
 ## 🌟 Star动态
+- [self-hosted] 最后更新：2025-06-13 08:55
+- [status-go] 最后更新：2025-06-13 08:49
+- [playwright] 最后更新：2025-06-13 07:37
+- [go-ethereum] 最后更新：2025-06-13 07:04
+- [gofr] 最后更新：2025-06-13 05:12
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [IssuesEvent] jkp - anthropics/claude-code-action
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-13 07:56
 - [playwright] 最后更新：2025-06-13 07:37
 - [go-ethereum] 最后更新：2025-06-13 07:04
