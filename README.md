@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [IssuesEvent] jkp - anthropics/claude-code-action
+- [DeleteEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-12 23:25
+- [we-drawing] 最后更新：2025-06-12 23:01
+- [status-go] 最后更新：2025-06-12 22:22
+- [playwright] 最后更新：2025-06-12 22:19
+- [sourcebot] 最后更新：2025-06-12 21:14
+
+## 🚀 关注动态
 - [IssuesEvent] jkp - anthropics/claude-code-action
 - [DeleteEvent] alex - Homebrew/brew-pip-audit
 - [PushEvent] alex - Homebrew/brew-pip-audit
