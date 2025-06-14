@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-14 09:58
+- [sourcebot] 最后更新：2025-06-14 00:26
+- [self-hosted] 最后更新：2025-06-14 00:21
+- [ollama] 最后更新：2025-06-14 00:14
+- [servers] 最后更新：2025-06-13 23:29
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-14 07:55
 - [sourcebot] 最后更新：2025-06-14 00:26
 - [self-hosted] 最后更新：2025-06-14 00:21
