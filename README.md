@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rustup
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-lang/rustup
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/infra
+- [CreateEvent] alex - pyca/infra
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-15 11:20
+- [readest] 最后更新：2025-06-15 07:07
+- [status-go] 最后更新：2025-06-15 04:39
+- [ollama] 最后更新：2025-06-15 02:46
+- [sourcebot] 最后更新：2025-06-15 00:27
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/infra
 - [CreateEvent] alex - pyca/infra
