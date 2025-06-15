@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - Shnatsel/wondermagick
+- [IssuesEvent] alex - Shnatsel/wondermagick
+- [IssueCommentEvent] alex - Shnatsel/wondermagick
+- [IssuesEvent] alex - Shnatsel/wondermagick
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PullRequestEvent] alex - rust-lang/rust
+- [CreateEvent] alex - alex/rust
+- [IssueCommentEvent] alex - rust-lang/rustup
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-06-15 18:06
+- [status-desktop] 最后更新：2025-06-15 17:23
+- [readest] 最后更新：2025-06-15 14:07
+- [status-go] 最后更新：2025-06-15 04:39
+- [ollama] 最后更新：2025-06-15 02:46
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [IssueCommentEvent] alex - rust-lang/rust
