@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [sourcebot] 最后更新：2025-06-15 00:27
 
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PullRequestEvent] alex - rust-lang/rust
+- [CreateEvent] alex - alex/rust
+- [IssueCommentEvent] alex - rust-lang/rustup
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-lang/rustup
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-06-15 14:07
+- [status-desktop] 最后更新：2025-06-15 11:20
+- [status-go] 最后更新：2025-06-15 04:39
+- [ollama] 最后更新：2025-06-15 02:46
+- [sourcebot] 最后更新：2025-06-15 00:27
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-lang/rustup
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/cryptography
