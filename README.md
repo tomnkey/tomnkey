@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/rust
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-06-15 23:01
+- [survey-creator] 最后更新：2025-06-15 22:13
+- [self-hosted] 最后更新：2025-06-15 18:06
+- [status-desktop] 最后更新：2025-06-15 17:23
+- [readest] 最后更新：2025-06-15 14:07
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - llvm/llvm-project
+- [IssueCommentEvent] alex - Shnatsel/wondermagick
+- [IssuesEvent] alex - Shnatsel/wondermagick
+- [IssueCommentEvent] alex - Shnatsel/wondermagick
+- [IssuesEvent] alex - Shnatsel/wondermagick
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PullRequestEvent] alex - rust-lang/rust
+- [CreateEvent] alex - alex/rust
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-06-15 18:06
 - [status-desktop] 最后更新：2025-06-15 17:23
 - [readest] 最后更新：2025-06-15 14:07
