@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [WatchEvent] bryanveloso - apple/container
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-15 03:12
+- [ollama] 最后更新：2025-06-15 02:46
+- [sourcebot] 最后更新：2025-06-15 00:27
+- [we-drawing] 最后更新：2025-06-14 23:01
+- [servers] 最后更新：2025-06-14 15:46
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [IssueCommentEvent] alex - alex/rust-asn1
 - [WatchEvent] bryanveloso - apple/container
