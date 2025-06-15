@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-15 04:39
+- [ollama] 最后更新：2025-06-15 02:46
+- [sourcebot] 最后更新：2025-06-15 00:27
+- [we-drawing] 最后更新：2025-06-14 23:01
+- [servers] 最后更新：2025-06-14 15:46
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
 - [PullRequestEvent] alex - alex/rust-asn1
 - [CreateEvent] alex - alex/rust-asn1
 - [CreateEvent] alex - certifi/python-certifi
