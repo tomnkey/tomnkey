@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [WatchEvent] bryanveloso - psakhis/Groovy_MiSTer
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-16 11:58
+- [status-go] 最后更新：2025-06-16 11:45
+- [playwright] 最后更新：2025-06-16 11:38
+- [go-ethereum] 最后更新：2025-06-16 11:23
+- [survey-creator] 最后更新：2025-06-16 11:03
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [WatchEvent] bryanveloso - amoore2600/GBS-C_AIO
+- [WatchEvent] bryanveloso - ramapcsx2/gbs-control
+- [WatchEvent] bryanveloso - iequalshane/MiSTerCast
+- [WatchEvent] bryanveloso - psakhis/Groovy_MiSTer
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-06-16 10:53
 - [status-go] 最后更新：2025-06-16 10:40
 - [status-desktop] 最后更新：2025-06-16 10:39
