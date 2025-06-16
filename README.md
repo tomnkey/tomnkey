@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - Shnatsel/wondermagick
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-06-16 04:02
+- [status-go] 最后更新：2025-06-16 03:49
+- [status-desktop] 最后更新：2025-06-16 03:49
+- [we-drawing] 最后更新：2025-06-15 23:01
+- [survey-creator] 最后更新：2025-06-15 22:13
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssuesEvent] alex - certifi/python-certifi
+- [IssuesEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - llvm/llvm-project
+- [IssueCommentEvent] alex - Shnatsel/wondermagick
+- [IssuesEvent] alex - Shnatsel/wondermagick
+- [IssueCommentEvent] alex - Shnatsel/wondermagick
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-06-15 23:01
 - [survey-creator] 最后更新：2025-06-15 22:13
 - [self-hosted] 最后更新：2025-06-15 18:06
