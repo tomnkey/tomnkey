@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-06-15 23:01
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [CreateEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [CreateEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [IssueCommentEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-06-16 04:27
+- [readest] 最后更新：2025-06-16 04:02
+- [status-go] 最后更新：2025-06-16 03:49
+- [status-desktop] 最后更新：2025-06-16 03:49
+- [we-drawing] 最后更新：2025-06-15 23:01
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/line-counter
 - [DeleteEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
