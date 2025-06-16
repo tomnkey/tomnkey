@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [WatchEvent] bryanveloso - amoore2600/GBS-C_AIO
+- [WatchEvent] bryanveloso - ramapcsx2/gbs-control
+- [WatchEvent] bryanveloso - iequalshane/MiSTerCast
+- [WatchEvent] bryanveloso - psakhis/Groovy_MiSTer
+- [WatchEvent] bryanveloso - jotego/jtbin
+- [WatchEvent] bryanveloso - 3DO-EU/usb-camera
+- [WatchEvent] bryanveloso - Department-of-Design/Kevins-Awesome-Macros
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-16 08:04
+- [survey-creator] 最后更新：2025-06-16 07:21
+- [readest] 最后更新：2025-06-16 06:53
+- [gofr] 最后更新：2025-06-16 06:24
+- [servers] 最后更新：2025-06-16 06:08
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
