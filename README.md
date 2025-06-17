@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [WatchEvent] bryanveloso - Donkie/Spoolman
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] jkp - jkp/orthocontrol
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-06-17 04:44
+- [status-desktop] 最后更新：2025-06-17 03:29
+- [sourcebot] 最后更新：2025-06-17 03:29
+- [ollama] 最后更新：2025-06-17 02:18
+- [self-hosted] 最后更新：2025-06-17 01:52
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [WatchEvent] bryanveloso - Donkie/Spoolman
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
