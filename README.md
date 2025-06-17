@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-17 03:01
+- [ollama] 最后更新：2025-06-17 02:18
+- [self-hosted] 最后更新：2025-06-17 01:52
+- [readest] 最后更新：2025-06-17 01:36
+- [sourcebot] 最后更新：2025-06-16 23:28
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
