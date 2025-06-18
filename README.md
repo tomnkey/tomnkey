@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-06-18 00:11
+- [sourcebot] 最后更新：2025-06-17 23:39
+- [we-drawing] 最后更新：2025-06-17 23:01
+- [self-hosted] 最后更新：2025-06-17 21:47
+- [go-ethereum] 最后更新：2025-06-17 21:42
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - llvm/llvm-project
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-06-17 23:01
 - [sourcebot] 最后更新：2025-06-17 22:59
 - [self-hosted] 最后更新：2025-06-17 21:47
