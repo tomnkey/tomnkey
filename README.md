@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-06-18 16:02
+- [status-go] 最后更新：2025-06-18 16:02
+- [status-desktop] 最后更新：2025-06-18 16:00
+- [kubeshark] 最后更新：2025-06-18 15:45
+- [survey-creator] 最后更新：2025-06-18 14:53
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-06-18 14:53
 - [status-go] 最后更新：2025-06-18 14:40
 - [ollama] 最后更新：2025-06-18 14:30
