@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-19 17:54
+- [gofr] 最后更新：2025-06-19 17:34
+- [status-desktop] 最后更新：2025-06-19 17:32
+- [status-mobile] 最后更新：2025-06-19 17:15
+- [survey-creator] 最后更新：2025-06-19 15:33
+
+## 🚀 关注动态
+- [IssueCommentEvent] jkp - jdx/hk
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-19 16:57
 - [survey-creator] 最后更新：2025-06-19 15:33
 - [readest] 最后更新：2025-06-19 15:10
