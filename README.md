@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - rust-lang/blog.rust-lang.org
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-06-20 09:00
+- [status-mobile] 最后更新：2025-06-20 08:43
+- [status-go] 最后更新：2025-06-20 08:23
+- [survey-creator] 最后更新：2025-06-20 08:10
+- [gofr] 最后更新：2025-06-20 07:29
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-lang/blog.rust-lang.org
 - [DeleteEvent] alex - pyca/infra
 - [PushEvent] alex - pyca/infra
