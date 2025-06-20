@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-06-20 23:01
+- [self-hosted] 最后更新：2025-06-20 22:45
+- [survey-creator] 最后更新：2025-06-20 22:12
+- [sourcebot] 最后更新：2025-06-20 21:57
+- [servers] 最后更新：2025-06-20 21:18
+
+## 🚀 关注动态
+- [IssueCommentEvent] jkp - jdx/mise
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - rust-lang/blog.rust-lang.org
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-06-20 21:57
 - [servers] 最后更新：2025-06-20 21:18
 - [ollama] 最后更新：2025-06-20 19:32
