@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - sfackler/rust-openssl
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-20 01:00
+- [status-go] 最后更新：2025-06-20 00:42
+- [ollama] 最后更新：2025-06-20 00:12
+- [we-drawing] 最后更新：2025-06-19 23:01
+- [status-desktop] 最后更新：2025-06-19 21:38
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] jkp - jdx/hk
+- [PushEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-06-19 23:55
 - [we-drawing] 最后更新：2025-06-19 23:01
 - [ollama] 最后更新：2025-06-19 21:56
