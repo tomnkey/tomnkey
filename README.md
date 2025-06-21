@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - Homebrew/brew-pip-audit
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-21 18:03
+- [playwright] 最后更新：2025-06-21 17:03
+- [readest] 最后更新：2025-06-21 15:11
+- [ollama] 最后更新：2025-06-21 14:12
+- [self-hosted] 最后更新：2025-06-21 10:31
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [CreateEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - Homebrew/brew-pip-audit
+- [IssueCommentEvent] alex - Homebrew/brew-pip-audit
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-06-21 16:49
 - [readest] 最后更新：2025-06-21 15:11
 - [ollama] 最后更新：2025-06-21 14:12
