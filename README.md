@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - PyO3/pyo3
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-06-21 06:42
+- [go-ethereum] 最后更新：2025-06-21 05:00
+- [status-desktop] 最后更新：2025-06-21 03:19
+- [sourcebot] 最后更新：2025-06-21 03:13
+- [ollama] 最后更新：2025-06-21 02:59
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - Homebrew/brew-pip-audit
+- [IssueCommentEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] jkp - jdx/mise
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2025-06-21 05:00
 - [status-desktop] 最后更新：2025-06-21 03:19
 - [sourcebot] 最后更新：2025-06-21 03:13
