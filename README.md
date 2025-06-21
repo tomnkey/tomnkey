@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] jkp - jdx/mise
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - rust-lang/blog.rust-lang.org
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-06-21 05:00
+- [status-desktop] 最后更新：2025-06-21 03:19
+- [sourcebot] 最后更新：2025-06-21 03:13
+- [ollama] 最后更新：2025-06-21 02:59
+- [playwright] 最后更新：2025-06-20 23:07
+
+## 🚀 关注动态
 - [IssueCommentEvent] jkp - jdx/mise
 - [PullRequestEvent] alex - PyO3/pyo3
 - [PushEvent] alex - Homebrew/brew-pip-audit
