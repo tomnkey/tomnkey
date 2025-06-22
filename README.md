@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PushEvent] alex - alex/rust
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [PullRequestReviewCommentEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-22 16:27
+- [go-ethereum] 最后更新：2025-06-22 12:40
+- [readest] 最后更新：2025-06-22 09:25
+- [status-go] 最后更新：2025-06-22 07:28
+- [we-drawing] 最后更新：2025-06-21 23:01
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rust
 - [PushEvent] alex - alex/rust
 - [IssueCommentEvent] alex - rust-lang/rust
 - [IssueCommentEvent] alex - alex/rust-asn1
