@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - alex/rust-asn1
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-23 06:57
+- [playwright] 最后更新：2025-06-23 06:46
+- [survey-creator] 最后更新：2025-06-23 06:23
+- [sourcebot] 最后更新：2025-06-23 06:10
+- [go-ethereum] 最后更新：2025-06-23 06:04
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssuesEvent] alex - rust-lang/compiler-team
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PushEvent] alex - alex/rust
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [PullRequestReviewCommentEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-23 04:07
 - [readest] 最后更新：2025-06-23 03:03
 - [sourcebot] 最后更新：2025-06-22 23:47
