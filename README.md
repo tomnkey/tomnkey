@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-06-24 09:55
+- [survey-creator] 最后更新：2025-06-24 09:38
+- [self-hosted] 最后更新：2025-06-24 09:08
+- [gofr] 最后更新：2025-06-24 09:03
+- [status-desktop] 最后更新：2025-06-24 08:58
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-06-24 09:03
 - [status-desktop] 最后更新：2025-06-24 08:58
 - [self-hosted] 最后更新：2025-06-24 08:22
