@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-25 20:03
+- [status-desktop] 最后更新：2025-06-25 19:57
+- [ollama] 最后更新：2025-06-25 19:34
+- [sourcebot] 最后更新：2025-06-25 19:15
+- [playwright] 最后更新：2025-06-25 17:32
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/csv-sql
 - [DeleteEvent] alex - alex/csv-sql
