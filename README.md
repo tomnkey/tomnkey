@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-06-25 09:52
+- [survey-creator] 最后更新：2025-06-25 09:41
+- [go-ethereum] 最后更新：2025-06-25 08:50
+- [status-desktop] 最后更新：2025-06-25 08:38
+- [self-hosted] 最后更新：2025-06-25 07:14
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2025-06-25 08:50
 - [status-desktop] 最后更新：2025-06-25 08:38
 - [playwright] 最后更新：2025-06-25 07:26
