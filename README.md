@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-06-25 00:50
+- [sourcebot] 最后更新：2025-06-24 23:53
+- [playwright] 最后更新：2025-06-24 23:43
+- [we-drawing] 最后更新：2025-06-24 23:01
+- [status-desktop] 最后更新：2025-06-24 22:19
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-06-24 23:53
 - [playwright] 最后更新：2025-06-24 23:43
 - [ollama] 最后更新：2025-06-24 23:31
