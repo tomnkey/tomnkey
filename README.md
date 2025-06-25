@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-25 17:54
+- [ollama] 最后更新：2025-06-25 17:44
+- [playwright] 最后更新：2025-06-25 17:32
+- [survey-creator] 最后更新：2025-06-25 16:04
+- [status-desktop] 最后更新：2025-06-25 15:16
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/csv-sql
 - [DeleteEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
