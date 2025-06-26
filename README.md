@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 
 ## 🌟 Star动态
+- [self-hosted] 最后更新：2025-06-26 10:32
+- [playwright] 最后更新：2025-06-26 10:11
+- [status-go] 最后更新：2025-06-26 09:59
+- [status-desktop] 最后更新：2025-06-26 09:42
+- [readest] 最后更新：2025-06-26 09:27
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-26 09:59
 - [status-desktop] 最后更新：2025-06-26 09:42
 - [readest] 最后更新：2025-06-26 09:27
