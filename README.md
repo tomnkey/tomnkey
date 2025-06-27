@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-27 12:02
+- [playwright] 最后更新：2025-06-27 12:01
+- [status-go] 最后更新：2025-06-27 11:42
+- [readest] 最后更新：2025-06-27 10:31
+- [gofr] 最后更新：2025-06-27 09:28
+
+## 🚀 关注动态
+- [ForkEvent] bryanveloso - obsproject/obs-plugintemplate
+- [WatchEvent] bryanveloso - indragiek/Context
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssuesEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PushEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-27 10:40
 - [readest] 最后更新：2025-06-27 10:31
 - [gofr] 最后更新：2025-06-27 09:28
