@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [ForkEvent] bryanveloso - obsproject/obs-plugintemplate
+- [WatchEvent] bryanveloso - indragiek/Context
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssuesEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PushEvent] gravityblast - vacp2p/staking-reward-streamer
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-27 12:53
+- [gofr] 最后更新：2025-06-27 12:41
+- [status-desktop] 最后更新：2025-06-27 12:07
+- [playwright] 最后更新：2025-06-27 12:01
+- [readest] 最后更新：2025-06-27 10:31
+
+## 🚀 关注动态
 - [ForkEvent] bryanveloso - obsproject/obs-plugintemplate
 - [WatchEvent] bryanveloso - indragiek/Context
 - [IssueCommentEvent] alex - pyca/cryptography
