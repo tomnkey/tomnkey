@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-06-27 05:13
+- [ollama] 最后更新：2025-06-27 04:49
+- [self-hosted] 最后更新：2025-06-26 23:12
+- [we-drawing] 最后更新：2025-06-26 23:01
+- [sourcebot] 最后更新：2025-06-26 22:58
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - indragiek/Context
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssuesEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PushEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-06-27 04:49
 - [self-hosted] 最后更新：2025-06-26 23:12
 - [we-drawing] 最后更新：2025-06-26 23:01
