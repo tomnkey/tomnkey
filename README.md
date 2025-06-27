@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] gravityblast - vacp2p/staking-reward-streamer
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-27 17:02
+- [survey-creator] 最后更新：2025-06-27 15:18
+- [playwright] 最后更新：2025-06-27 15:00
+- [status-desktop] 最后更新：2025-06-27 14:39
+- [gofr] 最后更新：2025-06-27 12:41
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [ForkEvent] bryanveloso - obsproject/obs-plugintemplate
+- [WatchEvent] bryanveloso - indragiek/Context
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/staking-reward-streamer
+- [IssuesEvent] gravityblast - vacp2p/staking-reward-streamer
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-06-27 15:41
 - [survey-creator] 最后更新：2025-06-27 15:18
 - [playwright] 最后更新：2025-06-27 15:00
