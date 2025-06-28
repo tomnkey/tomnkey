@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - rustsec/advisory-db
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-06-28 21:00
+- [status-go] 最后更新：2025-06-28 20:03
+- [ollama] 最后更新：2025-06-28 20:00
+- [gin-vue-admin] 最后更新：2025-06-28 14:30
+- [we-drawing] 最后更新：2025-06-27 23:01
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
