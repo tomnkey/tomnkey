@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - bytecodealliance/rustix
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-29 09:30
+- [gin-vue-admin] 最后更新：2025-06-29 05:27
+- [self-hosted] 最后更新：2025-06-29 03:09
+- [ollama] 最后更新：2025-06-29 00:06
+- [sourcebot] 最后更新：2025-06-28 23:34
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] alex - bytecodealliance/rustix
+
+## 🌟 Star动态
 - [gin-vue-admin] 最后更新：2025-06-29 05:27
 - [self-hosted] 最后更新：2025-06-29 03:09
 - [ollama] 最后更新：2025-06-29 00:06
