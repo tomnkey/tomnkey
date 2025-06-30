@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-06-30 02:07
+- [we-drawing] 最后更新：2025-06-29 23:01
+- [ollama] 最后更新：2025-06-29 21:59
+- [status-desktop] 最后更新：2025-06-29 21:58
+- [sourcebot] 最后更新：2025-06-29 19:13
+
+## 🚀 关注动态
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - rust-lang/miri
+- [IssuesEvent] alex - rust-lang/miri
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-06-29 23:01
 - [ollama] 最后更新：2025-06-29 21:59
 - [status-desktop] 最后更新：2025-06-29 21:58
