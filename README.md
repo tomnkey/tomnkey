@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - alex/rust-asn1
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-06-30 20:00
+- [survey-creator] 最后更新：2025-06-30 19:52
+- [sourcebot] 最后更新：2025-06-30 19:03
+- [playwright] 最后更新：2025-06-30 18:46
+- [ollama] 最后更新：2025-06-30 17:43
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-06-30 18:46
 - [survey-creator] 最后更新：2025-06-30 18:26
 - [ollama] 最后更新：2025-06-30 17:43
