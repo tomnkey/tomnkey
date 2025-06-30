@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-06-30 11:46
+- [status-desktop] 最后更新：2025-06-30 10:31
+- [status-go] 最后更新：2025-06-30 09:02
+- [go-ethereum] 最后更新：2025-06-30 08:18
+- [gin-vue-admin] 最后更新：2025-06-30 08:07
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-06-30 10:31
 - [playwright] 最后更新：2025-06-30 10:27
 - [status-go] 最后更新：2025-06-30 09:02
