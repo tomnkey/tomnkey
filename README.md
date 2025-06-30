@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] gravityblast - vacp2p/roadmap
+- [CreateEvent] gravityblast - vacp2p/roadmap
+- [IssuesEvent] gravityblast - vacp2p/linea-monorepo
+- [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
+- [IssuesEvent] gravityblast - vacp2p/linea-monorepo
+- [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
+- [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
+- [IssuesEvent] gravityblast - vacp2p/linea-monorepo
+- [IssueCommentEvent] gravityblast - vacp2p/linea-monorepo
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-06-30 22:00
+- [sourcebot] 最后更新：2025-06-30 21:35
+- [status-desktop] 最后更新：2025-06-30 21:17
+- [survey-creator] 最后更新：2025-06-30 20:13
+- [ollama] 最后更新：2025-06-30 17:43
+
+## 🚀 关注动态
 - [PullRequestEvent] gravityblast - vacp2p/roadmap
 - [CreateEvent] gravityblast - vacp2p/roadmap
 - [IssuesEvent] gravityblast - vacp2p/linea-monorepo
