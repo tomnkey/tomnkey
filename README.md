@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - rust-lang/miri
+- [IssuesEvent] alex - rust-lang/miri
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-06-30 04:32
+- [self-hosted] 最后更新：2025-06-30 04:13
+- [status-go] 最后更新：2025-06-30 02:07
+- [we-drawing] 最后更新：2025-06-29 23:01
+- [ollama] 最后更新：2025-06-29 21:59
+
+## 🚀 关注动态
 - [CreateEvent] bryanveloso - bryanveloso/landale
 - [IssueCommentEvent] alex - rust-lang/miri
 - [IssuesEvent] alex - rust-lang/miri
