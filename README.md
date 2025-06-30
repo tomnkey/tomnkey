@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - rust-lang/miri
+- [IssuesEvent] alex - rust-lang/miri
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-06-30 09:02
+- [go-ethereum] 最后更新：2025-06-30 08:18
+- [gin-vue-admin] 最后更新：2025-06-30 08:07
+- [readest] 最后更新：2025-06-30 08:04
+- [survey-creator] 最后更新：2025-06-30 07:13
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PullRequestEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [CreateEvent] bryanveloso - bryanveloso/landale
