@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] gravityblast - vacp2p/roadmap
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-07-01 07:55
+- [status-desktop] 最后更新：2025-07-01 07:28
+- [go-ethereum] 最后更新：2025-07-01 07:18
+- [survey-creator] 最后更新：2025-07-01 07:16
+- [status-go] 最后更新：2025-07-01 07:03
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] gravityblast - vacp2p/roadmap
+- [CreateEvent] gravityblast - vacp2p/roadmap
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-01 07:03
 - [gofr] 最后更新：2025-07-01 07:02
 - [go-ethereum] 最后更新：2025-07-01 07:00
