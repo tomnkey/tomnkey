@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-07-02 02:56
+- [gin-vue-admin] 最后更新：2025-07-02 02:39
+- [self-hosted] 最后更新：2025-07-02 01:55
+- [go-ethereum] 最后更新：2025-07-02 00:46
+- [we-drawing] 最后更新：2025-07-01 23:01
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-07-02 01:55
 - [go-ethereum] 最后更新：2025-07-02 00:46
 - [we-drawing] 最后更新：2025-07-01 23:01
