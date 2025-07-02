@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [survey-creator] 最后更新：2025-07-01 19:21
 
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-07-01 23:01
+- [playwright] 最后更新：2025-07-01 22:22
+- [kubeshark] 最后更新：2025-07-01 21:16
+- [status-desktop] 最后更新：2025-07-01 20:29
+- [survey-creator] 最后更新：2025-07-01 19:21
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
