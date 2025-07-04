@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] gravityblast - vacp2p/linea-monorepo
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/infra
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-03 23:08
+- [we-drawing] 最后更新：2025-07-03 23:01
+- [sourcebot] 最后更新：2025-07-03 22:44
+- [status-go] 最后更新：2025-07-03 21:12
+- [playwright] 最后更新：2025-07-03 17:11
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - vacp2p/linea-monorepo
 - [DeleteEvent] alex - alex/cryptography
 - [IssueCommentEvent] alex - pyca/infra
 - [DeleteEvent] alex - pyca/cryptography
