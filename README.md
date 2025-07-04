@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-04 08:04
+- [status-go] 最后更新：2025-07-04 06:47
+- [gofr] 最后更新：2025-07-04 06:26
+- [servers] 最后更新：2025-07-04 05:51
+- [readest] 最后更新：2025-07-04 05:47
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-04 06:47
 - [gofr] 最后更新：2025-07-04 06:26
 - [servers] 最后更新：2025-07-04 05:51
