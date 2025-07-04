@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-04 13:08
+- [status-go] 最后更新：2025-07-04 13:02
+- [status-desktop] 最后更新：2025-07-04 12:55
+- [gofr] 最后更新：2025-07-04 12:34
+- [go-ethereum] 最后更新：2025-07-04 11:51
+
+## 🚀 关注动态
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-04 11:52
 - [status-desktop] 最后更新：2025-07-04 11:52
 - [go-ethereum] 最后更新：2025-07-04 11:51
