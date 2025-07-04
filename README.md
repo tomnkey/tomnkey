@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - rust-lang/compiler-team
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-07-04 05:51
+- [readest] 最后更新：2025-07-04 05:47
+- [ollama] 最后更新：2025-07-04 05:42
+- [go-ethereum] 最后更新：2025-07-04 01:40
+- [status-desktop] 最后更新：2025-07-03 23:08
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
