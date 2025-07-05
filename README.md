@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-05 17:33
+- [readest] 最后更新：2025-07-05 15:29
+- [go-ethereum] 最后更新：2025-07-05 00:05
+- [servers] 最后更新：2025-07-04 23:34
+- [we-drawing] 最后更新：2025-07-04 23:01
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/rust-asn1
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [WatchEvent] bryanveloso - hesreallyhim/awesome-claude-code
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-05 16:11
 - [readest] 最后更新：2025-07-05 15:29
 - [go-ethereum] 最后更新：2025-07-05 00:05
