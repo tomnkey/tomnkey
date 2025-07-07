@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [readest] 最后更新：2025-07-06 10:13
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-07-06 23:01
+- [survey-creator] 最后更新：2025-07-06 23:01
+- [status-go] 最后更新：2025-07-06 19:56
+- [servers] 最后更新：2025-07-06 15:05
+- [readest] 最后更新：2025-07-06 10:13
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/ex-post-progress
 - [PushEvent] alex - alex/ex-post-progress
 - [PullRequestEvent] alex - alex/ex-post-progress
