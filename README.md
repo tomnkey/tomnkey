@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-07-07 08:01
+- [status-desktop] 最后更新：2025-07-07 07:49
+- [readest] 最后更新：2025-07-07 07:37
+- [survey-creator] 最后更新：2025-07-07 06:56
+- [status-go] 最后更新：2025-07-07 06:29
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [DeleteEvent] alex - alex/ex-post-progress
 - [PushEvent] alex - alex/ex-post-progress
