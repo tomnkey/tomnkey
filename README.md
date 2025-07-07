@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - alex/rust-asn1
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-07-06 23:01
+- [survey-creator] 最后更新：2025-07-06 23:01
+- [status-go] 最后更新：2025-07-06 19:56
+- [servers] 最后更新：2025-07-06 15:05
+- [readest] 最后更新：2025-07-06 10:13
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - apple/container
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssuesEvent] alex - apple/container
+- [IssuesEvent] alex - apple/container
+- [IssueCommentEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-06 19:56
 - [servers] 最后更新：2025-07-06 15:05
 - [readest] 最后更新：2025-07-06 10:13
