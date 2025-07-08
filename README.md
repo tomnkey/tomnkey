@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-07-08 06:03
+- [sourcebot] 最后更新：2025-07-08 05:40
+- [self-hosted] 最后更新：2025-07-08 03:52
+- [playwright] 最后更新：2025-07-08 03:23
+- [status-desktop] 最后更新：2025-07-08 00:58
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-07-08 04:07
 - [self-hosted] 最后更新：2025-07-08 03:52
 - [playwright] 最后更新：2025-07-08 03:23
