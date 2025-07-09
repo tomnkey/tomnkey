@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - certifi/python-certifi
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-07-09 16:01
+- [kubeshark] 最后更新：2025-07-09 15:55
+- [status-desktop] 最后更新：2025-07-09 15:52
+- [survey-creator] 最后更新：2025-07-09 15:52
+- [status-go] 最后更新：2025-07-09 15:45
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/cryptography
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-07-09 14:53
 - [playwright] 最后更新：2025-07-09 13:49
 - [status-desktop] 最后更新：2025-07-09 13:31
