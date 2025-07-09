@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/rust-asn1
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-09 11:57
+- [playwright] 最后更新：2025-07-09 11:31
+- [readest] 最后更新：2025-07-09 10:36
+- [status-mobile] 最后更新：2025-07-09 10:21
+- [go-ethereum] 最后更新：2025-07-09 09:24
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-09 10:42
 - [readest] 最后更新：2025-07-09 10:36
 - [playwright] 最后更新：2025-07-09 10:33
