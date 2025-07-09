@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-07-08 23:01
 
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-07-09 02:57
+- [go-ethereum] 最后更新：2025-07-09 00:47
+- [sourcebot] 最后更新：2025-07-08 23:59
+- [playwright] 最后更新：2025-07-08 23:15
+- [we-drawing] 最后更新：2025-07-08 23:01
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - alex/rust-asn1
 - [PushEvent] alex - alex/rust-asn1
