@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-07-11 01:18
+- [self-hosted] 最后更新：2025-07-11 00:42
+- [ollama] 最后更新：2025-07-11 00:03
+- [sourcebot] 最后更新：2025-07-10 23:11
+- [we-drawing] 最后更新：2025-07-10 23:01
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-07-11 00:03
 - [sourcebot] 最后更新：2025-07-10 23:11
 - [playwright] 最后更新：2025-07-10 23:06
