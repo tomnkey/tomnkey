@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-07-14 09:45
+- [survey-creator] 最后更新：2025-07-14 09:34
+- [go-ethereum] 最后更新：2025-07-14 09:27
+- [status-desktop] 最后更新：2025-07-14 08:48
+- [we-drawing] 最后更新：2025-07-13 23:02
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-14 08:48
 - [survey-creator] 最后更新：2025-07-14 08:35
 - [status-go] 最后更新：2025-07-14 07:30
