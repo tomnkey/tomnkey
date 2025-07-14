@@ -38,6 +38,25 @@ Here are some ideas to get you started:
 
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-07-13 23:02
+- [status-go] 最后更新：2025-07-13 19:30
+- [sourcebot] 最后更新：2025-07-13 04:32
+- [readest] 最后更新：2025-07-12 16:01
+- [playwright] 最后更新：2025-07-12 14:10
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PullRequestEvent] bryanveloso - bryanveloso/landale
 - [CreateEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
