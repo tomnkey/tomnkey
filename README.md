@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] jkp - jkp/birdstream
+- [IssueCommentEvent] jkp - senstella/parakeet-mlx
+- [CreateEvent] jkp - jkp/birdstream
+- [CreateEvent] jkp - jkp/birdstream
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-07-15 00:13
+- [sourcebot] 最后更新：2025-07-15 00:11
+- [we-drawing] 最后更新：2025-07-14 23:02
+- [go-ethereum] 最后更新：2025-07-14 22:08
+- [status-desktop] 最后更新：2025-07-14 22:04
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/pyopenssl
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] alex - pyca/cryptography
