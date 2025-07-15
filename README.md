@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - rust-lang/libs-team
+- [IssueCommentEvent] alex - rust-lang/libs-team
+- [PushEvent] jkp - jkp/birdstream
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-15 09:06
+- [status-desktop] 最后更新：2025-07-15 07:59
+- [gofr] 最后更新：2025-07-15 07:25
+- [status-go] 最后更新：2025-07-15 06:44
+- [go-ethereum] 最后更新：2025-07-15 06:20
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/pyopenssl
 - [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
 - [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
