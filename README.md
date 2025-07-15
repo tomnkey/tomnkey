@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - rust-lang/libs-team
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-07-15 16:59
+- [survey-creator] 最后更新：2025-07-15 16:15
+- [sourcebot] 最后更新：2025-07-15 15:53
+- [status-desktop] 最后更新：2025-07-15 15:48
+- [go-ethereum] 最后更新：2025-07-15 13:48
+
+## 🚀 关注动态
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - rust-lang/libs-team
+- [IssueCommentEvent] alex - rust-lang/libs-team
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-15 15:55
 - [sourcebot] 最后更新：2025-07-15 15:53
 - [status-desktop] 最后更新：2025-07-15 15:48
