@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/birdstream
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-07-15 12:46
+- [status-desktop] 最后更新：2025-07-15 12:42
+- [go-ethereum] 最后更新：2025-07-15 12:24
+- [survey-creator] 最后更新：2025-07-15 11:47
+- [gin-vue-admin] 最后更新：2025-07-15 10:26
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - rust-lang/libs-team
+- [IssueCommentEvent] alex - rust-lang/libs-team
+- [PushEvent] jkp - jkp/birdstream
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-15 12:04
 - [status-desktop] 最后更新：2025-07-15 12:00
 - [survey-creator] 最后更新：2025-07-15 11:47
