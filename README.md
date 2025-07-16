@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-07-16 11:54
+- [status-go] 最后更新：2025-07-16 11:54
+- [status-desktop] 最后更新：2025-07-16 11:49
+- [survey-creator] 最后更新：2025-07-16 10:51
+- [servers] 最后更新：2025-07-16 07:17
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-16 11:02
 - [survey-creator] 最后更新：2025-07-16 10:51
 - [status-go] 最后更新：2025-07-16 10:10
