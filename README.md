@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [CreateEvent] gravityblast - gravityblast/status-network-monorepo
+- [CreateEvent] gravityblast - gravityblast/status-network-monorepo
+- [ForkEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-07-16 23:01
+- [ollama] 最后更新：2025-07-16 22:51
+- [status-go] 最后更新：2025-07-16 22:36
+- [playwright] 最后更新：2025-07-16 21:36
+- [go-ethereum] 最后更新：2025-07-16 21:26
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
 - [IssuesEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
