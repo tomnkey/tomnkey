@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-17 12:05
+- [servers] 最后更新：2025-07-17 11:24
+- [playwright] 最后更新：2025-07-17 11:16
+- [status-go] 最后更新：2025-07-17 11:13
+- [readest] 最后更新：2025-07-17 08:21
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] gravityblast - gravityblast/status-network-monorepo
