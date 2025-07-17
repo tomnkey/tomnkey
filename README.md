@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-17 09:02
+- [readest] 最后更新：2025-07-17 08:21
+- [status-go] 最后更新：2025-07-17 07:50
+- [ollama] 最后更新：2025-07-17 06:58
+- [playwright] 最后更新：2025-07-17 06:56
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [WatchEvent] bryanveloso - sst/opencode
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-17 08:04
 - [status-go] 最后更新：2025-07-17 07:50
 - [ollama] 最后更新：2025-07-17 06:58
