@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-17 15:25
+- [status-go] 最后更新：2025-07-17 15:12
+- [ollama] 最后更新：2025-07-17 14:33
+- [survey-creator] 最后更新：2025-07-17 14:33
+- [coredns] 最后更新：2025-07-17 12:51
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - alex/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - alex/pyopenssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-17 14:46
 - [status-go] 最后更新：2025-07-17 14:33
 - [ollama] 最后更新：2025-07-17 14:33
