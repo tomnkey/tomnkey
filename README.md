@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] bryanveloso - bryanveloso/obs-entei
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-07-18 14:00
+- [status-desktop] 最后更新：2025-07-18 13:48
+- [status-go] 最后更新：2025-07-18 13:42
+- [survey-creator] 最后更新：2025-07-18 13:29
+- [servers] 最后更新：2025-07-18 13:23
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [CreateEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-07-18 12:49
 - [status-desktop] 最后更新：2025-07-18 12:48
 - [gofr] 最后更新：2025-07-18 12:33
