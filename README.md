@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-07-18 14:57
+- [status-desktop] 最后更新：2025-07-18 14:41
+- [survey-creator] 最后更新：2025-07-18 14:37
+- [status-go] 最后更新：2025-07-18 13:42
+- [servers] 最后更新：2025-07-18 13:23
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
