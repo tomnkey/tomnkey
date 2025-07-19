@@ -94,6 +94,25 @@ Here are some ideas to get you started:
 - [ollama] 最后更新：2025-07-18 20:30
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-19 11:19
+- [self-hosted] 最后更新：2025-07-19 05:25
+- [readest] 最后更新：2025-07-19 04:37
+- [we-drawing] 最后更新：2025-07-18 23:01
+- [ollama] 最后更新：2025-07-18 20:30
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [PushEvent] bryanveloso - bryanveloso/landale
