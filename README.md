@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-19 09:38
+- [self-hosted] 最后更新：2025-07-19 05:25
+- [readest] 最后更新：2025-07-19 04:37
+- [we-drawing] 最后更新：2025-07-18 23:01
+- [ollama] 最后更新：2025-07-18 20:30
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/pyopenssl
 - [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
 - [IssueCommentEvent] alex - pyca/cryptography
