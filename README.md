@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-19 09:38
+- [self-hosted] 最后更新：2025-07-19 05:25
+- [readest] 最后更新：2025-07-19 04:37
+- [we-drawing] 最后更新：2025-07-18 23:01
+- [ollama] 最后更新：2025-07-18 20:30
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
