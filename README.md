@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/doc-extractor
+- [PullRequestEvent] alex - alex/doc-extractor
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-07-19 05:25
+- [readest] 最后更新：2025-07-19 04:37
+- [we-drawing] 最后更新：2025-07-18 23:01
+- [status-desktop] 最后更新：2025-07-18 20:48
+- [ollama] 最后更新：2025-07-18 20:30
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/doc-extractor
 - [PullRequestEvent] alex - alex/doc-extractor
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
