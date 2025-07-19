@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-07-19 23:02
+- [sourcebot] 最后更新：2025-07-19 21:04
+- [ollama] 最后更新：2025-07-19 20:29
+- [readest] 最后更新：2025-07-19 18:24
+- [status-mobile] 最后更新：2025-07-19 17:11
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PublicEvent] alex - alex/adb
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-07-19 21:04
 - [ollama] 最后更新：2025-07-19 20:29
 - [readest] 最后更新：2025-07-19 18:24
