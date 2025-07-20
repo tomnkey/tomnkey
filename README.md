@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-20 12:00
+- [readest] 最后更新：2025-07-20 09:32
+- [sourcebot] 最后更新：2025-07-20 02:08
+- [self-hosted] 最后更新：2025-07-20 00:04
+- [we-drawing] 最后更新：2025-07-19 23:02
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PullRequestEvent] alex - PyO3/pyo3
 - [PushEvent] bryanveloso - bryanveloso/landale
