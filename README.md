@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-07-20 15:09
+- [self-hosted] 最后更新：2025-07-20 13:53
+- [survey-creator] 最后更新：2025-07-20 12:00
+- [sourcebot] 最后更新：2025-07-20 02:08
+- [we-drawing] 最后更新：2025-07-19 23:02
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
