@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PublicEvent] alex - alex/adb
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-07-20 02:08
+- [self-hosted] 最后更新：2025-07-20 00:04
+- [we-drawing] 最后更新：2025-07-19 23:02
+- [ollama] 最后更新：2025-07-19 20:29
+- [readest] 最后更新：2025-07-19 18:24
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - PyO3/pyo3
 - [PullRequestReviewEvent] alex - PyO3/pyo3
 - [PublicEvent] alex - alex/adb
 - [PushEvent] alex - alex/cryptography
