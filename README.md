@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/adb
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-21 10:51
+- [status-go] 最后更新：2025-07-21 10:46
+- [go-ethereum] 最后更新：2025-07-21 10:29
+- [readest] 最后更新：2025-07-21 10:14
+- [status-desktop] 最后更新：2025-07-21 10:10
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-07-21 09:38
 - [readest] 最后更新：2025-07-21 09:37
 - [status-desktop] 最后更新：2025-07-21 09:24
