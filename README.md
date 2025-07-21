@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-07-21 05:40
+- [readest] 最后更新：2025-07-20 23:10
+- [we-drawing] 最后更新：2025-07-20 23:01
+- [ollama] 最后更新：2025-07-20 21:55
+- [status-go] 最后更新：2025-07-20 17:24
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] alex - alex/adb
 - [PushEvent] alex - alex/adb
 - [PushEvent] bryanveloso - bryanveloso/landale
