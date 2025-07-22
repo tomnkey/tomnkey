@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [WatchEvent] bryanveloso - stackotter/swift-cross-ui
+- [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
+- [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-07-22 13:58
+- [self-hosted] 最后更新：2025-07-22 13:58
+- [status-go] 最后更新：2025-07-22 13:41
+- [survey-creator] 最后更新：2025-07-22 12:33
+- [go-ethereum] 最后更新：2025-07-22 12:13
+
+## 🚀 关注动态
 - [WatchEvent] bryanveloso - stackotter/swift-cross-ui
 - [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
 - [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
