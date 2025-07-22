@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-07-22 07:03
+- [readest] 最后更新：2025-07-22 07:00
+- [survey-creator] 最后更新：2025-07-22 06:58
+- [status-desktop] 最后更新：2025-07-22 06:55
+- [gofr] 最后更新：2025-07-22 06:24
+
+## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-07-22 06:04
 - [gofr] 最后更新：2025-07-22 05:25
 - [sourcebot] 最后更新：2025-07-22 03:52
