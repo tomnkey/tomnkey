@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-07-22 01:45
+- [self-hosted] 最后更新：2025-07-22 00:35
+- [playwright] 最后更新：2025-07-21 23:10
+- [we-drawing] 最后更新：2025-07-21 23:01
+- [status-mobile] 最后更新：2025-07-21 22:57
+
+## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] gravityblast - gravityblast/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-07-22 00:35
 - [sourcebot] 最后更新：2025-07-21 23:41
 - [playwright] 最后更新：2025-07-21 23:10
