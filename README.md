@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-07-23 12:34
+- [status-go] 最后更新：2025-07-23 12:19
+- [status-desktop] 最后更新：2025-07-23 11:54
+- [survey-creator] 最后更新：2025-07-23 11:24
+- [playwright] 最后更新：2025-07-23 09:46
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [WatchEvent] bryanveloso - stackotter/swift-cross-ui
+- [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
+- [IssueCommentEvent] bryanveloso - matthewwithanm/django-imagekit
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-07-23 11:54
 - [gofr] 最后更新：2025-07-23 11:45
 - [survey-creator] 最后更新：2025-07-23 11:24
