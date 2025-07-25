@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-07-25 21:24
+- [sourcebot] 最后更新：2025-07-25 20:21
+- [status-desktop] 最后更新：2025-07-25 19:56
+- [readest] 最后更新：2025-07-25 19:13
+- [status-go] 最后更新：2025-07-25 18:55
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-07-25 20:21
 - [status-desktop] 最后更新：2025-07-25 19:56
 - [readest] 最后更新：2025-07-25 19:13
