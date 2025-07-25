@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - omnypro/ironmon-connect
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-07-24 23:35
+- [sourcebot] 最后更新：2025-07-24 23:15
+- [we-drawing] 最后更新：2025-07-24 23:01
+- [playwright] 最后更新：2025-07-24 21:42
+- [status-desktop] 最后更新：2025-07-24 21:40
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-07-24 23:01
 - [playwright] 最后更新：2025-07-24 21:42
 - [ollama] 最后更新：2025-07-24 21:40
