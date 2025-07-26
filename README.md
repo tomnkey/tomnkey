@@ -38,6 +38,25 @@ Here are some ideas to get you started:
 
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-07-26 16:22
+- [servers] 最后更新：2025-07-26 16:13
+- [readest] 最后更新：2025-07-26 12:34
+- [status-desktop] 最后更新：2025-07-26 11:22
+- [playwright] 最后更新：2025-07-26 02:55
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - omnypro/ironmon-connect
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
