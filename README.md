@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-27 13:02
+- [readest] 最后更新：2025-07-27 12:36
+- [self-hosted] 最后更新：2025-07-27 01:57
+- [sourcebot] 最后更新：2025-07-27 01:41
+- [playwright] 最后更新：2025-07-27 01:06
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-07-27 11:49
 - [readest] 最后更新：2025-07-27 06:25
 - [self-hosted] 最后更新：2025-07-27 01:57
