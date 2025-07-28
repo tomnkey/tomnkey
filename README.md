@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-07-28 17:00
+- [readest] 最后更新：2025-07-28 16:44
+- [status-mobile] 最后更新：2025-07-28 16:03
+- [status-desktop] 最后更新：2025-07-28 15:57
+- [playwright] 最后更新：2025-07-28 15:11
+
+## 🚀 关注动态
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+- [CreateEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+- [CreateEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-07-28 16:03
 - [status-desktop] 最后更新：2025-07-28 15:57
 - [status-go] 最后更新：2025-07-28 15:56
