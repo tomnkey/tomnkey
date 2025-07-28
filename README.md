@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [CreateEvent] jkp - tinyteamco/hydration-test-utils
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-07-28 02:31
+- [go-ethereum] 最后更新：2025-07-28 01:16
+- [sourcebot] 最后更新：2025-07-28 00:16
+- [we-drawing] 最后更新：2025-07-27 23:01
+- [ollama] 最后更新：2025-07-27 22:02
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+- [CreateEvent] jkp - tinyteamco/hydration-test-utils
+- [DeleteEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+- [CreateEvent] jkp - tinyteamco/hydration-test-utils
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2025-07-28 01:16
 - [sourcebot] 最后更新：2025-07-28 00:16
 - [we-drawing] 最后更新：2025-07-27 23:01
