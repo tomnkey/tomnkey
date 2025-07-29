@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - python-cffi/cffi
+- [IssueCommentEvent] alex - python-cffi/cffi
+- [IssueCommentEvent] alex - pyca/cryptography
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+- [CreateEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-07-29 18:51
+- [sourcebot] 最后更新：2025-07-29 18:37
+- [playwright] 最后更新：2025-07-29 18:30
+- [status-desktop] 最后更新：2025-07-29 16:12
+- [survey-creator] 最后更新：2025-07-29 15:41
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - python-cffi/cffi
 - [IssueCommentEvent] alex - python-cffi/cffi
 - [IssueCommentEvent] alex - pyca/cryptography
