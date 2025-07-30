@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-07-29 23:02
 
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [PullRequestReviewCommentEvent] alex - pyca/pynacl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - python-cffi/cffi
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-07-30 07:03
+- [ollama] 最后更新：2025-07-30 04:37
+- [readest] 最后更新：2025-07-30 03:00
+- [go-ethereum] 最后更新：2025-07-30 02:39
+- [we-drawing] 最后更新：2025-07-29 23:02
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - python-cffi/cffi
