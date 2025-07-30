@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [ReleaseEvent] jkp - tinyteamco/hydration-test-utils
+- [CreateEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] jkp - tinyteamco/hydration-test-utils
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-07-30 21:53
+- [playwright] 最后更新：2025-07-30 21:49
+- [ollama] 最后更新：2025-07-30 20:49
+- [status-desktop] 最后更新：2025-07-30 20:26
+- [status-go] 最后更新：2025-07-30 20:25
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [IssueCommentEvent] alex - pyca/cryptography
