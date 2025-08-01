@@ -38,6 +38,25 @@ Here are some ideas to get you started:
 
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-08-01 02:23
+- [sourcebot] 最后更新：2025-08-01 00:52
+- [we-drawing] 最后更新：2025-07-31 23:02
+- [ollama] 最后更新：2025-07-31 21:48
+- [status-go] 最后更新：2025-07-31 21:46
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [PushEvent] alex - pyca/cryptography
