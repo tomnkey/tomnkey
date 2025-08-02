@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/adb
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - alex/adb
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-02 18:38
+- [servers] 最后更新：2025-08-02 17:40
+- [survey-creator] 最后更新：2025-08-02 15:46
+- [readest] 最后更新：2025-08-02 15:09
+- [status-go] 最后更新：2025-08-02 13:39
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/adb
 - [PushEvent] alex - alex/adb
 - [WatchEvent] bryanveloso - domalab/ha-unraid
