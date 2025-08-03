@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-08-02 23:02
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-08-03 15:40
+- [status-desktop] 最后更新：2025-08-03 11:03
+- [readest] 最后更新：2025-08-03 03:36
+- [servers] 最后更新：2025-08-03 02:45
+- [we-drawing] 最后更新：2025-08-02 23:02
+
+## 🚀 关注动态
 - [CreateEvent] alex - certifi/python-certifi
 - [PushEvent] alex - certifi/python-certifi
 - [PullRequestEvent] alex - certifi/python-certifi
