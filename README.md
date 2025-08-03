@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-08-02 23:02
+- [status-desktop] 最后更新：2025-08-02 18:38
+- [servers] 最后更新：2025-08-02 17:40
+- [survey-creator] 最后更新：2025-08-02 15:46
+- [readest] 最后更新：2025-08-02 15:09
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/cryptography
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
