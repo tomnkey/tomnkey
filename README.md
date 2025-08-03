@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-08-03 02:45
+- [readest] 最后更新：2025-08-03 01:39
+- [we-drawing] 最后更新：2025-08-02 23:02
+- [status-desktop] 最后更新：2025-08-02 18:38
+- [survey-creator] 最后更新：2025-08-02 15:46
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - sfackler/rust-openssl
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
