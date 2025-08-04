@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-08-04 01:19
+- [self-hosted] 最后更新：2025-08-04 01:11
+- [we-drawing] 最后更新：2025-08-03 23:02
+- [status-desktop] 最后更新：2025-08-03 18:01
+- [status-go] 最后更新：2025-08-03 17:14
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/pyopenssl
 - [CreateEvent] alex - pyca/pyopenssl
 - [PullRequestReviewEvent] alex - pyca/pyopenssl
