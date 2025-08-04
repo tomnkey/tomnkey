@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/pyopenssl
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-04 14:48
+- [readest] 最后更新：2025-08-04 14:35
+- [go-ethereum] 最后更新：2025-08-04 14:24
+- [servers] 最后更新：2025-08-04 14:16
+- [status-go] 最后更新：2025-08-04 13:54
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/queries-rs
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2025-08-04 14:02
 - [status-go] 最后更新：2025-08-04 13:54
 - [status-desktop] 最后更新：2025-08-04 13:49
