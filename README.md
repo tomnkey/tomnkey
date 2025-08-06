@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-08-06 02:25
+- [ollama] 最后更新：2025-08-06 00:29
+- [self-hosted] 最后更新：2025-08-06 00:05
+- [status-desktop] 最后更新：2025-08-05 23:53
+- [sourcebot] 最后更新：2025-08-05 23:35
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/cryptography
 - [CreateEvent] alex - alex/cryptography
