@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-08-06 00:29
+- [self-hosted] 最后更新：2025-08-06 00:05
+- [status-desktop] 最后更新：2025-08-05 23:53
+- [sourcebot] 最后更新：2025-08-05 23:35
+- [we-drawing] 最后更新：2025-08-05 23:02
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] alex - alex/cryptography
