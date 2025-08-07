@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/pynacl
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-08-07 08:42
+- [status-desktop] 最后更新：2025-08-07 08:35
+- [playwright] 最后更新：2025-08-07 08:30
+- [gofr] 最后更新：2025-08-07 08:12
+- [status-go] 最后更新：2025-08-07 07:26
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-08-07 08:04
 - [status-go] 最后更新：2025-08-07 07:26
 - [playwright] 最后更新：2025-08-07 06:52
