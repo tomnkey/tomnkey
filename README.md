@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-08-07 03:54
+- [servers] 最后更新：2025-08-07 03:45
+- [readest] 最后更新：2025-08-07 03:40
+- [self-hosted] 最后更新：2025-08-07 03:14
+- [we-drawing] 最后更新：2025-08-06 23:02
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
