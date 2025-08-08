@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [WatchEvent] bryanveloso - legions-developer/evilcharts
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-08-08 09:03
+- [status-desktop] 最后更新：2025-08-08 09:01
+- [status-go] 最后更新：2025-08-08 08:24
+- [playwright] 最后更新：2025-08-08 07:34
+- [gofr] 最后更新：2025-08-08 05:47
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
