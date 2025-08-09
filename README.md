@@ -75,6 +75,25 @@ Here are some ideas to get you started:
 - [status-go] 最后更新：2025-08-08 22:08
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-08-09 05:28
+- [ollama] 最后更新：2025-08-09 04:42
+- [servers] 最后更新：2025-08-09 01:34
+- [we-drawing] 最后更新：2025-08-08 23:02
+- [status-go] 最后更新：2025-08-08 22:08
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
