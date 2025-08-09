@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-09 04:42
+- [readest] 最后更新：2025-08-09 04:23
+- [servers] 最后更新：2025-08-09 01:34
+- [we-drawing] 最后更新：2025-08-08 23:02
+- [status-go] 最后更新：2025-08-08 22:08
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-08-09 01:34
 - [ollama] 最后更新：2025-08-09 00:16
 - [we-drawing] 最后更新：2025-08-08 23:02
