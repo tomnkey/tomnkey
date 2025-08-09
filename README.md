@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-08-09 01:34
+- [ollama] 最后更新：2025-08-09 00:16
+- [we-drawing] 最后更新：2025-08-08 23:02
+- [status-go] 最后更新：2025-08-08 22:08
+- [sourcebot] 最后更新：2025-08-08 22:06
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] alex - alex/cryptography
