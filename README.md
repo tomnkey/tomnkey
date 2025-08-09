@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/pyopenssl
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-08-09 23:02
+- [ollama] 最后更新：2025-08-09 19:19
+- [readest] 最后更新：2025-08-09 17:01
+- [status-desktop] 最后更新：2025-08-09 14:18
+- [servers] 最后更新：2025-08-09 01:34
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/pyopenssl
+- [PushEvent] alex - alex/pyopenssl
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/pyopenssl
+- [PushEvent] alex - alex/pyopenssl
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-08-09 19:19
 - [readest] 最后更新：2025-08-09 17:01
 - [status-desktop] 最后更新：2025-08-09 14:18
