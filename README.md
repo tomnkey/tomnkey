@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [WatchEvent] bryanveloso - legions-developer/evilcharts
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-08-09 01:34
+- [ollama] 最后更新：2025-08-09 00:16
+- [we-drawing] 最后更新：2025-08-08 23:02
+- [status-go] 最后更新：2025-08-08 22:08
+- [sourcebot] 最后更新：2025-08-08 22:06
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/cryptography
