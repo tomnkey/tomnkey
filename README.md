@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-08-11 19:01
+- [gofr] 最后更新：2025-08-11 18:27
+- [readest] 最后更新：2025-08-11 17:41
+- [ollama] 最后更新：2025-08-11 17:22
+- [status-desktop] 最后更新：2025-08-11 17:18
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-08-11 17:41
 - [ollama] 最后更新：2025-08-11 17:22
 - [status-desktop] 最后更新：2025-08-11 17:18
