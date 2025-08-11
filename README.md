@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssuesEvent] alex - certifi/python-certifi
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-11 07:59
+- [survey-creator] 最后更新：2025-08-11 07:37
+- [go-ethereum] 最后更新：2025-08-11 07:00
+- [status-go] 最后更新：2025-08-11 06:58
+- [gofr] 最后更新：2025-08-11 04:36
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
