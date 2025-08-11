@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-08-11 15:01
+- [status-desktop] 最后更新：2025-08-11 14:45
+- [survey-creator] 最后更新：2025-08-11 14:13
+- [go-ethereum] 最后更新：2025-08-11 13:55
+- [self-hosted] 最后更新：2025-08-11 13:47
+
+## 🚀 关注动态
 - [PushEvent] alex - sfackler/rust-openssl
 - [PullRequestEvent] alex - sfackler/rust-openssl
 - [DeleteEvent] alex - alex/ex-post-progress
