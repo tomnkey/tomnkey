@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-08-12 13:47
+- [gofr] 最后更新：2025-08-12 13:27
+- [status-desktop] 最后更新：2025-08-12 13:16
+- [playwright] 最后更新：2025-08-12 12:50
+- [survey-creator] 最后更新：2025-08-12 12:43
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/rust-asn1
+- [DeleteEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-08-12 12:55
 - [playwright] 最后更新：2025-08-12 12:50
 - [status-desktop] 最后更新：2025-08-12 12:48
