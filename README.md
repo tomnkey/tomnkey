@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-12 18:02
+- [go-ethereum] 最后更新：2025-08-12 17:37
+- [status-desktop] 最后更新：2025-08-12 17:14
+- [status-go] 最后更新：2025-08-12 17:14
+- [readest] 最后更新：2025-08-12 16:59
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [CreateEvent] alex - pyca/infra
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-08-12 16:59
 - [kubeshark] 最后更新：2025-08-12 16:51
 - [sourcebot] 最后更新：2025-08-12 16:45
