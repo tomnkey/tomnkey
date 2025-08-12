@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [CreateEvent] alex - pyca/infra
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-08-12 16:59
+- [kubeshark] 最后更新：2025-08-12 16:51
+- [sourcebot] 最后更新：2025-08-12 16:45
+- [self-hosted] 最后更新：2025-08-12 16:24
+- [status-desktop] 最后更新：2025-08-12 16:00
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/infra
 - [PullRequestEvent] alex - pyca/infra
 - [PushEvent] alex - pyca/infra
