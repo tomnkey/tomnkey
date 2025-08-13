@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/line-counter
 - [PushEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-08-13 07:43
+- [go-ethereum] 最后更新：2025-08-13 07:08
+- [survey-creator] 最后更新：2025-08-13 06:31
+- [status-desktop] 最后更新：2025-08-13 06:21
+- [gofr] 最后更新：2025-08-13 05:59
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
 - [DeleteEvent] alex - alex/line-counter
 - [PushEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
