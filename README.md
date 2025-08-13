@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/line-counter
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-08-13 13:07
+- [gofr] 最后更新：2025-08-13 13:00
+- [status-desktop] 最后更新：2025-08-13 12:57
+- [survey-creator] 最后更新：2025-08-13 12:19
+- [playwright] 最后更新：2025-08-13 12:17
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-08-13 12:03
 - [go-ethereum] 最后更新：2025-08-13 11:51
 - [status-go] 最后更新：2025-08-13 11:44
