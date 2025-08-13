@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/line-counter
 - [PushEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-08-13 05:59
+- [self-hosted] 最后更新：2025-08-13 03:51
+- [ollama] 最后更新：2025-08-12 23:58
+- [we-drawing] 最后更新：2025-08-12 23:02
+- [status-go] 最后更新：2025-08-12 21:33
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
 - [IssueCommentEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - alex/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
