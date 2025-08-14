@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-08-14 09:47
+- [playwright] 最后更新：2025-08-14 08:57
+- [status-desktop] 最后更新：2025-08-14 08:51
+- [survey-creator] 最后更新：2025-08-14 08:42
+- [go-ethereum] 最后更新：2025-08-14 08:28
+
+## 🚀 关注动态
 - [DeleteEvent] bryanveloso - bryanveloso/landale
 - [CreateEvent] bryanveloso - bryanveloso/landale
 - [DeleteEvent] bryanveloso - bryanveloso/landale
