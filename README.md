@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-08-14 10:54
+- [status-desktop] 最后更新：2025-08-14 10:41
+- [status-go] 最后更新：2025-08-14 10:35
+- [survey-creator] 最后更新：2025-08-14 08:42
+- [go-ethereum] 最后更新：2025-08-14 08:28
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
 - [DeleteEvent] alex - alex/csv-sql
 - [PushEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
