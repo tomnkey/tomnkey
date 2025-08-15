@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-15 17:46
+- [status-go] 最后更新：2025-08-15 17:44
+- [servers] 最后更新：2025-08-15 17:38
+- [playwright] 最后更新：2025-08-15 16:50
+- [go-ethereum] 最后更新：2025-08-15 13:58
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
