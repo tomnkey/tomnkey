@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-14 23:39
+- [playwright] 最后更新：2025-08-14 23:36
+- [status-go] 最后更新：2025-08-14 23:34
+- [we-drawing] 最后更新：2025-08-14 23:02
+- [status-desktop] 最后更新：2025-08-14 21:28
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+- [PullRequestReviewCommentEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-08-14 23:02
 - [ollama] 最后更新：2025-08-14 22:35
 - [status-go] 最后更新：2025-08-14 22:09
