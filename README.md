@@ -41,6 +41,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [CreateEvent] alex - alex/pyo3
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-08-16 18:13
+- [status-desktop] 最后更新：2025-08-16 15:57
+- [self-hosted] 最后更新：2025-08-16 05:52
+- [playwright] 最后更新：2025-08-16 02:30
+- [we-drawing] 最后更新：2025-08-15 23:02
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PullRequestEvent] alex - PyO3/pyo3
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [CreateEvent] alex - alex/pyo3
