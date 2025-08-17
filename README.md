@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - nedbat/coveragepy
+- [PullRequestEvent] alex - nedbat/coveragepy
+- [PushEvent] alex - alex/coveragepy
+- [CreateEvent] alex - alex/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/retrotournaments.org
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - nedbat/coveragepy
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-08-17 23:02
+- [servers] 最后更新：2025-08-17 22:32
+- [ollama] 最后更新：2025-08-17 20:12
+- [status-desktop] 最后更新：2025-08-17 16:49
+- [readest] 最后更新：2025-08-17 12:15
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - nedbat/coveragepy
 - [IssueCommentEvent] alex - nedbat/coveragepy
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 - [PushEvent] bryanveloso - bryanveloso/retrotournaments.org
