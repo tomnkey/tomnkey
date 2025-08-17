@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/pyopenssl
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-08-17 12:15
+- [playwright] 最后更新：2025-08-17 11:52
+- [status-desktop] 最后更新：2025-08-17 09:47
+- [self-hosted] 最后更新：2025-08-17 09:00
+- [we-drawing] 最后更新：2025-08-16 23:02
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-08-17 11:52
 - [status-desktop] 最后更新：2025-08-17 09:47
 - [self-hosted] 最后更新：2025-08-17 09:00
