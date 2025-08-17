@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-17 05:55
+- [we-drawing] 最后更新：2025-08-16 23:02
+- [servers] 最后更新：2025-08-16 21:47
+- [self-hosted] 最后更新：2025-08-16 05:52
+- [playwright] 最后更新：2025-08-16 02:30
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [IssueCommentEvent] alex - pyca/pyopenssl
 - [PushEvent] bryanveloso - bryanveloso/landale
