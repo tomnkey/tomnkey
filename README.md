@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/pyo3
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/pyo3
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-08-18 19:02
+- [status-desktop] 最后更新：2025-08-18 19:02
+- [status-go] 最后更新：2025-08-18 18:26
+- [self-hosted] 最后更新：2025-08-18 18:05
+- [survey-creator] 最后更新：2025-08-18 17:43
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/pyo3
 - [PushEvent] alex - alex/pyo3
 - [PushEvent] alex - alex/pyo3
