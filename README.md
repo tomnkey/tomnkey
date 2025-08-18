@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/coveragepy
+- [IssueCommentEvent] alex - python/typeshed
+- [PushEvent] alex - alex/coveragepy
+- [PushEvent] alex - alex/coveragepy
+- [PushEvent] alex - alex/coveragepy
+- [DeleteEvent] alex - alex/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PullRequestEvent] alex - nedbat/coveragepy
+- [PushEvent] alex - alex/coveragepy
+
+## 🌟 Star动态
+- [grpc-proxy] 最后更新：2025-08-18 00:08
+- [status-desktop] 最后更新：2025-08-17 23:09
+- [we-drawing] 最后更新：2025-08-17 23:02
+- [servers] 最后更新：2025-08-17 22:32
+- [ollama] 最后更新：2025-08-17 20:12
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - python/typeshed
 - [PushEvent] alex - alex/coveragepy
 - [PushEvent] alex - alex/coveragepy
