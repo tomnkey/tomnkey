@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-08-18 23:02
+- [ollama] 最后更新：2025-08-18 21:21
+- [kubeshark] 最后更新：2025-08-18 20:44
+- [status-go] 最后更新：2025-08-18 20:35
+- [status-desktop] 最后更新：2025-08-18 20:14
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/pyo3
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-08-18 21:21
 - [kubeshark] 最后更新：2025-08-18 20:44
 - [status-go] 最后更新：2025-08-18 20:35
