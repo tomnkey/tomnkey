@@ -94,6 +94,25 @@ Here are some ideas to get you started:
 - [ollama] 最后更新：2025-08-17 20:12
 
 ## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [grpc-proxy] 最后更新：2025-08-18 00:08
+- [status-desktop] 最后更新：2025-08-17 23:09
+- [we-drawing] 最后更新：2025-08-17 23:02
+- [servers] 最后更新：2025-08-17 22:32
+- [ollama] 最后更新：2025-08-17 20:12
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/coveragepy
 - [IssueCommentEvent] alex - python/typeshed
