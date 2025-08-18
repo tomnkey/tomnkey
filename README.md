@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [CreateEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/ex-post-progress
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-08-18 18:02
+- [status-desktop] 最后更新：2025-08-18 17:57
+- [status-go] 最后更新：2025-08-18 17:56
+- [survey-creator] 最后更新：2025-08-18 17:43
+- [servers] 最后更新：2025-08-18 17:23
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/bcrypt
 - [PullRequestEvent] alex - pyca/bcrypt
