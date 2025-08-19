@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssuesEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-19 15:43
+- [status-go] 最后更新：2025-08-19 15:13
+- [survey-creator] 最后更新：2025-08-19 15:04
+- [playwright] 最后更新：2025-08-19 14:43
+- [servers] 最后更新：2025-08-19 14:10
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - nedbat/coveragepy
 - [IssueCommentEvent] alex - nedbat/coveragepy
 - [IssueCommentEvent] alex - nedbat/coveragepy
