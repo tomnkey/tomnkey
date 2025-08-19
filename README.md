@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-08-19 08:58
+- [status-desktop] 最后更新：2025-08-19 08:54
+- [readest] 最后更新：2025-08-19 08:21
+- [status-go] 最后更新：2025-08-19 08:07
+- [survey-creator] 最后更新：2025-08-19 07:17
+
+## 🚀 关注动态
+- [IssuesEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/pyo3
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-08-19 07:55
 - [status-desktop] 最后更新：2025-08-19 07:28
 - [gofr] 最后更新：2025-08-19 07:28
