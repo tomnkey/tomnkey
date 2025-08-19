@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssuesEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-08-19 14:43
+- [status-desktop] 最后更新：2025-08-19 14:35
+- [servers] 最后更新：2025-08-19 14:10
+- [gofr] 最后更新：2025-08-19 14:05
+- [readest] 最后更新：2025-08-19 13:49
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - nedbat/coveragepy
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [IssuesEvent] bryanveloso - bryanveloso/landale
 - [DeleteEvent] alex - alex/cryptography
