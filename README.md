@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-20 01:25
+- [go-ethereum] 最后更新：2025-08-20 01:20
+- [migrate] 最后更新：2025-08-19 23:25
+- [we-drawing] 最后更新：2025-08-19 23:02
+- [playwright] 最后更新：2025-08-19 21:35
+
+## 🚀 关注动态
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssuesEvent] bryanveloso - bryanveloso/landale
+- [DeleteEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [migrate] 最后更新：2025-08-19 23:25
 - [we-drawing] 最后更新：2025-08-19 23:02
 - [playwright] 最后更新：2025-08-19 21:35
