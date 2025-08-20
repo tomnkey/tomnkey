@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] bryanveloso - bryanveloso/landale
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-20 05:00
+- [gofr] 最后更新：2025-08-20 04:38
+- [readest] 最后更新：2025-08-20 03:57
+- [go-ethereum] 最后更新：2025-08-20 01:20
+- [migrate] 最后更新：2025-08-19 23:25
+
+## 🚀 关注动态
+- [IssuesEvent] alex - PyO3/pyo3
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssuesEvent] bryanveloso - bryanveloso/landale
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-08-20 04:00
 - [readest] 最后更新：2025-08-20 03:57
 - [ollama] 最后更新：2025-08-20 01:35
