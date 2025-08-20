@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-20 21:02
+- [go-ethereum] 最后更新：2025-08-20 20:33
+- [ollama] 最后更新：2025-08-20 19:21
+- [servers] 最后更新：2025-08-20 18:55
+- [gofr] 最后更新：2025-08-20 18:11
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/pyo3
 - [PushEvent] alex - alex/queries-rs
 - [PullRequestEvent] alex - alex/queries-rs
