@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [CreateEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-08-21 01:37
+- [ollama] 最后更新：2025-08-21 01:10
+- [playwright] 最后更新：2025-08-21 00:00
+- [migrate] 最后更新：2025-08-20 23:35
+- [we-drawing] 最后更新：2025-08-20 23:02
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [DeleteEvent] alex - alex/pyo3
 - [PushEvent] alex - alex/queries-rs
