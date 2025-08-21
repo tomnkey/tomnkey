@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [CreateEvent] alex - alex/pyo3
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-08-21 03:19
+- [go-ethereum] 最后更新：2025-08-21 01:37
+- [ollama] 最后更新：2025-08-21 01:10
+- [migrate] 最后更新：2025-08-20 23:35
+- [we-drawing] 最后更新：2025-08-20 23:02
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [PushEvent] alex - alex/pyo3
 - [PullRequestEvent] alex - PyO3/pyo3
