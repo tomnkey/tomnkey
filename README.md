@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [migrate] 最后更新：2025-08-23 20:12
+- [servers] 最后更新：2025-08-23 19:24
+- [ollama] 最后更新：2025-08-23 16:50
+- [self-hosted] 最后更新：2025-08-23 14:15
+- [readest] 最后更新：2025-08-23 08:28
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-08-23 19:24
 - [ollama] 最后更新：2025-08-23 16:50
 - [self-hosted] 最后更新：2025-08-23 14:15
