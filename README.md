@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-08-22 23:02
 
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [grpc-proxy] 最后更新：2025-08-23 04:15
+- [servers] 最后更新：2025-08-23 03:55
+- [status-desktop] 最后更新：2025-08-23 03:48
+- [ollama] 最后更新：2025-08-22 23:26
+- [we-drawing] 最后更新：2025-08-22 23:02
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/csv-sql
 - [PushEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
