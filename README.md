@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [self-hosted] 最后更新：2025-08-23 13:36
+- [readest] 最后更新：2025-08-23 08:28
+- [servers] 最后更新：2025-08-23 07:29
+- [grpc-proxy] 最后更新：2025-08-23 04:15
+- [status-desktop] 最后更新：2025-08-23 03:48
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-08-23 12:21
 - [readest] 最后更新：2025-08-23 08:28
 - [servers] 最后更新：2025-08-23 07:29
