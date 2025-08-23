@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-23 16:50
+- [self-hosted] 最后更新：2025-08-23 14:15
+- [readest] 最后更新：2025-08-23 08:28
+- [servers] 最后更新：2025-08-23 07:29
+- [grpc-proxy] 最后更新：2025-08-23 04:15
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-08-23 14:15
 - [readest] 最后更新：2025-08-23 08:28
 - [servers] 最后更新：2025-08-23 07:29
