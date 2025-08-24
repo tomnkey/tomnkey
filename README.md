@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - nedbat/coveragepy
+- [CreateEvent] alex - alex/coveragepy
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-08-24 01:44
+- [we-drawing] 最后更新：2025-08-23 23:02
+- [migrate] 最后更新：2025-08-23 20:12
+- [servers] 最后更新：2025-08-23 19:24
+- [self-hosted] 最后更新：2025-08-23 14:15
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - alex/cryptography
