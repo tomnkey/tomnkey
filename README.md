@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/coveragepy
+- [IssueCommentEvent] alex - nedbat/coveragepy
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - nedbat/coveragepy
+- [CreateEvent] alex - alex/coveragepy
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-24 21:10
+- [ollama] 最后更新：2025-08-24 20:44
+- [status-go] 最后更新：2025-08-24 20:15
+- [survey-creator] 最后更新：2025-08-24 13:03
+- [self-hosted] 最后更新：2025-08-24 11:35
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/coveragepy
 - [IssueCommentEvent] alex - nedbat/coveragepy
 - [PushEvent] bryanveloso - bryanveloso/landale
