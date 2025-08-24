@@ -75,6 +75,25 @@ Here are some ideas to get you started:
 - [v2rayA] 最后更新：2025-08-24 04:00
 
 ## 🚀 关注动态
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - nedbat/coveragepy
+- [CreateEvent] alex - alex/coveragepy
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-08-24 13:03
+- [self-hosted] 最后更新：2025-08-24 11:35
+- [kubeshark] 最后更新：2025-08-24 07:35
+- [readest] 最后更新：2025-08-24 06:29
+- [v2rayA] 最后更新：2025-08-24 04:00
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - nedbat/coveragepy
 - [CreateEvent] alex - alex/coveragepy
 - [PushEvent] alex - pyca/cryptography
