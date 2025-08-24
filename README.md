@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [kubeshark] 最后更新：2025-08-24 07:35
+- [readest] 最后更新：2025-08-24 06:29
+- [v2rayA] 最后更新：2025-08-24 04:00
+- [servers] 最后更新：2025-08-24 03:30
+- [migrate] 最后更新：2025-08-24 03:27
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - nedbat/coveragepy
+- [CreateEvent] alex - alex/coveragepy
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-08-24 06:29
 - [v2rayA] 最后更新：2025-08-24 04:00
 - [servers] 最后更新：2025-08-24 03:30
