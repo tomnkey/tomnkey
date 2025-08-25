@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [PushEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-08-25 06:01
+- [go-ethereum] 最后更新：2025-08-25 01:52
+- [ollama] 最后更新：2025-08-24 23:59
+- [we-drawing] 最后更新：2025-08-24 23:02
+- [status-desktop] 最后更新：2025-08-24 21:10
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] alex - alex/line-counter
 - [DeleteEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
