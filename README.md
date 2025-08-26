@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - PyO3/maturin
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-08-25 23:55
+- [we-drawing] 最后更新：2025-08-25 23:02
+- [status-go] 最后更新：2025-08-25 22:36
+- [playwright] 最后更新：2025-08-25 20:54
+- [status-desktop] 最后更新：2025-08-25 20:29
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewEvent] gravityblast - vacp2p/staking-reward-streamer
+- [PullRequestReviewCommentEvent] gravityblast - vacp2p/staking-reward-streamer
+- [DeleteEvent] alex - alex/maturin
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - PyO3/maturin
+- [PullRequestReviewCommentEvent] alex - PyO3/maturin
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-08-25 23:02
 - [status-go] 最后更新：2025-08-25 22:36
 - [playwright] 最后更新：2025-08-25 20:54
