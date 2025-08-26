@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 - [IssueCommentEvent] alex - metrics-rs/metrics
 - [PushEvent] bryanveloso - bryanveloso/landale
+- [WatchEvent] bryanveloso - PythonistaGuild/TwitchIO
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] bryanveloso - bryanveloso/landale
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-08-26 22:02
+- [go-ethereum] 最后更新：2025-08-26 21:43
+- [status-desktop] 最后更新：2025-08-26 21:26
+- [playwright] 最后更新：2025-08-26 21:03
+- [ollama] 最后更新：2025-08-26 20:57
+
+## 🚀 关注动态
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] bryanveloso - bryanveloso/landale
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
