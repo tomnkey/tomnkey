@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - rustsec/rustsec
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-08-27 17:00
+- [status-desktop] 最后更新：2025-08-27 16:51
+- [status-go] 最后更新：2025-08-27 16:00
+- [survey-creator] 最后更新：2025-08-27 15:55
+- [v2rayA] 最后更新：2025-08-27 13:01
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - rustsec/rustsec
+- [PullRequestEvent] alex - rustsec/rustsec
+- [CreateEvent] alex - rustsec/rustsec
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-08-27 16:00
 - [status-desktop] 最后更新：2025-08-27 15:58
 - [survey-creator] 最后更新：2025-08-27 15:55
