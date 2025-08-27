@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - alex/metrics
+- [PushEvent] alex - alex/metrics
+- [PushEvent] alex - alex/metrics
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-08-27 04:16
+- [sourcebot] 最后更新：2025-08-27 02:04
+- [go-ethereum] 最后更新：2025-08-27 01:49
+- [ollama] 最后更新：2025-08-26 23:41
+- [status-go] 最后更新：2025-08-26 23:09
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
