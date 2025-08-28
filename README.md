@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - PyO3/pyo3
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-08-28 06:03
+- [playwright] 最后更新：2025-08-27 23:27
+- [ollama] 最后更新：2025-08-27 23:24
+- [we-drawing] 最后更新：2025-08-27 23:02
+- [status-go] 最后更新：2025-08-27 21:06
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-08-28 04:59
 - [playwright] 最后更新：2025-08-27 23:27
 - [ollama] 最后更新：2025-08-27 23:24
