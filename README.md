@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - Consensys/linea-monorepo
+- [PullRequestEvent] gravityblast - Consensys/linea-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - pyca/infra
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-08-28 16:36
+- [status-desktop] 最后更新：2025-08-28 16:27
+- [survey-creator] 最后更新：2025-08-28 15:40
+- [kubeshark] 最后更新：2025-08-28 15:22
+- [playwright] 最后更新：2025-08-28 15:02
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/infra
 - [IssueCommentEvent] alex - pyca/infra
 - [PullRequestReviewEvent] alex - pyca/cryptography
