@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [coredns] 最后更新：2025-08-29 06:03
 
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/setuptools-rust
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-29 08:02
+- [go-ethereum] 最后更新：2025-08-29 07:43
+- [survey-creator] 最后更新：2025-08-29 07:40
+- [playwright] 最后更新：2025-08-29 07:18
+- [coredns] 最后更新：2025-08-29 06:03
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/setuptools-rust
 - [DeleteEvent] alex - alex/pyo3
 - [PullRequestEvent] gravityblast - status-im/status-network-monorepo
