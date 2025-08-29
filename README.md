@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-08-29 15:51
+- [status-desktop] 最后更新：2025-08-29 15:51
+- [playwright] 最后更新：2025-08-29 15:30
+- [survey-creator] 最后更新：2025-08-29 15:27
+- [servers] 最后更新：2025-08-29 15:06
+
+## 🚀 关注动态
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-08-29 14:51
 - [status-desktop] 最后更新：2025-08-29 14:47
 - [survey-creator] 最后更新：2025-08-29 14:38
