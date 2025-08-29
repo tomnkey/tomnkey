@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-08-29 00:54
+- [ollama] 最后更新：2025-08-29 00:30
+- [survey-creator] 最后更新：2025-08-28 23:39
+- [we-drawing] 最后更新：2025-08-28 23:02
+- [servers] 最后更新：2025-08-28 21:23
+
+## 🚀 关注动态
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [PullRequestEvent] gravityblast - vacp2p/linea-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - Consensys/linea-monorepo
+- [PullRequestEvent] gravityblast - Consensys/linea-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-08-29 00:03
 - [survey-creator] 最后更新：2025-08-28 23:39
 - [we-drawing] 最后更新：2025-08-28 23:02
