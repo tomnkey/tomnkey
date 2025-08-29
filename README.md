@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-29 11:51
+- [status-go] 最后更新：2025-08-29 11:51
+- [gofr] 最后更新：2025-08-29 11:40
+- [servers] 最后更新：2025-08-29 11:16
+- [playwright] 最后更新：2025-08-29 09:58
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
 - [DeleteEvent] alex - pyca/cryptography
