@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [migrate] 最后更新：2025-08-29 18:17
+- [kubeshark] 最后更新：2025-08-29 18:06
+- [status-desktop] 最后更新：2025-08-29 17:30
+- [status-go] 最后更新：2025-08-29 17:22
+- [readest] 最后更新：2025-08-29 17:10
+
+## 🚀 关注动态
 - [DeleteEvent] gravityblast - status-im/status-network-monorepo
 - [PushEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestEvent] gravityblast - status-im/status-network-monorepo
