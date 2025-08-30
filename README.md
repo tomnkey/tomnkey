@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-08-30 09:03
+- [status-go] 最后更新：2025-08-30 08:54
+- [gofr] 最后更新：2025-08-30 06:13
+- [readest] 最后更新：2025-08-30 04:19
+- [self-hosted] 最后更新：2025-08-30 01:00
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-08-30 08:54
 - [status-go] 最后更新：2025-08-30 08:54
 - [gofr] 最后更新：2025-08-30 06:13
