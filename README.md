@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-08-30 23:02
+- [gofr] 最后更新：2025-08-30 14:09
+- [status-desktop] 最后更新：2025-08-30 09:03
+- [status-go] 最后更新：2025-08-30 08:54
+- [readest] 最后更新：2025-08-30 04:19
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/obs-audio-to-websocket
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-08-30 14:09
 - [status-desktop] 最后更新：2025-08-30 09:03
 - [status-go] 最后更新：2025-08-30 08:54
