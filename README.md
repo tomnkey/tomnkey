@@ -24,6 +24,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pytest-dev/pytest-cov
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-08-31 17:52
+- [readest] 最后更新：2025-08-31 14:53
+- [playwright] 最后更新：2025-08-31 06:10
+- [we-drawing] 最后更新：2025-08-30 23:02
+- [gofr] 最后更新：2025-08-30 14:09
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pytest-dev/pytest-cov
