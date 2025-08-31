@@ -106,6 +106,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-08-31 08:15
+- [playwright] 最后更新：2025-08-31 06:10
+- [we-drawing] 最后更新：2025-08-30 23:02
+- [gofr] 最后更新：2025-08-30 14:09
+- [status-desktop] 最后更新：2025-08-30 09:03
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-08-31 06:10
 - [readest] 最后更新：2025-08-31 03:46
 - [we-drawing] 最后更新：2025-08-30 23:02
