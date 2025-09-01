@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/pyopenssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-01 13:08
+- [go-ethereum] 最后更新：2025-09-01 13:06
+- [status-desktop] 最后更新：2025-09-01 12:25
+- [readest] 最后更新：2025-09-01 12:23
+- [grpc-proxy] 最后更新：2025-09-01 12:10
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
