@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [CreateEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssuesEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-09-01 06:59
+- [playwright] 最后更新：2025-09-01 06:51
+- [go-ethereum] 最后更新：2025-09-01 05:47
+- [status-go] 最后更新：2025-09-01 05:27
+- [readest] 最后更新：2025-09-01 05:05
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] alex - alex/pyo3
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] alex - alex/pyo3
