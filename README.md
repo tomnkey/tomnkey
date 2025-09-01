@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-09-01 23:02
+- [gofr] 最后更新：2025-09-01 20:44
+- [status-go] 最后更新：2025-09-01 20:12
+- [go-ethereum] 最后更新：2025-09-01 18:38
+- [status-desktop] 最后更新：2025-09-01 17:43
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-09-01 20:44
 - [status-go] 最后更新：2025-09-01 20:12
 - [go-ethereum] 最后更新：2025-09-01 18:38
