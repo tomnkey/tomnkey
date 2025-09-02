@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-02 09:54
+- [gofr] 最后更新：2025-09-02 09:21
+- [status-go] 最后更新：2025-09-02 09:14
+- [survey-creator] 最后更新：2025-09-02 06:40
+- [self-hosted] 最后更新：2025-09-02 01:14
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-02 07:45
 - [gofr] 最后更新：2025-09-02 06:47
 - [survey-creator] 最后更新：2025-09-02 06:40
