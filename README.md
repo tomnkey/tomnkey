@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-09-02 19:55
+- [status-desktop] 最后更新：2025-09-02 19:31
+- [ollama] 最后更新：2025-09-02 19:30
+- [status-go] 最后更新：2025-09-02 19:24
+- [sourcebot] 最后更新：2025-09-02 18:18
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-02 18:53
 - [sourcebot] 最后更新：2025-09-02 18:18
 - [status-desktop] 最后更新：2025-09-02 18:15
