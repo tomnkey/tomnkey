@@ -23,6 +23,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] alex - metrics-rs/metrics
+- [PullRequestReviewCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-02 21:43
+- [status-desktop] 最后更新：2025-09-02 21:27
+- [ollama] 最后更新：2025-09-02 20:09
+- [playwright] 最后更新：2025-09-02 19:55
+- [sourcebot] 最后更新：2025-09-02 18:18
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [DeleteEvent] alex - alex/csv-sql
 - [PushEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
