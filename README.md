@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssuesEvent] alex - rust-lang/crates.io
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PullRequestReviewEvent] alex - metrics-rs/metrics
+- [PullRequestReviewCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - developmentseed/obstore
+- [IssueCommentEvent] alex - PyO3/pyo3-async-runtimes
+- [IssueCommentEvent] alex - developmentseed/obstore
+- [IssueCommentEvent] alex - kylebarron/arro3
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-09-03 15:00
+- [readest] 最后更新：2025-09-03 14:42
+- [status-desktop] 最后更新：2025-09-03 14:28
+- [status-go] 最后更新：2025-09-03 13:53
+- [self-hosted] 最后更新：2025-09-03 12:25
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
 - [PullRequestReviewEvent] alex - metrics-rs/metrics
 - [PullRequestReviewCommentEvent] alex - metrics-rs/metrics
