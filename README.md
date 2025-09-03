@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - PyO3/pyo3-async-runtimes
+- [IssueCommentEvent] alex - developmentseed/obstore
+- [IssueCommentEvent] alex - kylebarron/arro3
+- [IssueCommentEvent] alex - kylebarron/arro3
+- [DeleteEvent] alex - alex/arro3
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-03 09:52
+- [playwright] 最后更新：2025-09-03 09:08
+- [readest] 最后更新：2025-09-03 09:06
+- [servers] 最后更新：2025-09-03 09:03
+- [status-go] 最后更新：2025-09-03 09:01
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - developmentseed/obstore
 - [IssueCommentEvent] alex - kylebarron/arro3
 - [IssueCommentEvent] alex - kylebarron/arro3
