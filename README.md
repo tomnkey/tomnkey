@@ -38,6 +38,25 @@ Here are some ideas to get you started:
 
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - kylebarron/arro3
+- [IssueCommentEvent] alex - kylebarron/arro3
+- [DeleteEvent] alex - alex/arro3
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PullRequestReviewEvent] alex - metrics-rs/metrics
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-09-03 00:26
+- [playwright] 最后更新：2025-09-02 23:14
+- [we-drawing] 最后更新：2025-09-02 23:02
+- [ollama] 最后更新：2025-09-02 22:44
+- [status-desktop] 最后更新：2025-09-02 22:10
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - kylebarron/arro3
 - [DeleteEvent] alex - alex/arro3
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
