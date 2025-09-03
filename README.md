@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - metrics-rs/metrics
+- [PullRequestReviewCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - developmentseed/obstore
+- [IssueCommentEvent] alex - PyO3/pyo3-async-runtimes
+- [IssueCommentEvent] alex - developmentseed/obstore
+- [IssueCommentEvent] alex - kylebarron/arro3
+- [IssueCommentEvent] alex - kylebarron/arro3
+- [DeleteEvent] alex - alex/arro3
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-03 13:57
+- [status-go] 最后更新：2025-09-03 13:53
+- [self-hosted] 最后更新：2025-09-03 12:25
+- [playwright] 最后更新：2025-09-03 09:08
+- [readest] 最后更新：2025-09-03 09:06
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
 - [IssueCommentEvent] alex - developmentseed/obstore
 - [IssueCommentEvent] alex - PyO3/pyo3-async-runtimes
 - [IssueCommentEvent] alex - developmentseed/obstore
