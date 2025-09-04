@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - developmentseed/obstore
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-09-04 00:31
+- [playwright] 最后更新：2025-09-04 00:29
+- [we-drawing] 最后更新：2025-09-03 23:02
+- [status-go] 最后更新：2025-09-03 22:52
+- [status-desktop] 最后更新：2025-09-03 21:04
+
+## 🚀 关注动态
+- [IssuesEvent] alex - rust-lang/crates.io
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PullRequestReviewEvent] alex - metrics-rs/metrics
+- [PullRequestReviewCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - developmentseed/obstore
+- [IssueCommentEvent] alex - PyO3/pyo3-async-runtimes
+- [IssueCommentEvent] alex - developmentseed/obstore
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-09-03 23:36
 - [we-drawing] 最后更新：2025-09-03 23:02
 - [status-go] 最后更新：2025-09-03 22:52
