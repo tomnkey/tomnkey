@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - alex/bcrypt
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-09-04 22:02
+- [playwright] 最后更新：2025-09-04 21:28
+- [status-desktop] 最后更新：2025-09-04 21:08
+- [status-go] 最后更新：2025-09-04 19:26
+- [survey-creator] 最后更新：2025-09-04 19:07
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [DeleteEvent] alex - alex/csv-sql
 - [PushEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
