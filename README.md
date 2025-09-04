@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-04 07:47
+- [go-ethereum] 最后更新：2025-09-04 07:42
+- [readest] 最后更新：2025-09-04 07:38
+- [status-go] 最后更新：2025-09-04 06:16
+- [ollama] 最后更新：2025-09-04 00:31
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [IssuesEvent] gravityblast - status-im/status-network-monorepo
+- [IssuesEvent] alex - rust-lang/crates.io
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-04 06:16
 - [readest] 最后更新：2025-09-04 06:04
 - [ollama] 最后更新：2025-09-04 00:31
