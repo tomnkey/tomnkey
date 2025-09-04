@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] alex - alex/line-counter
+- [IssuesEvent] gravityblast - status-im/status-network-monorepo
+- [IssuesEvent] alex - rust-lang/crates.io
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-04 06:16
+- [readest] 最后更新：2025-09-04 06:04
+- [ollama] 最后更新：2025-09-04 00:31
+- [playwright] 最后更新：2025-09-04 00:29
+- [we-drawing] 最后更新：2025-09-03 23:02
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/line-counter
 - [PushEvent] alex - alex/line-counter
 - [PullRequestEvent] alex - alex/line-counter
