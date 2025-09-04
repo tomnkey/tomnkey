@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/line-counter
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-09-04 20:55
+- [status-desktop] 最后更新：2025-09-04 20:29
+- [playwright] 最后更新：2025-09-04 20:27
+- [status-go] 最后更新：2025-09-04 19:26
+- [survey-creator] 最后更新：2025-09-04 19:07
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/line-counter
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-04 20:01
 - [status-go] 最后更新：2025-09-04 19:26
 - [playwright] 最后更新：2025-09-04 19:11
