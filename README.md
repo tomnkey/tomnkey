@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-09-05 23:02
+- [ollama] 最后更新：2025-09-05 21:32
+- [status-go] 最后更新：2025-09-05 19:03
+- [status-desktop] 最后更新：2025-09-05 17:14
+- [readest] 最后更新：2025-09-05 16:56
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [IssueCommentEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
