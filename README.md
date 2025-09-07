@@ -38,6 +38,25 @@ Here are some ideas to get you started:
 
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - tokio-rs/bytes
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-09-07 14:14
+- [gofr] 最后更新：2025-09-07 14:00
+- [playwright] 最后更新：2025-09-07 11:41
+- [we-drawing] 最后更新：2025-09-06 23:01
+- [status-desktop] 最后更新：2025-09-06 16:18
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [IssueCommentEvent] alex - pyca/bcrypt
 - [PushEvent] alex - pyca/bcrypt
