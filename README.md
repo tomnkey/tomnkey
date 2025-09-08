@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-09-08 23:02
+- [status-go] 最后更新：2025-09-08 22:26
+- [playwright] 最后更新：2025-09-08 22:22
+- [ollama] 最后更新：2025-09-08 22:17
+- [status-desktop] 最后更新：2025-09-08 22:09
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - sfackler/rust-openssl
 - [DeleteEvent] alex - pyca/bcrypt
 - [PushEvent] bryanveloso - bryanveloso/synthform
