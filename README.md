@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - sfackler/rust-openssl
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-09-08 07:43
+- [status-desktop] 最后更新：2025-09-08 06:57
+- [gofr] 最后更新：2025-09-08 06:46
+- [survey-creator] 最后更新：2025-09-08 06:44
+- [go-ethereum] 最后更新：2025-09-08 06:00
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [CreateEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-08 06:57
 - [gofr] 最后更新：2025-09-08 06:46
 - [survey-creator] 最后更新：2025-09-08 06:44
