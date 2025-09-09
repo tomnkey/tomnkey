@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-09-09 23:02
+- [ollama] 最后更新：2025-09-09 22:55
+- [playwright] 最后更新：2025-09-09 22:30
+- [status-go] 最后更新：2025-09-09 22:12
+- [survey-creator] 最后更新：2025-09-09 20:29
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [IssueCommentEvent] alex - alex/csv-sql
+- [IssueCommentEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-09 22:01
 - [ollama] 最后更新：2025-09-09 21:56
 - [survey-creator] 最后更新：2025-09-09 20:29
