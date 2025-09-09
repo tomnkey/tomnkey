@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-09-09 10:00
+- [status-desktop] 最后更新：2025-09-09 09:59
+- [survey-creator] 最后更新：2025-09-09 09:46
+- [readest] 最后更新：2025-09-09 09:25
+- [playwright] 最后更新：2025-09-09 07:48
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-09 09:01
 - [survey-creator] 最后更新：2025-09-09 08:12
 - [status-desktop] 最后更新：2025-09-09 07:54
