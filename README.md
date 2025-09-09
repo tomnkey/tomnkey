@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-09 15:59
+- [status-desktop] 最后更新：2025-09-09 15:44
+- [survey-creator] 最后更新：2025-09-09 15:25
+- [self-hosted] 最后更新：2025-09-09 15:15
+- [playwright] 最后更新：2025-09-09 13:47
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/obs-entei
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
