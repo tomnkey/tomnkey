@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - sfackler/rust-openssl
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-09-09 18:00
+- [status-go] 最后更新：2025-09-09 17:48
+- [readest] 最后更新：2025-09-09 16:18
+- [status-desktop] 最后更新：2025-09-09 16:06
+- [survey-creator] 最后更新：2025-09-09 15:25
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/obs-entei
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-09 17:02
 - [ollama] 最后更新：2025-09-09 16:32
 - [readest] 最后更新：2025-09-09 16:18
