@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/pynacl
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-09-10 20:42
+- [status-desktop] 最后更新：2025-09-10 20:08
+- [playwright] 最后更新：2025-09-10 19:41
+- [status-go] 最后更新：2025-09-10 19:19
+- [go-ethereum] 最后更新：2025-09-10 17:51
+
+## 🚀 关注动态
+- [CreateEvent] bryanveloso - bryanveloso/obs-toolbar
+- [CreateEvent] bryanveloso - bryanveloso/obs-toolbar
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-09-10 20:02
 - [playwright] 最后更新：2025-09-10 19:41
 - [status-go] 最后更新：2025-09-10 19:19
