@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [CreateEvent] bryanveloso - bryanveloso/obs-toolbar
+- [CreateEvent] bryanveloso - bryanveloso/obs-toolbar
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-10 22:38
+- [playwright] 最后更新：2025-09-10 22:35
+- [ollama] 最后更新：2025-09-10 21:40
+- [status-desktop] 最后更新：2025-09-10 20:08
+- [go-ethereum] 最后更新：2025-09-10 17:51
+
+## 🚀 关注动态
 - [CreateEvent] bryanveloso - bryanveloso/obs-toolbar
 - [CreateEvent] bryanveloso - bryanveloso/obs-toolbar
 - [PushEvent] bryanveloso - bryanveloso/synthform
