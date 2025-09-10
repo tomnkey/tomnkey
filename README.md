@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/pynacl
+- [CreateEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [PullRequestReviewCommentEvent] alex - pyca/pynacl
+- [PublicEvent] alex - alex/flat-combining
+- [CreateEvent] alex - alex/metrics
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-10 09:55
+- [status-desktop] 最后更新：2025-09-10 09:46
+- [go-ethereum] 最后更新：2025-09-10 07:25
+- [gofr] 最后更新：2025-09-10 06:05
+- [playwright] 最后更新：2025-09-10 05:31
+
+## 🚀 关注动态
 - [CreateEvent] alex - alex/metrics
 - [PullRequestReviewEvent] alex - sfackler/rust-openssl
 - [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
