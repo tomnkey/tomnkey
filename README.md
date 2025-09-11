@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [status-desktop] 最后更新：2025-09-10 20:08
 
 ## 🚀 关注动态
+- [PushEvent] alex - alex/ex-post-progress
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [grpc-proxy] 最后更新：2025-09-11 03:55
+- [ollama] 最后更新：2025-09-11 02:56
+- [playwright] 最后更新：2025-09-11 00:37
+- [status-go] 最后更新：2025-09-10 22:38
+- [status-desktop] 最后更新：2025-09-10 20:08
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - sfackler/rust-openssl
 - [IssueCommentEvent] alex - sfackler/rust-openssl
 - [PushEvent] alex - sfackler/rust-openssl
