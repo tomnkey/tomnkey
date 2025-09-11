@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [grpc-proxy] 最后更新：2025-09-11 03:55
+- [ollama] 最后更新：2025-09-11 02:56
+- [playwright] 最后更新：2025-09-11 00:37
+- [status-go] 最后更新：2025-09-10 22:38
+- [status-desktop] 最后更新：2025-09-10 20:08
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-09-11 02:56
 - [playwright] 最后更新：2025-09-11 00:37
 - [status-go] 最后更新：2025-09-10 22:38
