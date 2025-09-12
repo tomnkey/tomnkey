@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/ex-post-progress
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-12 09:49
+- [readest] 最后更新：2025-09-12 09:43
+- [status-go] 最后更新：2025-09-12 09:40
+- [playwright] 最后更新：2025-09-12 09:11
+- [go-ethereum] 最后更新：2025-09-12 09:08
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - alex/ex-post-progress
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-12 08:51
 - [status-go] 最后更新：2025-09-12 08:36
 - [gofr] 最后更新：2025-09-12 06:28
