@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - alex/ex-post-progress
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-09-12 01:26
+- [servers] 最后更新：2025-09-12 01:17
+- [self-hosted] 最后更新：2025-09-12 00:40
+- [status-desktop] 最后更新：2025-09-12 00:31
+- [we-drawing] 最后更新：2025-09-11 23:02
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] alex - alex/ex-post-progress
