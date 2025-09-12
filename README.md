@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-09-12 14:59
+- [self-hosted] 最后更新：2025-09-12 14:55
+- [status-go] 最后更新：2025-09-12 14:48
+- [status-desktop] 最后更新：2025-09-12 14:47
+- [gofr] 最后更新：2025-09-12 14:00
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-09-12 14:03
 - [status-desktop] 最后更新：2025-09-12 14:02
 - [status-go] 最后更新：2025-09-12 14:00
