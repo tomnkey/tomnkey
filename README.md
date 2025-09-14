@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/pyopenssl
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-09-14 03:50
+- [readest] 最后更新：2025-09-14 00:49
+- [we-drawing] 最后更新：2025-09-13 23:02
+- [status-desktop] 最后更新：2025-09-13 13:50
+- [go-ethereum] 最后更新：2025-09-13 13:27
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - orium/rpds
+- [CreateEvent] alex - alex/rpds
+- [ForkEvent] alex - orium/rpds
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - alex/pyopenssl
+- [DeleteEvent] alex - alex/pyopenssl
+- [PushEvent] alex - alex/pyopenssl
+- [DeleteEvent] alex - alex/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - alex/pyopenssl
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-09-14 00:49
 - [we-drawing] 最后更新：2025-09-13 23:02
 - [status-desktop] 最后更新：2025-09-13 13:50
