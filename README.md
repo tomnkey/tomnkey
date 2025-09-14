@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - twisted/twisted
+- [PushEvent] alex - alex/twisted
+- [PushEvent] alex - alex/twisted
+- [IssueCommentEvent] alex - twisted/twisted
+- [PushEvent] alex - alex/twisted
+- [PullRequestEvent] alex - twisted/twisted
+- [CreateEvent] alex - alex/twisted
+- [DeleteEvent] alex - alex/cryptography
+- [CreateEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - alex/pyopenssl
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-09-14 20:30
+- [readest] 最后更新：2025-09-14 20:08
+- [status-go] 最后更新：2025-09-14 16:29
+- [servers] 最后更新：2025-09-14 03:50
+- [we-drawing] 最后更新：2025-09-13 23:02
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - vorner/pyo3-log
 - [PushEvent] alex - alex/pyo3-log
 - [IssueCommentEvent] alex - vorner/pyo3-log
