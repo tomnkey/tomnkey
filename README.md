@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-09-17 16:52
+- [status-desktop] 最后更新：2025-09-17 16:50
+- [status-go] 最后更新：2025-09-17 16:38
+- [survey-creator] 最后更新：2025-09-17 15:40
+- [self-hosted] 最后更新：2025-09-17 14:42
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
