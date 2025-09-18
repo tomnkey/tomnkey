@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-09-18 11:01
+- [gofr] 最后更新：2025-09-18 10:46
+- [kubeshark] 最后更新：2025-09-18 10:42
+- [status-desktop] 最后更新：2025-09-18 10:25
+- [survey-creator] 最后更新：2025-09-18 08:55
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-18 09:47
 - [survey-creator] 最后更新：2025-09-18 08:55
 - [go-ethereum] 最后更新：2025-09-18 06:46
