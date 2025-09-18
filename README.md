@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-09-18 23:02
+- [ollama] 最后更新：2025-09-18 22:59
+- [go-ethereum] 最后更新：2025-09-18 22:53
+- [sourcebot] 最后更新：2025-09-18 22:06
+- [playwright] 最后更新：2025-09-18 22:06
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewCommentEvent] alex - pyca/bcrypt
+- [PullRequestReviewCommentEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-09-18 21:57
 - [playwright] 最后更新：2025-09-18 21:46
 - [servers] 最后更新：2025-09-18 21:29
