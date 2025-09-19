@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-09-19 17:50
+- [status-desktop] 最后更新：2025-09-19 17:35
+- [status-go] 最后更新：2025-09-19 17:34
+- [playwright] 最后更新：2025-09-19 15:52
+- [self-hosted] 最后更新：2025-09-19 14:47
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-09-19 16:58
 - [status-desktop] 最后更新：2025-09-19 16:58
 - [status-go] 最后更新：2025-09-19 16:56
