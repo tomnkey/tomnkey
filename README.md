@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-09-19 09:50
+- [status-desktop] 最后更新：2025-09-19 09:35
+- [playwright] 最后更新：2025-09-19 08:49
+- [survey-creator] 最后更新：2025-09-19 08:28
+- [status-go] 最后更新：2025-09-19 08:03
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-09-19 08:49
 - [survey-creator] 最后更新：2025-09-19 08:28
 - [readest] 最后更新：2025-09-19 08:22
