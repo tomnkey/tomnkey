@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-09-19 23:58
+- [playwright] 最后更新：2025-09-19 23:42
+- [go-ethereum] 最后更新：2025-09-19 23:23
+- [sourcebot] 最后更新：2025-09-19 23:22
+- [we-drawing] 最后更新：2025-09-19 23:02
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-09-19 23:02
 - [go-ethereum] 最后更新：2025-09-19 23:00
 - [sourcebot] 最后更新：2025-09-19 22:46
