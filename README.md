@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - tokio-rs/prost
+- [PullRequestEvent] alex - tokio-rs/prost
+- [PushEvent] alex - alex/prost
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/prost
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-09-21 20:34
+- [readest] 最后更新：2025-09-21 06:22
+- [status-desktop] 最后更新：2025-09-21 06:05
+- [playwright] 最后更新：2025-09-21 05:21
+- [ollama] 最后更新：2025-09-20 23:46
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - tokio-rs/prost
 - [PullRequestEvent] alex - tokio-rs/prost
 - [PushEvent] alex - alex/prost
