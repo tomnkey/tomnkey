@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - tokio-rs/prost
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-22 08:53
+- [ollama] 最后更新：2025-09-22 08:48
+- [status-go] 最后更新：2025-09-22 08:19
+- [survey-creator] 最后更新：2025-09-22 08:05
+- [go-ethereum] 最后更新：2025-09-22 06:48
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - tokio-rs/prost
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-22 06:54
 - [go-ethereum] 最后更新：2025-09-22 06:48
 - [we-drawing] 最后更新：2025-09-21 23:02
