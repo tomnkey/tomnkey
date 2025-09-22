@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-09-22 15:43
+- [status-desktop] 最后更新：2025-09-22 15:43
+- [playwright] 最后更新：2025-09-22 15:21
+- [status-go] 最后更新：2025-09-22 15:19
+- [survey-creator] 最后更新：2025-09-22 15:07
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
 - [PullRequestReviewEvent] alex - pyca/cryptography
