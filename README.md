@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] jkp - RoPieee/RoPieee
+- [IssuesEvent] jkp - RoPieee/RoPieee
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-09-23 07:52
+- [survey-creator] 最后更新：2025-09-23 07:52
+- [status-desktop] 最后更新：2025-09-23 07:48
+- [readest] 最后更新：2025-09-23 06:53
+- [ollama] 最后更新：2025-09-23 06:20
+
+## 🚀 关注动态
 - [IssueCommentEvent] jkp - RoPieee/RoPieee
 - [IssuesEvent] jkp - RoPieee/RoPieee
 - [IssueCommentEvent] alex - PyO3/pyo3
