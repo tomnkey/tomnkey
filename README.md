@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-09-24 05:28
+- [sourcebot] 最后更新：2025-09-24 04:30
+- [gofr] 最后更新：2025-09-24 04:11
+- [status-desktop] 最后更新：2025-09-24 03:17
+- [go-ethereum] 最后更新：2025-09-24 02:36
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [IssueCommentEvent] alex - pyca/pynacl
 - [DeleteEvent] alex - pyca/cryptography
