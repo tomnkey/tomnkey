@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssuesEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-24 11:53
+- [survey-creator] 最后更新：2025-09-24 11:05
+- [status-desktop] 最后更新：2025-09-24 11:04
+- [readest] 最后更新：2025-09-24 10:19
+- [playwright] 最后更新：2025-09-24 10:05
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - C2SP/wycheproof
 - [PushEvent] alex - sfackler/rust-openssl
 - [PullRequestEvent] alex - sfackler/rust-openssl
