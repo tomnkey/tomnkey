@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [kubeshark] 最后更新：2025-09-24 13:53
+- [status-desktop] 最后更新：2025-09-24 13:45
+- [status-go] 最后更新：2025-09-24 13:45
+- [survey-creator] 最后更新：2025-09-24 13:16
+- [servers] 最后更新：2025-09-24 12:52
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssuesEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-24 13:02
 - [servers] 最后更新：2025-09-24 12:52
 - [status-desktop] 最后更新：2025-09-24 12:34
