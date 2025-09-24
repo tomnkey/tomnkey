@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - metrics-rs/metrics
 - [DeleteEvent] alex - alex/metrics
 - [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssuesEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [PullRequestReviewEvent] alex - sfackler/rust-openssl
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-09-24 23:03
+- [ollama] 最后更新：2025-09-24 22:53
+- [playwright] 最后更新：2025-09-24 22:20
+- [status-desktop] 最后更新：2025-09-24 21:59
+- [status-go] 最后更新：2025-09-24 21:13
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - pyca/bcrypt
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [IssuesEvent] alex - certifi/python-certifi
 - [IssueCommentEvent] alex - C2SP/wycheproof
