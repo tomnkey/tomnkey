@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-09-25 02:05
+- [status-desktop] 最后更新：2025-09-25 01:19
+- [status-go] 最后更新：2025-09-25 01:10
+- [ollama] 最后更新：2025-09-25 00:13
+- [self-hosted] 最后更新：2025-09-24 23:44
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - metrics-rs/metrics
 - [DeleteEvent] alex - alex/metrics
