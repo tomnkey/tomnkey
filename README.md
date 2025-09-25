@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/rust-asn1
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-09-25 16:02
+- [status-desktop] 最后更新：2025-09-25 15:49
+- [kubeshark] 最后更新：2025-09-25 15:17
+- [go-ethereum] 最后更新：2025-09-25 13:05
+- [playwright] 最后更新：2025-09-25 12:37
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-25 15:01
 - [status-go] 最后更新：2025-09-25 14:11
 - [go-ethereum] 最后更新：2025-09-25 13:05
