@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-09-25 06:55
+- [readest] 最后更新：2025-09-25 04:41
+- [status-go] 最后更新：2025-09-25 04:00
+- [go-ethereum] 最后更新：2025-09-25 02:05
+- [status-desktop] 最后更新：2025-09-25 01:19
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-09-25 06:01
 - [readest] 最后更新：2025-09-25 04:41
 - [status-go] 最后更新：2025-09-25 04:00
