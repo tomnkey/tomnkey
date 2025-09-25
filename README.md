@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-25 18:00
+- [ollama] 最后更新：2025-09-25 17:55
+- [gofr] 最后更新：2025-09-25 17:47
+- [status-go] 最后更新：2025-09-25 17:46
+- [playwright] 最后更新：2025-09-25 16:33
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - Homebrew/homebrew-core
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [IssueCommentEvent] alex - pyca/pyopenssl
