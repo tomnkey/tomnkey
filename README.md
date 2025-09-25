@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-09-25 16:51
+- [status-desktop] 最后更新：2025-09-25 16:49
+- [playwright] 最后更新：2025-09-25 16:33
+- [go-ethereum] 最后更新：2025-09-25 16:07
+- [kubeshark] 最后更新：2025-09-25 15:17
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/infra
 - [PushEvent] alex - pyca/bcrypt
 - [PullRequestEvent] alex - pyca/bcrypt
