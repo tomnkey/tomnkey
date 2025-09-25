@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/infra
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestEvent] alex - alex/rust-asn1
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-09-25 10:02
+- [status-desktop] 最后更新：2025-09-25 09:44
+- [status-go] 最后更新：2025-09-25 08:52
+- [go-ethereum] 最后更新：2025-09-25 08:27
+- [readest] 最后更新：2025-09-25 07:32
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/bcrypt
 - [DeleteEvent] alex - alex/rust-asn1
 - [PushEvent] alex - alex/rust-asn1
