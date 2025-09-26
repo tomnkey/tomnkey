@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-26 13:59
+- [self-hosted] 最后更新：2025-09-26 13:55
+- [status-go] 最后更新：2025-09-26 13:51
+- [gofr] 最后更新：2025-09-26 13:49
+- [go-ethereum] 最后更新：2025-09-26 13:47
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-26 13:07
 - [status-go] 最后更新：2025-09-26 12:55
 - [kubeshark] 最后更新：2025-09-26 12:36
