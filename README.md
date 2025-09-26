@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-09-26 01:16
+- [ollama] 最后更新：2025-09-26 01:12
+- [we-drawing] 最后更新：2025-09-25 23:02
+- [status-desktop] 最后更新：2025-09-25 23:00
+- [servers] 最后更新：2025-09-25 21:24
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-09-25 23:02
 - [status-desktop] 最后更新：2025-09-25 23:00
 - [ollama] 最后更新：2025-09-25 22:56
