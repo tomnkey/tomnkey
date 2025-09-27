@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - tinyteamco/verity
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-09-27 15:52
+- [status-go] 最后更新：2025-09-27 13:07
+- [gofr] 最后更新：2025-09-27 11:40
+- [sourcebot] 最后更新：2025-09-27 04:47
+- [playwright] 最后更新：2025-09-27 01:02
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-27 13:07
 - [gofr] 最后更新：2025-09-27 11:40
 - [sourcebot] 最后更新：2025-09-27 04:47
