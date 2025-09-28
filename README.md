@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-09-28 18:32
+- [servers] 最后更新：2025-09-28 16:40
+- [kubeshark] 最后更新：2025-09-28 15:16
+- [ollama] 最后更新：2025-09-28 08:29
+- [sourcebot] 最后更新：2025-09-28 00:14
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PullRequestEvent] alex - Homebrew/homebrew-core
+- [PushEvent] alex - alex/homebrew-core
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-09-28 16:40
 - [kubeshark] 最后更新：2025-09-28 15:16
 - [ollama] 最后更新：2025-09-28 08:29
