@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - Homebrew/homebrew-core
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-09-29 11:02
+- [status-desktop] 最后更新：2025-09-29 10:58
+- [gofr] 最后更新：2025-09-29 10:53
+- [go-ethereum] 最后更新：2025-09-29 10:51
+- [kubeshark] 最后更新：2025-09-29 10:01
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+
+## 🌟 Star动态
 - [kubeshark] 最后更新：2025-09-29 10:01
 - [go-ethereum] 最后更新：2025-09-29 09:56
 - [gofr] 最后更新：2025-09-29 05:09
