@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-09-29 02:17
+- [status-go] 最后更新：2025-09-28 23:32
+- [we-drawing] 最后更新：2025-09-28 23:02
+- [ollama] 最后更新：2025-09-28 22:41
+- [servers] 最后更新：2025-09-28 16:40
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PullRequestEvent] alex - Homebrew/homebrew-core
+- [PushEvent] alex - alex/homebrew-core
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-28 23:32
 - [we-drawing] 最后更新：2025-09-28 23:02
 - [ollama] 最后更新：2025-09-28 22:41
