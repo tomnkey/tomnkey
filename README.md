@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/ex-post-progress
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-09-29 16:03
+- [survey-creator] 最后更新：2025-09-29 15:31
+- [status-go] 最后更新：2025-09-29 14:49
+- [playwright] 最后更新：2025-09-29 14:43
+- [gofr] 最后更新：2025-09-29 14:39
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/ex-post-progress
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-09-29 14:49
 - [playwright] 最后更新：2025-09-29 14:43
 - [gofr] 最后更新：2025-09-29 14:39
