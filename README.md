@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [ollama] 最后更新：2025-09-28 22:41
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-09-29 05:09
+- [go-ethereum] 最后更新：2025-09-29 02:17
+- [status-go] 最后更新：2025-09-28 23:32
+- [we-drawing] 最后更新：2025-09-28 23:02
+- [ollama] 最后更新：2025-09-28 22:41
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/bcrypt
 - [PullRequestEvent] alex - pyca/bcrypt
 - [PullRequestReviewEvent] alex - pyca/bcrypt
