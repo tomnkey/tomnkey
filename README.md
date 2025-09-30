@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-09-30 15:59
+- [kubeshark] 最后更新：2025-09-30 15:26
+- [survey-creator] 最后更新：2025-09-30 15:15
+- [status-desktop] 最后更新：2025-09-30 15:07
+- [playwright] 最后更新：2025-09-30 15:06
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-09-30 14:48
 - [status-go] 最后更新：2025-09-30 14:09
 - [survey-creator] 最后更新：2025-09-30 12:35
