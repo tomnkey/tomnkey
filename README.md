@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-09-30 08:03
+- [status-go] 最后更新：2025-09-30 08:00
+- [gofr] 最后更新：2025-09-30 07:34
+- [survey-creator] 最后更新：2025-09-30 07:19
+- [ollama] 最后更新：2025-09-30 04:04
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-09-30 06:59
 - [gofr] 最后更新：2025-09-30 06:19
 - [ollama] 最后更新：2025-09-30 04:04
