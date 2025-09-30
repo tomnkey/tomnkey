@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-09-30 10:55
+- [go-ethereum] 最后更新：2025-09-30 10:50
+- [gofr] 最后更新：2025-09-30 10:24
+- [status-desktop] 最后更新：2025-09-30 09:38
+- [status-go] 最后更新：2025-09-30 09:26
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/csv-sql
 - [DeleteEvent] alex - alex/csv-sql
 - [PullRequestEvent] alex - alex/csv-sql
