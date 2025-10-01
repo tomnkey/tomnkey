@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-10-01 02:47
+- [self-hosted] 最后更新：2025-10-01 01:30
+- [kubeshark] 最后更新：2025-09-30 23:09
+- [we-drawing] 最后更新：2025-09-30 23:01
+- [playwright] 最后更新：2025-09-30 23:00
+
+## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
