@@ -58,6 +58,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-10-04 02:09
+- [ollama] 最后更新：2025-10-03 23:32
+- [status-go] 最后更新：2025-10-03 23:24
+- [status-desktop] 最后更新：2025-10-03 23:19
+- [we-drawing] 最后更新：2025-10-03 23:01
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
