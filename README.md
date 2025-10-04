@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-10-04 14:31
+- [readest] 最后更新：2025-10-04 14:12
+- [status-go] 最后更新：2025-10-04 09:43
+- [self-hosted] 最后更新：2025-10-04 05:21
+- [sourcebot] 最后更新：2025-10-04 05:12
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-04 09:43
 - [readest] 最后更新：2025-10-04 07:00
 - [self-hosted] 最后更新：2025-10-04 05:21
