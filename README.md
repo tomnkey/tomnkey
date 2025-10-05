@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/metrics
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - certifi/python-certifi
+- [IssuesEvent] alex - certifi/python-certifi
+- [CreateEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-10-05 08:04
+- [readest] 最后更新：2025-10-05 06:28
+- [gofr] 最后更新：2025-10-05 05:12
+- [v2rayA] 最后更新：2025-10-05 05:05
+- [we-drawing] 最后更新：2025-10-04 23:01
+
+## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PullRequestEvent] alex - pyca/cryptography
