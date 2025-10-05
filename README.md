@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PushEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [CreateEvent] alex - alex/pyo3
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-10-05 05:12
+- [v2rayA] 最后更新：2025-10-05 05:05
+- [we-drawing] 最后更新：2025-10-04 23:01
+- [status-go] 最后更新：2025-10-04 20:57
+- [ollama] 最后更新：2025-10-04 18:47
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
 - [IssueCommentEvent] alex - PyO3/pyo3
