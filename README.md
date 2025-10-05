@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-10-05 15:47
+- [status-go] 最后更新：2025-10-05 10:20
+- [servers] 最后更新：2025-10-05 08:04
+- [gofr] 最后更新：2025-10-05 05:12
+- [v2rayA] 最后更新：2025-10-05 05:05
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [DeleteEvent] alex - alex/cryptography
 - [PushEvent] alex - pyca/cryptography
