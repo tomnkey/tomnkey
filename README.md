@@ -38,6 +38,25 @@ Here are some ideas to get you started:
 
 ## 🚀 关注动态
 - [DeleteEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-10-05 10:20
+- [servers] 最后更新：2025-10-05 08:04
+- [readest] 最后更新：2025-10-05 06:28
+- [gofr] 最后更新：2025-10-05 05:12
+- [v2rayA] 最后更新：2025-10-05 05:05
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/metrics
 - [PushEvent] alex - alex/metrics
