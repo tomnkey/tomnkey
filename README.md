@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-10-05 21:19
+- [status-desktop] 最后更新：2025-10-05 20:25
+- [status-go] 最后更新：2025-10-05 19:07
+- [readest] 最后更新：2025-10-05 15:47
+- [servers] 最后更新：2025-10-05 08:04
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-05 20:25
 - [status-go] 最后更新：2025-10-05 19:07
 - [readest] 最后更新：2025-10-05 15:47
