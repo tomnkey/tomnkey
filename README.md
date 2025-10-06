@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-06 08:56
+- [playwright] 最后更新：2025-10-06 08:38
+- [survey-creator] 最后更新：2025-10-06 08:26
+- [status-go] 最后更新：2025-10-06 07:24
+- [gofr] 最后更新：2025-10-06 06:46
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-06 07:59
 - [survey-creator] 最后更新：2025-10-06 07:34
 - [status-go] 最后更新：2025-10-06 07:24
