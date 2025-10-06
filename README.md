@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - tinyteamco/verity
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-06 16:49
+- [survey-creator] 最后更新：2025-10-06 16:35
+- [playwright] 最后更新：2025-10-06 16:34
+- [go-ethereum] 最后更新：2025-10-06 16:19
+- [status-go] 最后更新：2025-10-06 15:26
+
+## 🚀 关注动态
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
 - [playwright] 最后更新：2025-10-06 15:59
 - [survey-creator] 最后更新：2025-10-06 15:43
 - [status-go] 最后更新：2025-10-06 15:26
