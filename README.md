@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-06 07:59
+- [survey-creator] 最后更新：2025-10-06 07:34
+- [status-go] 最后更新：2025-10-06 07:24
+- [gofr] 最后更新：2025-10-06 06:46
+- [readest] 最后更新：2025-10-06 03:52
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/cryptography
 - [PushEvent] alex - alex/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
