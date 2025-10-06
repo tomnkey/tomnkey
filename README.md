@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-10-06 11:50
+- [status-desktop] 最后更新：2025-10-06 11:07
+- [survey-creator] 最后更新：2025-10-06 10:54
+- [gofr] 最后更新：2025-10-06 10:40
+- [status-go] 最后更新：2025-10-06 07:24
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] gravityblast - status-im/status-network-monorepo
