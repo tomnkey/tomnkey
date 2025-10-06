@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - sfackler/rust-openssl
+- [PullRequestEvent] alex - sfackler/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-10-06 12:51
+- [survey-creator] 最后更新：2025-10-06 12:44
+- [status-go] 最后更新：2025-10-06 12:22
+- [status-mobile] 最后更新：2025-10-06 12:17
+- [status-desktop] 最后更新：2025-10-06 11:07
+
+## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] gravityblast - status-im/status-network-monorepo
 - [PushEvent] jkp - tinyteamco/verity
