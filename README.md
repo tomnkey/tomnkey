@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] gravityblast - waku-org/waku-rlnv2-contract
+- [PullRequestReviewCommentEvent] gravityblast - waku-org/waku-rlnv2-contract
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [grpc-proxy] 最后更新：2025-10-08 19:52
+- [ollama] 最后更新：2025-10-08 19:27
+- [servers] 最后更新：2025-10-08 18:05
+- [playwright] 最后更新：2025-10-08 17:43
+- [go-ethereum] 最后更新：2025-10-08 17:23
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
 - [DeleteEvent] alex - alex/cryptography
