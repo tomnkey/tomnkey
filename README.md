@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-10-08 00:01
+- [sourcebot] 最后更新：2025-10-07 23:38
+- [we-drawing] 最后更新：2025-10-07 23:01
+- [playwright] 最后更新：2025-10-07 22:51
+- [self-hosted] 最后更新：2025-10-07 21:20
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [WatchEvent] jkp - github/spec-kit
+- [PullRequestEvent] alex - alex/rust-asn1
+- [CreateEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [we-drawing] 最后更新：2025-10-07 23:01
 - [playwright] 最后更新：2025-10-07 22:51
 - [ollama] 最后更新：2025-10-07 22:42
