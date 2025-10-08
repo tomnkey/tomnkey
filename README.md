@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-08 15:43
+- [servers] 最后更新：2025-10-08 15:35
+- [status-mobile] 最后更新：2025-10-08 14:56
+- [status-go] 最后更新：2025-10-08 14:36
+- [playwright] 最后更新：2025-10-08 14:18
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] gravityblast - waku-org/waku-rlnv2-contract
+- [PullRequestReviewCommentEvent] gravityblast - waku-org/waku-rlnv2-contract
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-mobile] 最后更新：2025-10-08 14:56
 - [status-desktop] 最后更新：2025-10-08 14:44
 - [status-go] 最后更新：2025-10-08 14:36
