@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-10-09 13:01
+- [status-go] 最后更新：2025-10-09 12:18
+- [go-ethereum] 最后更新：2025-10-09 12:14
+- [self-hosted] 最后更新：2025-10-09 11:43
+- [survey-creator] 最后更新：2025-10-09 11:25
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-10-09 11:49
 - [self-hosted] 最后更新：2025-10-09 11:43
 - [survey-creator] 最后更新：2025-10-09 11:25
