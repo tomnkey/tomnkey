@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-10-09 08:51
+- [status-desktop] 最后更新：2025-10-09 08:45
+- [ollama] 最后更新：2025-10-09 03:09
+- [we-drawing] 最后更新：2025-10-09 03:00
+- [go-ethereum] 最后更新：2025-10-09 00:59
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-09 07:55
 - [gofr] 最后更新：2025-10-09 06:49
 - [ollama] 最后更新：2025-10-09 03:09
