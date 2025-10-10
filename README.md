@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/queries-rs
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-10 12:00
+- [servers] 最后更新：2025-10-10 11:51
+- [status-go] 最后更新：2025-10-10 11:42
+- [playwright] 最后更新：2025-10-10 11:29
+- [gofr] 最后更新：2025-10-10 11:14
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-10 10:33
 - [gofr] 最后更新：2025-10-10 10:07
 - [go-ethereum] 最后更新：2025-10-10 09:47
