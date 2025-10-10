@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-10-10 06:03
+- [readest] 最后更新：2025-10-10 05:56
+- [go-ethereum] 最后更新：2025-10-10 05:48
+- [survey-creator] 最后更新：2025-10-10 05:42
+- [sourcebot] 最后更新：2025-10-10 03:10
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/cryptography
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
