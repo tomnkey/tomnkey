@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - Consensys/linea-monorepo
+- [PullRequestEvent] gravityblast - Consensys/linea-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-10-10 15:54
+- [status-desktop] 最后更新：2025-10-10 15:10
+- [servers] 最后更新：2025-10-10 14:55
+- [ollama] 最后更新：2025-10-10 14:32
+- [gofr] 最后更新：2025-10-10 14:24
+
+## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PullRequestEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
