@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [CreateEvent] jkp - tinyteamco/verity
+- [DeleteEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/ex-post-progress
+- [PullRequestEvent] alex - alex/ex-post-progress
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PullRequestEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-10 13:09
+- [gofr] 最后更新：2025-10-10 13:07
+- [status-go] 最后更新：2025-10-10 12:25
+- [servers] 最后更新：2025-10-10 11:51
+- [playwright] 最后更新：2025-10-10 11:29
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/ex-post-progress
 - [PushEvent] alex - alex/ex-post-progress
 - [PullRequestEvent] alex - alex/ex-post-progress
