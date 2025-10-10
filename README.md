@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-10-10 22:15
+- [sourcebot] 最后更新：2025-10-10 21:01
+- [status-desktop] 最后更新：2025-10-10 19:17
+- [readest] 最后更新：2025-10-10 17:14
+- [status-go] 最后更新：2025-10-10 15:54
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
