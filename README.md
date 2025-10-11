@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] jkp - tinyteamco/verity
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-10-11 04:23
+- [ollama] 最后更新：2025-10-11 00:16
+- [self-hosted] 最后更新：2025-10-11 00:09
+- [sourcebot] 最后更新：2025-10-10 21:01
+- [status-desktop] 最后更新：2025-10-10 19:17
+
+## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PullRequestEvent] jkp - tinyteamco/verity
 - [PushEvent] gravityblast - status-im/status-network-monorepo
