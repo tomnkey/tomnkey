@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-10-11 00:16
+- [self-hosted] 最后更新：2025-10-11 00:09
+- [sourcebot] 最后更新：2025-10-10 21:01
+- [status-desktop] 最后更新：2025-10-10 19:17
+- [readest] 最后更新：2025-10-10 17:14
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-10-11 00:09
 - [ollama] 最后更新：2025-10-10 23:49
 - [sourcebot] 最后更新：2025-10-10 21:01
