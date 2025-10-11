@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+- [PullRequestEvent] alex - alex/queries-rs
+- [PushEvent] alex - alex/queries-rs
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-10-11 10:59
+- [playwright] 最后更新：2025-10-11 04:23
+- [ollama] 最后更新：2025-10-11 00:16
+- [self-hosted] 最后更新：2025-10-11 00:09
+- [sourcebot] 最后更新：2025-10-10 21:01
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] jkp - tinyteamco/verity
 - [PullRequestEvent] jkp - tinyteamco/verity
 - [PushEvent] gravityblast - status-im/status-network-monorepo
