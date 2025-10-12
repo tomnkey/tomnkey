@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - rust-openssl/rust-openssl
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-12 15:21
+- [status-go] 最后更新：2025-10-12 12:35
+- [readest] 最后更新：2025-10-12 11:53
+- [servers] 最后更新：2025-10-12 08:15
+- [ollama] 最后更新：2025-10-11 23:06
+
+## 🚀 关注动态
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-12 14:59
 - [status-go] 最后更新：2025-10-12 12:35
 - [readest] 最后更新：2025-10-12 11:53
