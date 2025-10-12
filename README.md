@@ -37,6 +37,25 @@ Here are some ideas to get you started:
 - [self-hosted] 最后更新：2025-10-11 00:09
 
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [CreateEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-10-11 23:06
+- [we-drawing] 最后更新：2025-10-11 23:01
+- [readest] 最后更新：2025-10-11 10:59
+- [playwright] 最后更新：2025-10-11 04:23
+- [self-hosted] 最后更新：2025-10-11 00:09
+
+## 🚀 关注动态
 - [DeleteEvent] alex - rust-openssl/rust-openssl
 - [PushEvent] alex - rust-openssl/rust-openssl
 - [PullRequestEvent] alex - rust-openssl/rust-openssl
