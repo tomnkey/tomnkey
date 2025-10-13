@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-10-13 23:02
+- [ollama] 最后更新：2025-10-13 22:30
+- [playwright] 最后更新：2025-10-13 22:10
+- [gofr] 最后更新：2025-10-13 21:24
+- [survey-creator] 最后更新：2025-10-13 19:26
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
 - [PushEvent] bryanveloso - bryanveloso/multiverse
