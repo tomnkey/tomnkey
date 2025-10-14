@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - tinyteamco/verity
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-10-14 12:00
+- [status-go] 最后更新：2025-10-14 11:39
+- [survey-creator] 最后更新：2025-10-14 11:11
+- [status-desktop] 最后更新：2025-10-14 11:08
+- [gofr] 最后更新：2025-10-14 10:44
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-10-14 10:44
 - [survey-creator] 最后更新：2025-10-14 09:57
 - [status-desktop] 最后更新：2025-10-14 09:26
