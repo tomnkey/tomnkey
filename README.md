@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] jkp - tinyteamco/verity
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] jkp - tinyteamco/verity
+- [CreateEvent] jkp - tinyteamco/verity
+- [DeleteEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-10-14 20:00
+- [ollama] 最后更新：2025-10-14 19:15
+- [status-desktop] 最后更新：2025-10-14 19:02
+- [playwright] 最后更新：2025-10-14 18:30
+- [status-go] 最后更新：2025-10-14 18:29
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
