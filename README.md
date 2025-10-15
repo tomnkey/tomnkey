@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - alex/rust-openssl
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/rust-openssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] jkp - tinyteamco/verity
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-10-15 00:07
+- [playwright] 最后更新：2025-10-14 23:41
+- [status-desktop] 最后更新：2025-10-14 23:27
+- [we-drawing] 最后更新：2025-10-14 23:01
+- [ollama] 最后更新：2025-10-14 22:51
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/rust-openssl
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] jkp - tinyteamco/verity
