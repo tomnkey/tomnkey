@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-10-15 11:00
+- [status-desktop] 最后更新：2025-10-15 10:58
+- [playwright] 最后更新：2025-10-15 10:30
+- [status-go] 最后更新：2025-10-15 10:19
+- [readest] 最后更新：2025-10-15 09:59
+
+## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] jkp - tinyteamco/verity
