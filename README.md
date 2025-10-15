@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+- [DeleteEvent] alex - alex/rust-openssl
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-10-15 06:38
+- [status-go] 最后更新：2025-10-15 06:37
+- [gofr] 最后更新：2025-10-15 06:33
+- [sourcebot] 最后更新：2025-10-15 05:52
+- [status-desktop] 最后更新：2025-10-15 01:53
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/bcrypt
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
