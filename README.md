@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-10-15 15:50
+- [status-go] 最后更新：2025-10-15 15:45
+- [status-desktop] 最后更新：2025-10-15 15:17
+- [survey-creator] 最后更新：2025-10-15 15:05
+- [playwright] 最后更新：2025-10-15 14:34
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - pyca/cryptography
