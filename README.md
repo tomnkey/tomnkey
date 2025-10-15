@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] jkp - tinyteamco/verity
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-15 07:39
+- [go-ethereum] 最后更新：2025-10-15 07:39
+- [gofr] 最后更新：2025-10-15 07:15
+- [survey-creator] 最后更新：2025-10-15 07:06
+- [ollama] 最后更新：2025-10-15 06:38
+
+## 🚀 关注动态
+- [PushEvent] jkp - tinyteamco/verity
 - [PushEvent] alex - pyca/cryptography
 - [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
 - [PushEvent] bryanveloso - bryanveloso/multiverse
