@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-10-16 17:49
+- [status-desktop] 最后更新：2025-10-16 17:33
+- [go-ethereum] 最后更新：2025-10-16 17:19
+- [status-go] 最后更新：2025-10-16 17:13
+- [ollama] 最后更新：2025-10-16 16:52
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [IssuesEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-10-16 16:52
 - [status-go] 最后更新：2025-10-16 16:36
 - [status-desktop] 最后更新：2025-10-16 15:59
