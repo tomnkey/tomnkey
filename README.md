@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/multiverse
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-10-16 02:39
+- [ollama] 最后更新：2025-10-16 01:47
+- [playwright] 最后更新：2025-10-15 23:39
+- [we-drawing] 最后更新：2025-10-15 23:01
+- [self-hosted] 最后更新：2025-10-15 22:51
+
+## 🚀 关注动态
 - [IssuesEvent] alex - pyca/cryptography
 - [PushEvent] alex - alex/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
