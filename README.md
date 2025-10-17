@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-10-17 21:48
+- [playwright] 最后更新：2025-10-17 21:11
+- [servers] 最后更新：2025-10-17 19:47
+- [status-go] 最后更新：2025-10-17 19:11
+- [readest] 最后更新：2025-10-17 16:06
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-10-17 19:47
 - [playwright] 最后更新：2025-10-17 19:42
 - [status-go] 最后更新：2025-10-17 19:11
