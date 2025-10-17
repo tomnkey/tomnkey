@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - rust-lang/rust
+- [IssueCommentEvent] alex - orium/rpds
+- [IssueCommentEvent] alex - Homebrew/brew
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-10-17 00:50
+- [ollama] 最后更新：2025-10-17 00:39
+- [status-desktop] 最后更新：2025-10-17 00:06
+- [sourcebot] 最后更新：2025-10-16 23:05
+- [status-go] 最后更新：2025-10-16 20:38
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-lang/rust
 - [IssueCommentEvent] alex - orium/rpds
 - [IssueCommentEvent] alex - Homebrew/brew
