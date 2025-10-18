@@ -39,6 +39,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - orxfun/orx-parallel
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-10-18 15:25
+- [go-ethereum] 最后更新：2025-10-18 11:54
+- [servers] 最后更新：2025-10-18 10:50
+- [status-desktop] 最后更新：2025-10-18 07:36
+- [ollama] 最后更新：2025-10-18 01:39
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssuesEvent] alex - orxfun/orx-parallel
 - [IssueCommentEvent] alex - pyca/cryptography
