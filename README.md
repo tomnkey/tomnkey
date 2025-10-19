@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - PyO3/pyo3
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-19 10:28
+- [status-go] 最后更新：2025-10-19 10:23
+- [playwright] 最后更新：2025-10-19 05:28
+- [sourcebot] 最后更新：2025-10-18 23:31
+- [we-drawing] 最后更新：2025-10-18 23:01
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - orxfun/orx-parallel
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-19 09:54
 - [playwright] 最后更新：2025-10-19 05:28
 - [sourcebot] 最后更新：2025-10-18 23:31
