@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssuesEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - orxfun/orx-parallel
+- [IssueCommentEvent] alex - openssl/openssl
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - openssl/openssl
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-10-19 19:52
+- [status-go] 最后更新：2025-10-19 18:13
+- [readest] 最后更新：2025-10-19 16:59
+- [status-desktop] 最后更新：2025-10-19 10:28
+- [playwright] 最后更新：2025-10-19 05:28
+
+## 🚀 关注动态
 - [IssuesEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - orxfun/orx-parallel
 - [IssueCommentEvent] alex - openssl/openssl
