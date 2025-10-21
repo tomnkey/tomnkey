@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-10-21 14:41
+- [status-desktop] 最后更新：2025-10-21 14:41
+- [status-go] 最后更新：2025-10-21 14:24
+- [go-ethereum] 最后更新：2025-10-21 14:10
+- [status-mobile] 最后更新：2025-10-21 13:18
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-21 13:57
 - [survey-creator] 最后更新：2025-10-21 13:20
 - [status-desktop] 最后更新：2025-10-21 13:19
