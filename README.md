@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [WatchEvent] jkp - pqrs-org/Karabiner-DriverKit-VirtualHIDDevice
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-10-21 08:03
+- [status-desktop] 最后更新：2025-10-21 08:01
+- [survey-creator] 最后更新：2025-10-21 06:21
+- [status-go] 最后更新：2025-10-21 04:11
+- [sourcebot] 最后更新：2025-10-21 04:05
+
+## 🚀 关注动态
 - [WatchEvent] jkp - pqrs-org/Karabiner-DriverKit-VirtualHIDDevice
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
