@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] alex - PyO3/pyo3
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-10-21 10:40
+- [status-desktop] 最后更新：2025-10-21 10:35
+- [survey-creator] 最后更新：2025-10-21 10:26
+- [playwright] 最后更新：2025-10-21 10:06
+- [go-ethereum] 最后更新：2025-10-21 08:03
+
+## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [WatchEvent] jkp - pqrs-org/Karabiner-DriverKit-VirtualHIDDevice
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-21 10:02
 - [playwright] 最后更新：2025-10-21 09:51
 - [status-go] 最后更新：2025-10-21 08:47
