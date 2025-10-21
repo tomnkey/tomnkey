@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - openssl/openssl
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-10-21 06:21
+- [status-go] 最后更新：2025-10-21 04:11
+- [sourcebot] 最后更新：2025-10-21 04:05
+- [ollama] 最后更新：2025-10-21 00:38
+- [status-desktop] 最后更新：2025-10-20 23:50
+
+## 🚀 关注动态
+- [WatchEvent] jkp - pqrs-org/Karabiner-DriverKit-VirtualHIDDevice
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - openssl/openssl
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-21 04:11
 - [sourcebot] 最后更新：2025-10-21 04:05
 - [ollama] 最后更新：2025-10-21 00:38
