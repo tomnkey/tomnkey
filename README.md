@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - openssl/openssl
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-22 15:01
+- [go-ethereum] 最后更新：2025-10-22 14:35
+- [survey-creator] 最后更新：2025-10-22 14:30
+- [status-go] 最后更新：2025-10-22 14:28
+- [readest] 最后更新：2025-10-22 14:19
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - openssl/openssl
 - [PullRequestEvent] alex - pyca/cryptography
