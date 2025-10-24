@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-10-24 16:25
+- [status-desktop] 最后更新：2025-10-24 16:05
+- [status-go] 最后更新：2025-10-24 15:52
+- [playwright] 最后更新：2025-10-24 15:32
+- [survey-creator] 最后更新：2025-10-24 15:28
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] gravityblast - status-im/status-network-monorepo
+- [CreateEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-24 15:52
 - [playwright] 最后更新：2025-10-24 15:32
 - [survey-creator] 最后更新：2025-10-24 15:28
