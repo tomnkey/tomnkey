@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-10-25 08:49
+- [status-desktop] 最后更新：2025-10-25 08:45
+- [go-ethereum] 最后更新：2025-10-25 08:16
+- [status-go] 最后更新：2025-10-25 07:10
+- [ollama] 最后更新：2025-10-25 01:59
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-25 07:10
 - [status-desktop] 最后更新：2025-10-25 04:27
 - [ollama] 最后更新：2025-10-25 01:59
