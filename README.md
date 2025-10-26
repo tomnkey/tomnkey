@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-10-26 19:01
+- [status-desktop] 最后更新：2025-10-26 18:52
+- [readest] 最后更新：2025-10-26 09:18
+- [go-ethereum] 最后更新：2025-10-26 08:13
+- [playwright] 最后更新：2025-10-26 06:26
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PullRequestReviewEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-26 17:48
 - [readest] 最后更新：2025-10-26 09:18
 - [go-ethereum] 最后更新：2025-10-26 08:13
