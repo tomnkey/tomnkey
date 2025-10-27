@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-27 12:00
+- [survey-creator] 最后更新：2025-10-27 10:54
+- [playwright] 最后更新：2025-10-27 10:06
+- [go-ethereum] 最后更新：2025-10-27 08:53
+- [readest] 最后更新：2025-10-27 04:33
+
+## 🚀 关注动态
 - [IssueCommentEvent] jkp - librespot-org/librespot
 - [PushEvent] alex - pyca/bcrypt
 - [PushEvent] alex - pyca/bcrypt
