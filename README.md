@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-10-27 04:33
+- [sourcebot] 最后更新：2025-10-27 04:11
+- [status-desktop] 最后更新：2025-10-27 03:38
+- [ollama] 最后更新：2025-10-27 01:25
+- [servers] 最后更新：2025-10-26 23:26
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PullRequestReviewEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-27 03:38
 - [ollama] 最后更新：2025-10-27 01:25
 - [servers] 最后更新：2025-10-26 23:26
