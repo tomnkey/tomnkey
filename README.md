@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rustls/webpki
+- [IssueCommentEvent] alex - apple/container
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [IssuesEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-10-27 22:00
+- [gofr] 最后更新：2025-10-27 21:57
+- [survey-creator] 最后更新：2025-10-27 19:41
+- [sourcebot] 最后更新：2025-10-27 18:49
+- [status-desktop] 最后更新：2025-10-27 18:48
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - apple/container
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 - [PushEvent] bryanveloso - bryanveloso/synthform
