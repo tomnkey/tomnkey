@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - rustls/webpki
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-10-28 08:25
+- [ollama] 最后更新：2025-10-28 08:16
+- [survey-creator] 最后更新：2025-10-28 08:13
+- [status-desktop] 最后更新：2025-10-28 08:07
+- [playwright] 最后更新：2025-10-28 06:58
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - rustls/webpki
+- [CreateEvent] alex - alex/webpki
+- [ForkEvent] alex - alex/webpki
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - rustls/webpki
+- [IssueCommentEvent] alex - rustls/webpki
+- [IssueCommentEvent] alex - rustls/webpki
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-10-28 07:15
 - [gofr] 最后更新：2025-10-28 07:15
 - [survey-creator] 最后更新：2025-10-28 07:14
