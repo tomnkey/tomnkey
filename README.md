@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - rustls/webpki
 - [IssueCommentEvent] alex - rustls/webpki
+- [IssueCommentEvent] alex - rustls/webpki
+- [IssueCommentEvent] alex - apple/container
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-10-28 00:01
+- [ollama] 最后更新：2025-10-27 23:52
+- [gofr] 最后更新：2025-10-27 22:28
+- [survey-creator] 最后更新：2025-10-27 19:41
+- [sourcebot] 最后更新：2025-10-27 18:49
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - rustls/webpki
+- [IssueCommentEvent] alex - rustls/webpki
 - [IssueCommentEvent] alex - apple/container
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 - [PushEvent] bryanveloso - bryanveloso/synthform
