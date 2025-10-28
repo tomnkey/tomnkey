@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - rustls/webpki
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-10-28 12:56
+- [status-desktop] 最后更新：2025-10-28 12:54
+- [playwright] 最后更新：2025-10-28 12:52
+- [status-go] 最后更新：2025-10-28 12:41
+- [survey-creator] 最后更新：2025-10-28 12:34
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
