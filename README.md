@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/rust-openssl
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-10-29 06:59
+- [status-go] 最后更新：2025-10-29 06:47
+- [ollama] 最后更新：2025-10-29 06:25
+- [sourcebot] 最后更新：2025-10-29 06:03
+- [readest] 最后更新：2025-10-29 05:46
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - alex/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-10-29 06:04
 - [sourcebot] 最后更新：2025-10-29 06:03
 - [readest] 最后更新：2025-10-29 05:46
