@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-10-29 19:00
+- [status-go] 最后更新：2025-10-29 18:35
+- [status-desktop] 最后更新：2025-10-29 18:00
+- [playwright] 最后更新：2025-10-29 17:19
+- [readest] 最后更新：2025-10-29 15:38
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-10-29 18:03
 - [status-go] 最后更新：2025-10-29 18:02
 - [status-desktop] 最后更新：2025-10-29 18:00
