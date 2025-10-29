@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] jkp - librespot-org/librespot
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - alex/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-10-29 07:17
+- [go-ethereum] 最后更新：2025-10-29 06:59
+- [status-go] 最后更新：2025-10-29 06:47
+- [ollama] 最后更新：2025-10-29 06:25
+- [sourcebot] 最后更新：2025-10-29 06:03
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
