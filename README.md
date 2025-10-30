@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/synthform
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-10-30 10:58
+- [status-desktop] 最后更新：2025-10-30 10:56
+- [readest] 最后更新：2025-10-30 10:50
+- [playwright] 最后更新：2025-10-30 10:06
+- [survey-creator] 最后更新：2025-10-30 09:44
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-30 09:49
 - [survey-creator] 最后更新：2025-10-30 09:44
 - [status-desktop] 最后更新：2025-10-30 08:37
