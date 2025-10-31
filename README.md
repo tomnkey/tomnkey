@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-10-31 07:30
+- [status-desktop] 最后更新：2025-10-31 07:18
+- [sourcebot] 最后更新：2025-10-31 05:29
+- [readest] 最后更新：2025-10-31 05:16
+- [ollama] 最后更新：2025-10-31 04:04
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-10-31 06:51
 - [status-go] 最后更新：2025-10-31 06:43
 - [sourcebot] 最后更新：2025-10-31 05:29
