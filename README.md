@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-10-31 09:01
+- [status-desktop] 最后更新：2025-10-31 08:40
+- [survey-creator] 最后更新：2025-10-31 08:13
+- [sourcebot] 最后更新：2025-10-31 05:29
+- [readest] 最后更新：2025-10-31 05:16
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
