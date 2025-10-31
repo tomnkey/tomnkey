@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - openssl/openssl
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-10-31 23:01
+- [status-go] 最后更新：2025-10-31 22:43
+- [ollama] 最后更新：2025-10-31 22:26
+- [sourcebot] 最后更新：2025-10-31 21:58
+- [playwright] 最后更新：2025-10-31 21:57
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [IssueCommentEvent] alex - openssl/openssl
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - openssl/openssl
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-10-31 21:58
 - [playwright] 最后更新：2025-10-31 21:57
 - [ollama] 最后更新：2025-10-31 21:37
