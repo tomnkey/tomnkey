@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/csv-sql
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-10-31 11:59
+- [status-desktop] 最后更新：2025-10-31 11:58
+- [survey-creator] 最后更新：2025-10-31 11:56
+- [sourcebot] 最后更新：2025-10-31 05:29
+- [readest] 最后更新：2025-10-31 05:16
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-10-31 10:56
 - [status-desktop] 最后更新：2025-10-31 10:32
 - [survey-creator] 最后更新：2025-10-31 08:13
