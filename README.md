@@ -56,6 +56,25 @@ Here are some ideas to get you started:
 - [we-drawing] 最后更新：2025-10-31 23:01
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [DeleteEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+- [PullRequestEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-11-01 05:17
+- [ollama] 最后更新：2025-11-01 04:35
+- [status-go] 最后更新：2025-11-01 00:41
+- [playwright] 最后更新：2025-11-01 00:01
+- [we-drawing] 最后更新：2025-10-31 23:01
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/adb
 - [PushEvent] alex - alex/adb
 - [PushEvent] alex - alex/adb
