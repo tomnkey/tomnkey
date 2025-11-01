@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - orxfun/orx-parallel
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - openssl/openssl
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] bryanveloso - omnypro/ironmon-connect
+- [DeleteEvent] alex - alex/adb
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-11-01 19:04
+- [readest] 最后更新：2025-11-01 14:09
+- [status-go] 最后更新：2025-11-01 13:20
+- [kubeshark] 最后更新：2025-11-01 12:11
+- [go-ethereum] 最后更新：2025-11-01 05:17
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - openssl/openssl
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
