@@ -56,6 +56,25 @@ Here are some ideas to get you started:
 - [kubeshark] 最后更新：2025-11-01 12:11
 
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-02 00:07
+- [status-go] 最后更新：2025-11-01 22:02
+- [ollama] 最后更新：2025-11-01 19:04
+- [readest] 最后更新：2025-11-01 14:09
+- [kubeshark] 最后更新：2025-11-01 12:11
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
