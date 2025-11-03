@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/adb
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-11-03 02:59
+- [sourcebot] 最后更新：2025-11-03 00:20
+- [ollama] 最后更新：2025-11-03 00:01
+- [readest] 最后更新：2025-11-02 09:34
+- [kubeshark] 最后更新：2025-11-01 12:11
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/adb
+- [PushEvent] alex - alex/adb
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-11-03 00:20
 - [ollama] 最后更新：2025-11-03 00:01
 - [status-go] 最后更新：2025-11-02 16:16
