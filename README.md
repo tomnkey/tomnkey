@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - psf/requests
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-04 02:27
+- [ollama] 最后更新：2025-11-04 01:54
+- [we-drawing] 最后更新：2025-11-03 23:02
+- [gofr] 最后更新：2025-11-03 21:24
+- [status-desktop] 最后更新：2025-11-03 21:05
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [IssueCommentEvent] alex - ValveSoftware/Dota2-Gameplay
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - psf/requests
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-11-04 01:27
 - [sourcebot] 最后更新：2025-11-04 01:21
 - [we-drawing] 最后更新：2025-11-03 23:02
