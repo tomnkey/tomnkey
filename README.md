@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-06 14:34
+- [status-go] 最后更新：2025-11-06 14:08
+- [survey-creator] 最后更新：2025-11-06 13:36
+- [gofr] 最后更新：2025-11-06 11:43
+- [readest] 最后更新：2025-11-06 09:56
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-11-06 14:00
 - [survey-creator] 最后更新：2025-11-06 13:36
 - [status-desktop] 最后更新：2025-11-06 13:26
