@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/rust-openssl
+- [PushEvent] alex - alex/rust-openssl
+- [PushEvent] alex - alex/rpds
+- [DeleteEvent] alex - alex/csv-sql
+- [PushEvent] alex - alex/csv-sql
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [IssueCommentEvent] alex - orium/rpds
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
+- [we-drawing] 最后更新：2025-11-06 23:01
+- [ollama] 最后更新：2025-11-06 22:55
+- [playwright] 最后更新：2025-11-06 22:40
+- [status-go] 最后更新：2025-11-06 20:52
+- [status-desktop] 最后更新：2025-11-06 20:46
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - orium/rpds
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PullRequestReviewEvent] alex - pyca/cryptography
