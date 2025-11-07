@@ -26,6 +26,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 - [PullRequestEvent] alex - rust-openssl/rust-openssl
 - [CreateEvent] alex - alex/rust-openssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-11-07 18:57
+- [sourcebot] 最后更新：2025-11-07 18:40
+- [status-desktop] 最后更新：2025-11-07 18:19
+- [ollama] 最后更新：2025-11-07 18:06
+- [status-go] 最后更新：2025-11-07 17:01
+
+## 🚀 关注动态
+- [ReleaseEvent] alex - rust-openssl/rust-openssl
+- [ReleaseEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - alex/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 
