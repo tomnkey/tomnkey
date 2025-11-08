@@ -23,6 +23,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/prost
 - [PushEvent] alex - alex/prost
 - [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [CreateEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-11-08 03:05
+- [self-hosted] 最后更新：2025-11-08 02:29
+- [ollama] 最后更新：2025-11-08 02:21
+- [playwright] 最后更新：2025-11-08 00:38
+- [we-drawing] 最后更新：2025-11-07 23:01
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
 - [CreateEvent] alex - alex/prost
 - [PushEvent] alex - alex/prost
 - [DeleteEvent] alex - pyca/cryptography
