@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [CreateEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-11-08 02:21
+- [self-hosted] 最后更新：2025-11-08 02:11
+- [playwright] 最后更新：2025-11-08 00:38
+- [we-drawing] 最后更新：2025-11-07 23:01
+- [go-ethereum] 最后更新：2025-11-07 22:06
+
+## 🚀 关注动态
 - [CreateEvent] alex - alex/prost
 - [PushEvent] alex - alex/prost
 - [DeleteEvent] alex - pyca/cryptography
