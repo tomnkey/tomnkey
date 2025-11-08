@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - orium/rpds
+- [IssueCommentEvent] alex - orium/rpds
+- [DeleteEvent] alex - alex/rpds
+- [PullRequestReviewEvent] alex - orium/rpds
+- [PullRequestReviewCommentEvent] alex - orium/rpds
+- [PushEvent] alex - alex/rpds
+- [PushEvent] alex - alex/rpds
+- [IssueCommentEvent] alex - orium/rpds
+- [PushEvent] alex - alex/rpds
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
+- [servers] 最后更新：2025-11-08 15:37
+- [go-ethereum] 最后更新：2025-11-08 10:25
+- [survey-creator] 最后更新：2025-11-08 08:06
+- [ollama] 最后更新：2025-11-08 06:41
+- [status-desktop] 最后更新：2025-11-08 06:25
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - orium/rpds
 - [PullRequestReviewCommentEvent] alex - orium/rpds
 - [PushEvent] alex - alex/rpds
