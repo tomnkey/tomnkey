@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/prost
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-11-08 08:06
+- [ollama] 最后更新：2025-11-08 06:41
+- [status-desktop] 最后更新：2025-11-08 06:25
+- [servers] 最后更新：2025-11-08 03:05
+- [self-hosted] 最后更新：2025-11-08 02:29
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PullRequestEvent] alex - tokio-rs/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+- [PushEvent] alex - alex/prost
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-11-08 07:25
 - [ollama] 最后更新：2025-11-08 06:41
 - [status-desktop] 最后更新：2025-11-08 06:25
