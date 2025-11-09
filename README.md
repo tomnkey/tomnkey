@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-11-09 17:07
+- [servers] 最后更新：2025-11-09 08:18
+- [migrate] 最后更新：2025-11-09 05:48
+- [sourcebot] 最后更新：2025-11-09 00:38
+- [status-go] 最后更新：2025-11-08 21:46
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
 - [IssuesEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - alex/cryptography
 - [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
