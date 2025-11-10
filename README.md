@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - openssl/openssl
+- [DeleteEvent] alex - alex/openssl
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-10 12:02
+- [playwright] 最后更新：2025-11-10 11:21
+- [status-go] 最后更新：2025-11-10 10:22
+- [survey-creator] 最后更新：2025-11-10 09:05
+- [go-ethereum] 最后更新：2025-11-10 08:38
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/bcrypt
 - [PullRequestReviewEvent] alex - pyca/bcrypt
 - [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
