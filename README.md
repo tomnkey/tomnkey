@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-11-10 17:44
+- [self-hosted] 最后更新：2025-11-10 17:37
+- [ollama] 最后更新：2025-11-10 17:06
+- [survey-creator] 最后更新：2025-11-10 17:01
+- [status-desktop] 最后更新：2025-11-10 16:39
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/cryptography
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] alex - pyca/pynacl
 - [PullRequestReviewEvent] alex - pyca/pynacl
