@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - libuv/libuv
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestReviewEvent] alex - rustsec/rustsec
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-12 04:31
+- [status-go] 最后更新：2025-11-12 04:25
+- [self-hosted] 最后更新：2025-11-12 04:19
+- [ollama] 最后更新：2025-11-12 01:42
+- [playwright] 最后更新：2025-11-12 00:10
+
+## 🚀 关注动态
 - [PushEvent] alex - certifi/python-certifi
 - [PullRequestReviewEvent] alex - certifi/python-certifi
 - [DeleteEvent] alex - alex/cryptography
