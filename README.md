@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/prost
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-15 19:32
+- [self-hosted] 最后更新：2025-11-15 18:06
+- [servers] 最后更新：2025-11-15 17:24
+- [status-desktop] 最后更新：2025-11-15 16:02
+- [go-ethereum] 最后更新：2025-11-15 14:04
+
+## 🚀 关注动态
 - [IssuesEvent] alex - alex/relish
 - [PushEvent] alex - alex/relish
 - [PushEvent] alex - alex/relish
