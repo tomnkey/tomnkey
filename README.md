@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - bryanveloso/elsydeon
 
 ## 🌟 Star动态
+- [we-drawing] 最后更新：2025-11-15 23:01
+- [sourcebot] 最后更新：2025-11-15 19:32
+- [self-hosted] 最后更新：2025-11-15 18:06
+- [servers] 最后更新：2025-11-15 17:24
+- [status-desktop] 最后更新：2025-11-15 16:02
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/prost
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-11-15 19:32
 - [self-hosted] 最后更新：2025-11-15 18:06
 - [servers] 最后更新：2025-11-15 17:24
