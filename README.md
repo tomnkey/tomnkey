@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-15 16:02
+- [go-ethereum] 最后更新：2025-11-15 14:04
+- [status-go] 最后更新：2025-11-15 13:16
+- [playwright] 最后更新：2025-11-15 10:51
+- [sourcebot] 最后更新：2025-11-15 05:21
+
+## 🚀 关注动态
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/elsydeon
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-15 14:57
 - [go-ethereum] 最后更新：2025-11-15 14:04
 - [status-go] 最后更新：2025-11-15 13:16
