@@ -27,6 +27,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/relish
 - [PushEvent] alex - alex/relish
 - [CreateEvent] alex - alex/relish
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-11-16 12:59
+- [self-hosted] 最后更新：2025-11-16 12:52
+- [survey-creator] 最后更新：2025-11-16 12:31
+- [ollama] 最后更新：2025-11-16 04:22
+- [sourcebot] 最后更新：2025-11-16 01:17
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/prost
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
