@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/prost
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-11-16 12:59
+- [self-hosted] 最后更新：2025-11-16 12:52
+- [survey-creator] 最后更新：2025-11-16 12:31
+- [ollama] 最后更新：2025-11-16 04:22
+- [sourcebot] 最后更新：2025-11-16 01:17
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
 - [PushEvent] alex - alex/relish
 - [PushEvent] alex - alex/relish
