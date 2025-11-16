@@ -26,6 +26,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/relish
 - [PushEvent] alex - alex/relish
 - [CreateEvent] alex - alex/relish
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-11-16 02:17
+- [sourcebot] 最后更新：2025-11-16 01:17
+- [we-drawing] 最后更新：2025-11-15 23:01
+- [self-hosted] 最后更新：2025-11-15 18:06
+- [servers] 最后更新：2025-11-15 17:24
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/prost
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 
