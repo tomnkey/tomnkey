@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - rust-openssl/rust-openssl
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-11-17 06:58
+- [sourcebot] 最后更新：2025-11-17 05:17
+- [ollama] 最后更新：2025-11-17 04:56
+- [readest] 最后更新：2025-11-17 04:09
+- [self-hosted] 最后更新：2025-11-16 22:18
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/relish
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2025-11-17 05:17
 - [ollama] 最后更新：2025-11-17 04:56
 - [readest] 最后更新：2025-11-17 04:09
