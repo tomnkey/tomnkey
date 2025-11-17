@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/relish
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-11-17 13:48
+- [status-desktop] 最后更新：2025-11-17 13:46
+- [survey-creator] 最后更新：2025-11-17 12:15
+- [playwright] 最后更新：2025-11-17 10:05
+- [gofr] 最后更新：2025-11-17 08:14
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/relish
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-17 13:04
 - [status-go] 最后更新：2025-11-17 12:39
 - [survey-creator] 最后更新：2025-11-17 12:15
