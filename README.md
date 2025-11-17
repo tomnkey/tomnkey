@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/relish
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/avalonstar.tv
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-17 00:12
+- [ollama] 最后更新：2025-11-16 23:12
+- [self-hosted] 最后更新：2025-11-16 22:18
+- [survey-creator] 最后更新：2025-11-16 21:19
+- [status-desktop] 最后更新：2025-11-16 21:17
+
+## 🚀 关注动态
 - [PushEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
 - [PushEvent] alex - alex/relish
