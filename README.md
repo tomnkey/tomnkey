@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/relish
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-11-18 08:03
+- [playwright] 最后更新：2025-11-18 07:13
+- [status-go] 最后更新：2025-11-18 06:58
+- [status-desktop] 最后更新：2025-11-18 06:24
+- [sourcebot] 最后更新：2025-11-18 05:43
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - alex/relish
+- [DeleteEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PullRequestEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-11-18 06:58
 - [gofr] 最后更新：2025-11-18 06:55
 - [status-desktop] 最后更新：2025-11-18 06:24
