@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] alex - alex/relish
+- [WatchEvent] alex - alex/relish
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-11-18 01:19
+- [sourcebot] 最后更新：2025-11-18 01:12
+- [playwright] 最后更新：2025-11-18 00:51
+- [status-go] 最后更新：2025-11-17 22:43
+- [servers] 最后更新：2025-11-17 21:42
+
+## 🚀 关注动态
 - [PushEvent] alex - certifi/python-certifi
 - [PullRequestReviewEvent] alex - certifi/python-certifi
 - [PushEvent] alex - alex/relish
