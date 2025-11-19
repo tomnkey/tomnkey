@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [IssueCommentEvent] alex - pyca/pynacl
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-11-19 20:03
+- [ollama] 最后更新：2025-11-19 20:03
+- [status-go] 最后更新：2025-11-19 19:34
+- [grpc-proxy] 最后更新：2025-11-19 19:21
+- [kubeshark] 最后更新：2025-11-19 18:46
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
