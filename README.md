@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-11-21 08:54
+- [status-desktop] 最后更新：2025-11-21 08:29
+- [readest] 最后更新：2025-11-21 07:23
+- [servers] 最后更新：2025-11-21 05:59
+- [status-go] 最后更新：2025-11-21 05:23
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
 - [gofr] 最后更新：2025-11-21 08:01
 - [readest] 最后更新：2025-11-21 07:23
 - [servers] 最后更新：2025-11-21 05:59
