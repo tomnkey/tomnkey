@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/pynacl
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-21 12:57
+- [status-go] 最后更新：2025-11-21 12:53
+- [gofr] 最后更新：2025-11-21 12:51
+- [readest] 最后更新：2025-11-21 12:03
+- [survey-creator] 最后更新：2025-11-21 10:39
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/bcrypt
 - [PushEvent] alex - rust-openssl/rust-openssl
