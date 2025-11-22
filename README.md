@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssuesEvent] alex - xacrimon/dashmap
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-11-22 16:02
+- [status-desktop] 最后更新：2025-11-22 16:00
+- [readest] 最后更新：2025-11-22 13:09
+- [playwright] 最后更新：2025-11-22 04:26
+- [ollama] 最后更新：2025-11-22 00:51
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
 - [IssuesEvent] alex - xacrimon/dashmap
