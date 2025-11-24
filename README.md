@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssuesEvent] jkp - jkp/dotfiles
+- [PublicEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-11-24 16:03
+- [servers] 最后更新：2025-11-24 15:58
+- [playwright] 最后更新：2025-11-24 15:41
+- [status-desktop] 最后更新：2025-11-24 15:14
+- [go-ethereum] 最后更新：2025-11-24 14:30
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [PushEvent] alex - pyca/pyopenssl
