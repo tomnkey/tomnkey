@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-24 02:06
+- [status-go] 最后更新：2025-11-24 01:11
+- [readest] 最后更新：2025-11-23 16:41
+- [sourcebot] 最后更新：2025-11-22 23:33
+- [servers] 最后更新：2025-11-22 21:20
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - tokio-rs/prost
+- [PushEvent] alex - alex/prost
+- [DeleteEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - alex/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-24 01:25
 - [status-go] 最后更新：2025-11-24 01:11
 - [readest] 最后更新：2025-11-23 16:41
