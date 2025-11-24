@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssuesEvent] jkp - jkp/dotfiles
+- [PublicEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-24 17:01
+- [status-go] 最后更新：2025-11-24 16:54
+- [playwright] 最后更新：2025-11-24 16:29
+- [survey-creator] 最后更新：2025-11-24 16:27
+- [readest] 最后更新：2025-11-24 16:19
+
+## 🚀 关注动态
 - [IssuesEvent] jkp - jkp/dotfiles
 - [PublicEvent] jkp - jkp/dotfiles
 - [IssueCommentEvent] alex - certifi/python-certifi
