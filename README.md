@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - alex/adb
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-11-24 21:03
+- [status-desktop] 最后更新：2025-11-24 21:02
+- [sourcebot] 最后更新：2025-11-24 21:01
+- [playwright] 最后更新：2025-11-24 19:07
+- [self-hosted] 最后更新：2025-11-24 17:10
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] alex - alex/adb
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
