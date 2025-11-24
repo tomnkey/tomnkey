@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/prost
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-11-24 10:50
+- [status-go] 最后更新：2025-11-24 10:08
+- [playwright] 最后更新：2025-11-24 10:06
+- [status-desktop] 最后更新：2025-11-24 09:38
+- [self-hosted] 最后更新：2025-11-24 09:31
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - tokio-rs/prost
+- [PushEvent] alex - alex/prost
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-24 09:38
 - [self-hosted] 最后更新：2025-11-24 09:31
 - [status-go] 最后更新：2025-11-24 09:12
