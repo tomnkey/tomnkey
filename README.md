@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - pyca/pynacl
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-25 17:54
+- [kubeshark] 最后更新：2025-11-25 17:14
+- [survey-creator] 最后更新：2025-11-25 17:06
+- [servers] 最后更新：2025-11-25 17:06
+- [readest] 最后更新：2025-11-25 16:19
+
+## 🚀 关注动态
 - [PushEvent] jkp - jkp/dotfiles
 - [IssuesEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] alex - pyca/cryptography
