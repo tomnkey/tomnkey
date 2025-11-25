@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [CreateEvent] alex - alex/rust-openssl
+- [PushEvent] alex - alex/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-11-25 03:22
+- [self-hosted] 最后更新：2025-11-25 02:52
+- [go-ethereum] 最后更新：2025-11-25 02:24
+- [kubeshark] 最后更新：2025-11-25 02:21
+- [status-desktop] 最后更新：2025-11-25 01:19
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] alex - certifi/python-certifi
