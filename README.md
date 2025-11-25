@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [kubeshark] 最后更新：2025-11-25 15:50
+- [status-go] 最后更新：2025-11-25 15:49
+- [status-desktop] 最后更新：2025-11-25 15:34
+- [readest] 最后更新：2025-11-25 15:10
+- [survey-creator] 最后更新：2025-11-25 14:01
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-25 15:02
 - [status-go] 最后更新：2025-11-25 14:52
 - [survey-creator] 最后更新：2025-11-25 14:01
