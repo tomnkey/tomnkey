@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - pyca/pynacl
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-25 23:00
+- [status-go] 最后更新：2025-11-25 22:46
+- [servers] 最后更新：2025-11-25 22:24
+- [go-ethereum] 最后更新：2025-11-25 21:12
+- [sourcebot] 最后更新：2025-11-25 20:06
+
+## 🚀 关注动态
 - [PushEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
