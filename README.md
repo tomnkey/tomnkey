@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - emmatyping/cpython
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-26 18:54
+- [servers] 最后更新：2025-11-26 18:36
+- [status-go] 最后更新：2025-11-26 18:12
+- [survey-creator] 最后更新：2025-11-26 16:41
+- [kubeshark] 最后更新：2025-11-26 16:20
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - emmatyping/cpython
+
+## 🌟 Star动态
 - [servers] 最后更新：2025-11-26 17:42
 - [status-desktop] 最后更新：2025-11-26 17:40
 - [status-go] 最后更新：2025-11-26 17:35
