@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - astral-sh/uv
+- [IssueCommentEvent] alex - astral-sh/uv
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - astral-sh/uv
+- [IssuesEvent] alex - astral-sh/uv
+- [IssueCommentEvent] alex - mitmproxy/mitmproxy
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - C2SP/wycheproof
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-11-26 13:58
+- [survey-creator] 最后更新：2025-11-26 13:56
+- [readest] 最后更新：2025-11-26 13:49
+- [status-desktop] 最后更新：2025-11-26 13:44
+- [servers] 最后更新：2025-11-26 13:18
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
