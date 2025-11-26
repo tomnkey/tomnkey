@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-26 07:59
+- [status-go] 最后更新：2025-11-26 07:41
+- [sourcebot] 最后更新：2025-11-26 07:38
+- [self-hosted] 最后更新：2025-11-26 07:16
+- [readest] 最后更新：2025-11-26 06:49
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - pyca/pynacl
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [readest] 最后更新：2025-11-26 06:49
 - [status-go] 最后更新：2025-11-26 06:46
 - [gofr] 最后更新：2025-11-26 06:34
