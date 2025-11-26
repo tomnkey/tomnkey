@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PullRequestEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
+- [PullRequestReviewEvent] alex - emmatyping/cpython
+- [PullRequestReviewCommentEvent] alex - emmatyping/cpython
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-26 21:56
+- [playwright] 最后更新：2025-11-26 21:31
+- [status-go] 最后更新：2025-11-26 21:24
+- [go-ethereum] 最后更新：2025-11-26 21:08
+- [status-desktop] 最后更新：2025-11-26 20:45
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/relish
 - [PushEvent] alex - alex/relish
 - [CreateEvent] alex - alex/relish
