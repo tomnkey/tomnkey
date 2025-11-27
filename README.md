@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - emmatyping/cpython
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-27 13:10
+- [status-go] 最后更新：2025-11-27 12:40
+- [go-ethereum] 最后更新：2025-11-27 11:43
+- [survey-creator] 最后更新：2025-11-27 11:27
+- [self-hosted] 最后更新：2025-11-27 10:22
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PullRequestEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [CreateEvent] alex - alex/relish
+- [PullRequestReviewEvent] alex - emmatyping/cpython
+- [PullRequestReviewCommentEvent] alex - emmatyping/cpython
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-27 11:55
 - [go-ethereum] 最后更新：2025-11-27 11:43
 - [survey-creator] 最后更新：2025-11-27 11:27
