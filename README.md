@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - alex/wycheproof
+- [PushEvent] alex - alex/wycheproof
+- [PullRequestEvent] alex - C2SP/wycheproof
+- [CreateEvent] alex - alex/wycheproof
+- [DeleteEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PullRequestEvent] alex - alex/relish
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-11-27 18:26
+- [status-desktop] 最后更新：2025-11-27 18:22
+- [sourcebot] 最后更新：2025-11-27 17:57
+- [go-ethereum] 最后更新：2025-11-27 15:34
+- [survey-creator] 最后更新：2025-11-27 15:13
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - C2SP/wycheproof
 - [PushEvent] alex - alex/wycheproof
 - [PushEvent] alex - alex/wycheproof
