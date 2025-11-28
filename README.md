@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/wycheproof
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2025-11-28 08:11
+- [self-hosted] 最后更新：2025-11-28 07:43
+- [survey-creator] 最后更新：2025-11-28 07:33
+- [status-go] 最后更新：2025-11-28 06:45
+- [readest] 最后更新：2025-11-28 04:56
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+- [ForkEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - alex/wycheproof
+- [PushEvent] alex - alex/wycheproof
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-11-28 07:43
 - [survey-creator] 最后更新：2025-11-28 07:33
 - [status-go] 最后更新：2025-11-28 06:45
