@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+- [ForkEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-28 11:55
+- [status-go] 最后更新：2025-11-28 11:12
+- [gofr] 最后更新：2025-11-28 11:00
+- [go-ethereum] 最后更新：2025-11-28 10:28
+- [playwright] 最后更新：2025-11-28 10:20
+
+## 🚀 关注动态
 - [PushEvent] jkp - jkp/dotfiles
 - [IssueCommentEvent] alex - tokio-rs/tokio
 - [PullRequestEvent] alex - tokio-rs/tokio
