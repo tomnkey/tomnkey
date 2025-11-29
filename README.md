@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/dotfiles
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-11-29 02:46
+- [kubeshark] 最后更新：2025-11-29 01:12
+- [ollama] 最后更新：2025-11-29 01:03
+- [status-go] 最后更新：2025-11-28 23:35
+- [sourcebot] 最后更新：2025-11-28 21:36
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [IssuesEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-11-29 02:13
 - [kubeshark] 最后更新：2025-11-29 01:12
 - [ollama] 最后更新：2025-11-29 01:03
