@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/wycheproof
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - alex/wycheproof
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-29 07:01
+- [status-desktop] 最后更新：2025-11-29 06:37
+- [kubeshark] 最后更新：2025-11-29 01:12
+- [ollama] 最后更新：2025-11-29 01:03
+- [status-go] 最后更新：2025-11-28 23:35
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/wycheproof
 - [IssueCommentEvent] alex - C2SP/wycheproof
 - [PushEvent] alex - alex/wycheproof
