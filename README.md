@@ -68,6 +68,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2025-11-30 01:48
+- [migrate] 最后更新：2025-11-29 20:45
+- [status-desktop] 最后更新：2025-11-29 06:37
+- [kubeshark] 最后更新：2025-11-29 01:12
+- [ollama] 最后更新：2025-11-29 01:03
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/wycheproof
+- [IssueCommentEvent] alex - C2SP/wycheproof
+- [PushEvent] alex - alex/wycheproof
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [migrate] 最后更新：2025-11-29 20:45
 - [sourcebot] 最后更新：2025-11-29 20:43
 - [status-desktop] 最后更新：2025-11-29 06:37
