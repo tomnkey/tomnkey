@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - alex/wycheproof
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2025-11-30 12:03
+- [self-hosted] 最后更新：2025-11-30 06:35
+- [ollama] 最后更新：2025-11-30 04:46
+- [sourcebot] 最后更新：2025-11-30 01:48
+- [migrate] 最后更新：2025-11-29 20:45
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
