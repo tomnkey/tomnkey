@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - astral-sh/ty
+- [IssueCommentEvent] alex - astral-sh/ty
+- [CreateEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - astral-sh/ty
+- [IssuesEvent] alex - alex/relish
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-12-01 13:59
+- [go-ethereum] 最后更新：2025-12-01 13:50
+- [survey-creator] 最后更新：2025-12-01 13:45
+- [gofr] 最后更新：2025-12-01 13:01
+- [readest] 最后更新：2025-12-01 12:48
+
+## 🚀 关注动态
 - [IssuesEvent] alex - alex/relish
 - [IssuesEvent] alex - alex/relish
 - [PushEvent] alex - pyca/bcrypt
