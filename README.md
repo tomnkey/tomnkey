@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - twisted/twisted
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-12-01 13:01
+- [status-desktop] 最后更新：2025-12-01 12:50
+- [readest] 最后更新：2025-12-01 12:48
+- [survey-creator] 最后更新：2025-12-01 12:47
+- [status-go] 最后更新：2025-12-01 11:21
+
+## 🚀 关注动态
+- [IssuesEvent] alex - alex/relish
+- [IssuesEvent] alex - alex/relish
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - twisted/twisted
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-12-01 12:00
 - [status-desktop] 最后更新：2025-12-01 11:46
 - [status-go] 最后更新：2025-12-01 11:21
