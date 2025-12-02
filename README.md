@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [servers] 最后更新：2025-12-02 03:39
+- [ollama] 最后更新：2025-12-02 03:23
+- [playwright] 最后更新：2025-12-02 01:23
+- [gofr] 最后更新：2025-12-02 00:30
+- [self-hosted] 最后更新：2025-12-02 00:23
+
+## 🚀 关注动态
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - astral-sh/ty
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - astral-sh/ty
+- [IssueCommentEvent] alex - astral-sh/ty
+- [IssuesEvent] alex - astral-sh/ty
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-12-02 03:23
 - [playwright] 最后更新：2025-12-02 01:23
 - [gofr] 最后更新：2025-12-02 00:30
