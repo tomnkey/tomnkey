@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] alex - astral-sh/ty
 
 ## 🌟 Star动态
+- [status-mobile] 最后更新：2025-12-03 16:48
+- [status-go] 最后更新：2025-12-03 16:18
+- [status-desktop] 最后更新：2025-12-03 16:18
+- [survey-creator] 最后更新：2025-12-03 15:22
+- [playwright] 最后更新：2025-12-03 15:12
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - astral-sh/ty
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - astral-sh/ty
+- [IssueCommentEvent] alex - astral-sh/ty
+- [IssuesEvent] alex - astral-sh/ty
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-12-03 15:57
 - [status-mobile] 最后更新：2025-12-03 15:53
 - [status-desktop] 最后更新：2025-12-03 15:22
