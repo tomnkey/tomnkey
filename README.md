@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - tokio-rs/tokio
 
 ## 🌟 Star动态
+- [survey-creator] 最后更新：2025-12-04 20:58
+- [status-desktop] 最后更新：2025-12-04 20:53
+- [playwright] 最后更新：2025-12-04 20:51
+- [status-mobile] 最后更新：2025-12-04 20:30
+- [sourcebot] 最后更新：2025-12-04 18:42
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
 - [status-desktop] 最后更新：2025-12-04 19:04
 - [status-mobile] 最后更新：2025-12-04 18:42
 - [sourcebot] 最后更新：2025-12-04 18:42
