@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/tokio
 
 ## 🌟 Star动态
+- [status-desktop] 最后更新：2025-12-04 11:44
+- [status-go] 最后更新：2025-12-04 11:43
+- [survey-creator] 最后更新：2025-12-04 11:35
+- [go-ethereum] 最后更新：2025-12-04 10:02
+- [readest] 最后更新：2025-12-04 05:56
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-12-04 10:55
 - [status-desktop] 最后更新：2025-12-04 10:18
 - [go-ethereum] 最后更新：2025-12-04 10:02
