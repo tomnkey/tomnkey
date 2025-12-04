@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [IssueCommentEvent] alex - astral-sh/ty
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2025-12-04 00:12
+- [status-desktop] 最后更新：2025-12-04 00:08
+- [status-go] 最后更新：2025-12-04 00:06
+- [ollama] 最后更新：2025-12-03 23:06
+- [go-ethereum] 最后更新：2025-12-03 22:17
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [IssueCommentEvent] alex - astral-sh/ty
