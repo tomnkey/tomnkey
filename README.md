@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-12-05 13:05
+- [survey-creator] 最后更新：2025-12-05 13:02
+- [status-go] 最后更新：2025-12-05 12:41
+- [status-desktop] 最后更新：2025-12-05 12:01
+- [playwright] 最后更新：2025-12-05 08:50
+
+## 🚀 关注动态
 - [PushEvent] gravityblast - status-im/status-network-monorepo
 - [PullRequestEvent] jkp - jkp/hqp-control
 - [CreateEvent] jkp - jkp/hqp-control
