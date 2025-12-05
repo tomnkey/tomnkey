@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/ruff
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-12-05 00:10
+- [playwright] 最后更新：2025-12-04 23:27
+- [status-desktop] 最后更新：2025-12-04 23:20
+- [ollama] 最后更新：2025-12-04 23:19
+- [survey-creator] 最后更新：2025-12-04 20:58
+
+## 🚀 关注动态
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] bryanveloso - bryanveloso/synthform
 - [PushEvent] jkp - jkp/dotfiles
