@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/tokio
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-12-05 06:03
+- [ollama] 最后更新：2025-12-05 05:33
+- [status-go] 最后更新：2025-12-05 05:21
+- [playwright] 最后更新：2025-12-05 00:31
+- [status-desktop] 最后更新：2025-12-04 23:20
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/ruff
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] bryanveloso - bryanveloso/synthform
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-12-05 04:31
 - [ollama] 最后更新：2025-12-05 03:20
 - [readest] 最后更新：2025-12-05 03:05
