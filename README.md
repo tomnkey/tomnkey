@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestEvent] jkp - jkp/hqp-control
+- [CreateEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [CreateEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - alex/ruff
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [gofr] 最后更新：2025-12-05 12:02
+- [status-desktop] 最后更新：2025-12-05 12:01
+- [status-go] 最后更新：2025-12-05 11:43
+- [survey-creator] 最后更新：2025-12-05 11:13
+- [playwright] 最后更新：2025-12-05 08:50
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/hqp-control
 - [CreateEvent] jkp - jkp/hqp-control
 - [PushEvent] jkp - jkp/hqp-control
