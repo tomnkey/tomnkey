@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/hqp-control
+- [CreateEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [CreateEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - alex/ruff
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] bryanveloso - bryanveloso/synthform
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-12-05 08:50
+- [status-desktop] 最后更新：2025-12-05 07:46
+- [status-go] 最后更新：2025-12-05 07:23
+- [gofr] 最后更新：2025-12-05 07:05
+- [readest] 最后更新：2025-12-05 06:48
+
+## 🚀 关注动态
 - [PushEvent] jkp - jkp/hqp-control
 - [CreateEvent] jkp - jkp/hqp-control
 - [PushEvent] jkp - jkp/dotfiles
