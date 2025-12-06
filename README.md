@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - astral-sh/ruff
+
+## 🌟 Star动态
+- [playwright] 最后更新：2025-12-06 02:16
+- [status-desktop] 最后更新：2025-12-06 01:11
+- [status-go] 最后更新：2025-12-06 01:06
+- [ollama] 最后更新：2025-12-06 00:11
+- [self-hosted] 最后更新：2025-12-06 00:10
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/ruff
 - [PullRequestEvent] alex - astral-sh/ruff
 - [CreateEvent] alex - alex/ruff
