@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - alex/ruff
+- [IssueCommentEvent] alex - Homebrew/homebrew-core
+- [DeleteEvent] jkp - jkp/hqp-control
+- [PushEvent] jkp - jkp/hqp-control
+- [PullRequestEvent] jkp - jkp/hqp-control
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-12-06 00:11
+- [self-hosted] 最后更新：2025-12-06 00:10
+- [status-go] 最后更新：2025-12-05 21:58
+- [playwright] 最后更新：2025-12-05 21:14
+- [sourcebot] 最后更新：2025-12-05 19:58
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - Homebrew/homebrew-core
 - [DeleteEvent] jkp - jkp/hqp-control
 - [PushEvent] jkp - jkp/hqp-control
