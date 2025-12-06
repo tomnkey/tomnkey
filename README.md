@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - astral-sh/ruff
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/ruff
+- [PushEvent] alex - alex/ruff
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+
+## 🌟 Star动态
+- [readest] 最后更新：2025-12-06 11:13
+- [ollama] 最后更新：2025-12-06 08:52
+- [playwright] 最后更新：2025-12-06 08:28
+- [gofr] 最后更新：2025-12-06 07:15
+- [go-ethereum] 最后更新：2025-12-06 03:21
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - astral-sh/ruff
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
