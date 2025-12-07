@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-12-07 22:33
+- [playwright] 最后更新：2025-12-07 21:51
+- [survey-creator] 最后更新：2025-12-07 20:20
+- [self-hosted] 最后更新：2025-12-07 14:45
+- [status-desktop] 最后更新：2025-12-07 14:15
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
