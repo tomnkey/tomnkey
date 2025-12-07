@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [IssuesEvent] jkp - twpayne/chezmoi
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/jplay-ctl
+- [PushEvent] jkp - jkp/jplay-ctl
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2025-12-07 20:20
+- [playwright] 最后更新：2025-12-07 18:03
+- [self-hosted] 最后更新：2025-12-07 14:45
+- [status-desktop] 最后更新：2025-12-07 14:15
+- [readest] 最后更新：2025-12-07 09:04
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
 - [IssuesEvent] jkp - twpayne/chezmoi
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/jplay-ctl
