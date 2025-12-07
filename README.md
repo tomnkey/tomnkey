@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [readest] 最后更新：2025-12-07 05:45
+- [self-hosted] 最后更新：2025-12-07 05:28
+- [ollama] 最后更新：2025-12-06 22:57
+- [status-go] 最后更新：2025-12-06 18:58
+- [servers] 最后更新：2025-12-06 15:46
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/ruff
+- [PushEvent] alex - alex/ruff
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] jkp - jkp/jplay-ctl
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ollama] 最后更新：2025-12-06 22:57
 - [readest] 最后更新：2025-12-06 19:25
 - [status-go] 最后更新：2025-12-06 18:58
