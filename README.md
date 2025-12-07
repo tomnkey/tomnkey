@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] jkp - jkp/jplay-ctl
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/ruff
+- [PushEvent] alex - alex/ruff
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] jkp - jkp/jplay-ctl
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [self-hosted] 最后更新：2025-12-07 14:45
+- [status-desktop] 最后更新：2025-12-07 14:15
+- [readest] 最后更新：2025-12-07 09:04
+- [status-go] 最后更新：2025-12-07 08:21
+- [ollama] 最后更新：2025-12-06 22:57
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - tokio-rs/tokio
 - [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
 - [PushEvent] alex - alex/ruff
