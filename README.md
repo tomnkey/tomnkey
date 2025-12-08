@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/dotfiles
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2025-12-08 03:17
+- [self-hosted] 最后更新：2025-12-08 01:37
+- [status-go] 最后更新：2025-12-08 01:19
+- [playwright] 最后更新：2025-12-07 23:33
+- [servers] 最后更新：2025-12-07 23:15
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
 - [self-hosted] 最后更新：2025-12-08 01:37
 - [status-go] 最后更新：2025-12-08 01:19
 - [ollama] 最后更新：2025-12-08 01:18
