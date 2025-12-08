@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/dotfiles
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2025-12-08 13:09
+- [readest] 最后更新：2025-12-08 13:05
+- [go-ethereum] 最后更新：2025-12-08 12:53
+- [playwright] 最后更新：2025-12-08 12:45
+- [survey-creator] 最后更新：2025-12-08 12:40
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-12-08 11:59
 - [status-go] 最后更新：2025-12-08 11:43
 - [status-desktop] 最后更新：2025-12-08 10:45
