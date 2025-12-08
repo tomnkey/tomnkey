@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
+- [status-desktop] 最后更新：2025-12-08 06:42
+- [status-go] 最后更新：2025-12-08 06:41
+- [readest] 最后更新：2025-12-08 06:40
+- [survey-creator] 最后更新：2025-12-08 06:38
+- [ollama] 最后更新：2025-12-08 05:49
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
 - [IssueCommentEvent] alex - astral-sh/ruff
 - [PushEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
