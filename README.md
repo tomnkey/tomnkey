@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - tokio-rs/tokio
 
 ## 🌟 Star动态
+- [gofr] 最后更新：2025-12-09 10:47
+- [status-go] 最后更新：2025-12-09 10:40
+- [status-desktop] 最后更新：2025-12-09 10:33
+- [survey-creator] 最后更新：2025-12-09 09:39
+- [playwright] 最后更新：2025-12-09 08:08
+
+## 🚀 关注动态
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
 - [status-go] 最后更新：2025-12-09 09:56
 - [survey-creator] 最后更新：2025-12-09 09:39
 - [status-desktop] 最后更新：2025-12-09 09:27
