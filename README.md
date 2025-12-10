@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [IssueCommentEvent] alex - alex/relish
+
+## 🌟 Star动态
+- [status-go] 最后更新：2025-12-10 12:49
+- [readest] 最后更新：2025-12-10 12:37
+- [gofr] 最后更新：2025-12-10 12:28
+- [status-app] 最后更新：2025-12-10 12:22
+- [survey-creator] 最后更新：2025-12-10 08:26
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/tokio
 - [IssueCommentEvent] alex - astral-sh/ruff
 - [IssueCommentEvent] alex - alex/relish
