@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - alex/relish
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2025-12-10 15:03
+- [survey-creator] 最后更新：2025-12-10 14:49
+- [readest] 最后更新：2025-12-10 14:34
+- [playwright] 最后更新：2025-12-10 14:14
+- [status-go] 最后更新：2025-12-10 14:05
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewEvent] gravityblast - status-im/status-network-monorepo
+- [PullRequestReviewCommentEvent] gravityblast - status-im/status-network-monorepo
+- [PushEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [IssueCommentEvent] alex - alex/relish
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2025-12-10 14:03
 - [status-go] 最后更新：2025-12-10 13:54
 - [playwright] 最后更新：2025-12-10 13:52
