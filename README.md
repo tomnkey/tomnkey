@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [IssueCommentEvent] alex - alex/relish
+- [DeleteEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PushEvent] alex - alex/relish
+- [PullRequestReviewEvent] alex - astral-sh/ruff
+- [PullRequestReviewCommentEvent] alex - astral-sh/ruff
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2025-12-10 02:29
+- [status-go] 最后更新：2025-12-10 01:54
+- [self-hosted] 最后更新：2025-12-09 22:39
+- [survey-creator] 最后更新：2025-12-09 21:40
+- [playwright] 最后更新：2025-12-09 21:22
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - astral-sh/ruff
 - [PullRequestReviewCommentEvent] alex - astral-sh/ruff
 - [IssueCommentEvent] alex - pyca/cryptography
