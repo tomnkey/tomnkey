@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/pem-rs
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2026-07-24 16:30
+- [playwright] 最后更新：2026-07-24 16:27
+- [status-app] 最后更新：2026-07-24 15:46
+- [ClashMac] 最后更新：2026-07-24 14:45
+- [survey-creator] 最后更新：2026-07-24 14:24
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - jcreekmore/pem-rs
+- [DeleteEvent] alex - alex/pem-rs
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - jcreekmore/pem-rs
+- [PushEvent] alex - alex/pem-rs
+
+## 🌟 Star动态
 - [ClashMac] 最后更新：2026-07-24 14:45
 - [status-app] 最后更新：2026-07-24 14:39
 - [survey-creator] 最后更新：2026-07-24 14:24
