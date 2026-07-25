@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - alex/claude-experiments
+- [CreateEvent] alex - alex/claude-experiments
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/claude-experiments
+- [CreateEvent] alex - alex/claude-experiments
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [FinceptTerminal] 最后更新：2026-07-25 12:20
+- [grpc-proxy] 最后更新：2026-07-25 11:46
+- [survey-creator] 最后更新：2026-07-25 08:35
+- [status-app] 最后更新：2026-07-25 08:25
+- [ollama] 最后更新：2026-07-25 01:26
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [PushEvent] alex - alex/claude-experiments
 - [CreateEvent] alex - alex/claude-experiments
