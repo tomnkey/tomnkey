@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - C2SP/x509-limbo
+- [PullRequestEvent] alex - C2SP/x509-limbo
+- [CreateEvent] alex - C2SP/x509-limbo
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-07-26 22:26
+- [multica] 最后更新：2026-07-26 19:12
+- [dnsmgr] 最后更新：2026-07-26 13:55
+- [SmsForwarder] 最后更新：2026-07-26 11:24
+- [buf] 最后更新：2026-07-26 04:32
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - C2SP/x509-limbo
 - [PullRequestEvent] alex - C2SP/x509-limbo
 - [CreateEvent] alex - C2SP/x509-limbo
