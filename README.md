@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - rustsec/advisory-db
+- [PullRequestEvent] alex - rustsec/advisory-db
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-07-27 19:42
+- [playwright] 最后更新：2026-07-27 18:55
+- [status-go] 最后更新：2026-07-27 18:31
+- [ollama] 最后更新：2026-07-27 18:22
+- [survey-creator] 最后更新：2026-07-27 16:28
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [IssuesEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
