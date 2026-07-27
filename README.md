@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - rustsec/advisory-db
+- [PullRequestEvent] alex - rustsec/advisory-db
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2026-07-27 21:17
+- [survey-creator] 最后更新：2026-07-27 20:53
+- [ollama] 最后更新：2026-07-27 20:42
+- [status-app] 最后更新：2026-07-27 20:16
+- [playwright] 最后更新：2026-07-27 18:55
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
 - [PushEvent] alex - pyca/cryptography
 - [IssuesEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
