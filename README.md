@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - C2SP/x509-limbo
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-07-27 06:20
+- [survey-creator] 最后更新：2026-07-27 06:08
+- [SmsForwarder] 最后更新：2026-07-27 01:56
+- [ollama] 最后更新：2026-07-27 00:02
+- [dnsmgr] 最后更新：2026-07-26 13:55
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
