@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - omnyist/synthhive
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-07-28 08:19
+- [status-app] 最后更新：2026-07-28 08:13
+- [status-go] 最后更新：2026-07-28 08:12
+- [everything-curl] 最后更新：2026-07-28 07:41
+- [playwright] 最后更新：2026-07-28 07:39
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/bcrypt
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PullRequestReviewEvent] alex - pyca/bcrypt
