@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+
+## 🌟 Star动态
+- [survey-creator] 最后更新：2026-07-28 11:04
+- [multica] 最后更新：2026-07-28 11:00
+- [status-app] 最后更新：2026-07-28 10:49
+- [FeHelper] 最后更新：2026-07-28 10:43
+- [OmniRoute] 最后更新：2026-07-28 10:42
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/synthhive
