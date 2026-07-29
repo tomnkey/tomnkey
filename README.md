@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [CreateEvent] alex - alex/rust
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - secdev/scapy
+- [PushEvent] alex - alex/rust
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewEvent] alex - rust-lang/rust
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-07-29 22:33
+- [playwright] 最后更新：2026-07-29 22:12
+- [servers] 最后更新：2026-07-29 22:09
+- [everything-curl] 最后更新：2026-07-29 21:46
+- [survey-creator] 最后更新：2026-07-29 21:45
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
