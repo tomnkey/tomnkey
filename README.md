@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - rust-lang/rust
+- [PullRequestReviewCommentEvent] alex - rust-lang/rust
+- [PushEvent] alex - alex/rust
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-07-29 15:44
+- [status-go] 最后更新：2026-07-29 15:41
+- [status-app] 最后更新：2026-07-29 15:17
+- [survey-creator] 最后更新：2026-07-29 14:48
+- [ollama] 最后更新：2026-07-29 14:46
+
+## 🚀 关注动态
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
