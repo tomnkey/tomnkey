@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] alex - rust-lang/rust
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-07-29 20:23
+- [status-go] 最后更新：2026-07-29 20:21
+- [everything-curl] 最后更新：2026-07-29 20:15
+- [multica] 最后更新：2026-07-29 19:37
+- [OmniRoute] 最后更新：2026-07-29 18:44
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - secdev/scapy
+- [PushEvent] alex - alex/rust
+- [PullRequestReviewEvent] alex - C2SP/x509-limbo
+- [PullRequestReviewEvent] alex - rust-lang/rust
+- [PullRequestReviewCommentEvent] alex - rust-lang/rust
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-07-29 18:47
 - [OmniRoute] 最后更新：2026-07-29 18:44
 - [playwright] 最后更新：2026-07-29 18:41
