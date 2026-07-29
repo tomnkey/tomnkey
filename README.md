@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-07-29 05:22
+- [lark-coding-agent-bridge] 最后更新：2026-07-29 03:48
+- [go-ethereum] 最后更新：2026-07-29 02:59
+- [OmniRoute] 最后更新：2026-07-29 02:22
+- [ollama] 最后更新：2026-07-29 02:06
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [IssuesEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [SmsForwarder] 最后更新：2026-07-29 01:55
 - [multica] 最后更新：2026-07-29 01:39
 - [go-ethereum] 最后更新：2026-07-29 00:50
