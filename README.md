@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [IssuesEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [SmsForwarder] 最后更新：2026-07-29 01:55
+- [multica] 最后更新：2026-07-29 01:39
+- [go-ethereum] 最后更新：2026-07-29 00:50
+- [sourcebot] 最后更新：2026-07-29 00:17
+- [ollama] 最后更新：2026-07-28 22:35
+
+## 🚀 关注动态
 - [IssuesEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
