@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - alex/rust
+- [PushEvent] alex - alex/rust
+- [PushEvent] alex - alex/rust
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] alex - alex/rust
+- [CreateEvent] alex - alex/rust
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-07-30 08:10
+- [status-app] 最后更新：2026-07-30 08:06
+- [everything-curl] 最后更新：2026-07-30 08:03
+- [OmniRoute] 最后更新：2026-07-30 07:46
+- [status-go] 最后更新：2026-07-30 07:41
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/rust
 - [PushEvent] alex - alex/rust
 - [PushEvent] alex - alex/rust
