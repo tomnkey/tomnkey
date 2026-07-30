@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [everything-curl] 最后更新：2026-07-30 22:08
+- [playwright] 最后更新：2026-07-30 21:54
+- [ollama] 最后更新：2026-07-30 21:36
+- [survey-creator] 最后更新：2026-07-30 21:09
+- [status-app] 最后更新：2026-07-30 19:34
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
