@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] alex - alex/rust
+- [PushEvent] alex - alex/rust
+- [PushEvent] alex - alex/rust
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] alex - alex/rust
+- [CreateEvent] alex - alex/rust
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [SmsForwarder] 最后更新：2026-07-30 01:55
+- [OmniRoute] 最后更新：2026-07-30 01:17
+- [ollama] 最后更新：2026-07-29 23:25
+- [playwright] 最后更新：2026-07-29 23:14
+- [servers] 最后更新：2026-07-29 23:09
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/rust
 - [CreateEvent] alex - alex/rust
 - [PushEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
