@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pynacl
+- [PullRequestReviewEvent] alex - pyca/pynacl
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-07-30 13:42
+- [status-app] 最后更新：2026-07-30 13:40
+- [OmniRoute] 最后更新：2026-07-30 13:21
+- [survey-creator] 最后更新：2026-07-30 12:41
+- [everything-curl] 最后更新：2026-07-30 12:34
+
+## 🚀 关注动态
 - [CreateEvent] gravityblast - logos-blockchain/lez-programs
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
