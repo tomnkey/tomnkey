@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - IBM/actionspz
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - IBM/actionspz
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - IBM/actionspz
+- [IssuesEvent] alex - IBM/actionspz
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-07-31 17:18
+- [status-app] 最后更新：2026-07-31 17:06
+- [status-go] 最后更新：2026-07-31 17:04
+- [survey-creator] 最后更新：2026-07-31 13:12
+- [OmniRoute] 最后更新：2026-07-31 13:05
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - IBM/actionspz
 - [PullRequestEvent] alex - pyca/cryptography
