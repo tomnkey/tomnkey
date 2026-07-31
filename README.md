@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-07-31 05:58
+- [status-app] 最后更新：2026-07-31 05:57
+- [status-go] 最后更新：2026-07-31 04:02
+- [feishu-codex-bridge] 最后更新：2026-07-31 03:30
+- [SmsForwarder] 最后更新：2026-07-31 01:56
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [SmsForwarder] 最后更新：2026-07-31 01:56
 - [sourcebot] 最后更新：2026-07-31 01:12
 - [multica] 最后更新：2026-07-31 00:41
