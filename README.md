@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [DeleteEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - IBM/actionspz
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - IBM/actionspz
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2026-07-31 23:44
+- [ollama] 最后更新：2026-07-31 22:34
+- [playwright] 最后更新：2026-07-31 21:39
+- [survey-creator] 最后更新：2026-07-31 21:18
+- [status-app] 最后更新：2026-07-31 19:49
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - tokio-rs/tokio
 - [IssueCommentEvent] alex - tokio-rs/tokio
 - [IssueCommentEvent] alex - IBM/actionspz
