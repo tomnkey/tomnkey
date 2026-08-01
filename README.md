@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] alex - alex/tokio
+- [PushEvent] alex - alex/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+- [IssuesEvent] alex - certifi/python-certifi
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-01 17:44
+- [survey-creator] 最后更新：2026-08-01 14:42
+- [sourcebot] 最后更新：2026-08-01 04:02
+- [multica] 最后更新：2026-08-01 03:04
+- [go-ethereum] 最后更新：2026-08-01 02:24
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/tokio
 - [PushEvent] alex - alex/tokio
 - [PullRequestEvent] alex - tokio-rs/tokio
