@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/pyopenssl
+- [CreateEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-02 05:32
+- [buf] 最后更新：2026-08-02 04:32
+- [SmsForwarder] 最后更新：2026-08-02 01:56
+- [servers] 最后更新：2026-08-02 01:52
+- [everything-curl] 最后更新：2026-08-01 22:01
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/pyopenssl
 - [PullRequestEvent] alex - pyca/pyopenssl
 - [PullRequestEvent] alex - pyca/pyopenssl
