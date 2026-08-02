@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/pyopenssl
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-02 13:06
+- [status-go] 最后更新：2026-08-02 12:05
+- [status-app] 最后更新：2026-08-02 11:54
+- [buf] 最后更新：2026-08-02 04:32
+- [SmsForwarder] 最后更新：2026-08-02 01:56
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/pyopenssl
+- [PullRequestEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-08-02 11:54
 - [OmniRoute] 最后更新：2026-08-02 11:40
 - [buf] 最后更新：2026-08-02 04:32
