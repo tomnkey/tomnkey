@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - alex/claude-experiments
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-08-04 10:28
+- [survey-creator] 最后更新：2026-08-04 10:27
+- [status-go] 最后更新：2026-08-04 09:47
+- [OmniRoute] 最后更新：2026-08-04 09:46
+- [status-app] 最后更新：2026-08-04 08:58
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - alex/claude-experiments
+
+## 🌟 Star动态
 - [playwright] 最后更新：2026-08-04 07:31
 - [OmniRoute] 最后更新：2026-08-04 07:31
 - [multica] 最后更新：2026-08-04 07:29
