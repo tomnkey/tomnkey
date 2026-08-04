@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-08-04 12:46
+- [OmniRoute] 最后更新：2026-08-04 12:45
+- [survey-creator] 最后更新：2026-08-04 12:25
+- [status-go] 最后更新：2026-08-04 12:22
+- [go-ethereum] 最后更新：2026-08-04 12:04
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
 - [PushEvent] alex - pyca/cryptography
