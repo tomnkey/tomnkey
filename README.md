@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-08-05 17:24
+- [ollama] 最后更新：2026-08-05 17:23
+- [playwright] 最后更新：2026-08-05 17:11
+- [sourcebot] 最后更新：2026-08-05 16:43
+- [OmniRoute] 最后更新：2026-08-05 16:22
+
+## 🚀 关注动态
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-08-05 15:55
 - [OmniRoute] 最后更新：2026-08-05 15:53
 - [survey-creator] 最后更新：2026-08-05 15:45
