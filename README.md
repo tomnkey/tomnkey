@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-08-06 05:15
+- [OmniRoute] 最后更新：2026-08-06 05:06
+- [multica] 最后更新：2026-08-06 05:02
+- [sourcebot] 最后更新：2026-08-06 03:55
+- [go-ethereum] 最后更新：2026-08-06 02:32
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [SmsForwarder] 最后更新：2026-08-06 01:56
 - [OmniRoute] 最后更新：2026-08-06 01:52
 - [sourcebot] 最后更新：2026-08-06 00:54
