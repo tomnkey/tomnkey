@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-lang/rust
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-08-06 11:12
+- [OmniRoute] 最后更新：2026-08-06 11:05
+- [status-app] 最后更新：2026-08-06 11:00
+- [survey-creator] 最后更新：2026-08-06 09:32
+- [go-ethereum] 最后更新：2026-08-06 08:20
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-lang/rust
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
