@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [CreateEvent] bryanveloso - omnypro/perpetual-releases
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - paramiko/paramiko
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-07 03:40
+- [multica] 最后更新：2026-08-07 03:35
+- [SmsForwarder] 最后更新：2026-08-07 01:57
+- [ollama] 最后更新：2026-08-07 00:12
+- [sourcebot] 最后更新：2026-08-06 22:58
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - paramiko/paramiko
 - [DeleteEvent] alex - pyca/cryptography
