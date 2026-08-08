@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-08-08 09:14
+- [OmniRoute] 最后更新：2026-08-08 08:53
+- [status-app] 最后更新：2026-08-08 08:53
+- [sourcebot] 最后更新：2026-08-08 08:42
+- [go-ethereum] 最后更新：2026-08-08 08:24
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - alex/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2026-08-08 08:24
 - [multica] 最后更新：2026-08-08 07:27
 - [OmniRoute] 最后更新：2026-08-08 05:41
