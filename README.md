@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - alex/pyo3
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [DeleteEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [CreateEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - zip-rs/zip2
+- [CreateEvent] alex - alex/zip2
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-08 16:22
+- [survey-creator] 最后更新：2026-08-08 16:18
+- [multica] 最后更新：2026-08-08 16:05
+- [status-app] 最后更新：2026-08-08 14:00
+- [go-ethereum] 最后更新：2026-08-08 13:14
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [PushEvent] alex - alex/pyo3
 - [DeleteEvent] alex - PyO3/pyo3
