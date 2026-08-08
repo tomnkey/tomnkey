@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/pyo3
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-08 14:24
+- [status-app] 最后更新：2026-08-08 14:00
+- [go-ethereum] 最后更新：2026-08-08 13:14
+- [multica] 最后更新：2026-08-08 11:20
+- [survey-creator] 最后更新：2026-08-08 10:19
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/pyo3
+- [DeleteEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+- [CreateEvent] alex - PyO3/pyo3
+- [PullRequestEvent] alex - zip-rs/zip2
+- [CreateEvent] alex - alex/zip2
+- [ForkEvent] alex - zip-rs/zip2
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - alex/pyo3
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-08-08 13:35
 - [go-ethereum] 最后更新：2026-08-08 13:14
 - [multica] 最后更新：2026-08-08 11:20
