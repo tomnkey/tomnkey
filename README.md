@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/pyo3
+- [PullRequestEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] alex - RalfJung/cargo-careful
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/pyo3
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-08 23:06
+- [status-app] 最后更新：2026-08-08 22:10
+- [survey-creator] 最后更新：2026-08-08 18:20
+- [multica] 最后更新：2026-08-08 17:55
+- [go-ethereum] 最后更新：2026-08-08 13:14
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/pyo3
 - [PullRequestEvent] alex - PyO3/pyo3
 - [DeleteEvent] alex - alex/pyo3
