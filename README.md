@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [dnsmgr] 最后更新：2026-08-09 03:07
+- [ollama] 最后更新：2026-08-09 02:44
+- [OmniRoute] 最后更新：2026-08-09 02:30
+- [SmsForwarder] 最后更新：2026-08-09 01:54
+- [status-app] 最后更新：2026-08-08 22:10
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [PullRequestReviewEvent] alex - PyO3/pyo3
 - [PullRequestEvent] alex - PyO3/pyo3
