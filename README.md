@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - alex/pr-tracker
+- [DeleteEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-08-09 17:20
+- [OmniRoute] 最后更新：2026-08-09 17:19
+- [survey-creator] 最后更新：2026-08-09 15:18
+- [go-ethereum] 最后更新：2026-08-09 13:50
+- [buf] 最后更新：2026-08-09 04:32
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - tokio-rs/tokio
 - [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
 - [PushEvent] alex - alex/tokio
