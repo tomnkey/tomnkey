@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - RalfJung/cargo-careful
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - RalfJung/cargo-careful
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [go-ethereum] 最后更新：2026-08-09 13:26
+- [OmniRoute] 最后更新：2026-08-09 13:08
+- [multica] 最后更新：2026-08-09 12:39
+- [survey-creator] 最后更新：2026-08-09 11:26
+- [buf] 最后更新：2026-08-09 04:32
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
