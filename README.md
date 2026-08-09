@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/tokio
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-09 20:03
+- [survey-creator] 最后更新：2026-08-09 19:03
+- [status-app] 最后更新：2026-08-09 19:01
+- [status-go] 最后更新：2026-08-09 18:14
+- [ollama] 最后更新：2026-08-09 17:38
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - rustsec/advisory-db
+- [IssueCommentEvent] alex - rustsec/advisory-db
+- [IssueCommentEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - alex/pr-tracker
+- [DeleteEvent] alex - alex/tokio
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-08-09 19:14
 - [survey-creator] 最后更新：2026-08-09 19:03
 - [status-app] 最后更新：2026-08-09 19:01
