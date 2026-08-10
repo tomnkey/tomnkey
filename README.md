@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - paramiko/paramiko
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-08-10 08:56
+- [playwright] 最后更新：2026-08-10 08:56
+- [status-app] 最后更新：2026-08-10 08:47
+- [survey-creator] 最后更新：2026-08-10 08:30
+- [dnsmgr] 最后更新：2026-08-10 08:17
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [IssueCommentEvent] alex - paramiko/paramiko
+- [PullRequestEvent] alex - paramiko/paramiko
+- [DeleteEvent] alex - alex/paramiko
+- [CreateEvent] alex - alex/paramiko
+- [IssueCommentEvent] alex - rustsec/rustsec
+- [PullRequestEvent] alex - paramiko/paramiko
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2026-08-10 07:09
 - [OmniRoute] 最后更新：2026-08-10 06:54
 - [go-ethereum] 最后更新：2026-08-10 06:47
