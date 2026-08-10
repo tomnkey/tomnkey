@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - paramiko/paramiko
+- [PullRequestEvent] alex - paramiko/paramiko
+- [DeleteEvent] alex - alex/paramiko
+- [CreateEvent] alex - alex/paramiko
+- [IssueCommentEvent] alex - rustsec/rustsec
+- [PullRequestEvent] alex - paramiko/paramiko
+- [PushEvent] alex - alex/paramiko
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-08-10 01:12
+- [OmniRoute] 最后更新：2026-08-10 00:40
+- [playwright] 最后更新：2026-08-09 20:41
+- [survey-creator] 最后更新：2026-08-09 19:03
+- [status-app] 最后更新：2026-08-09 19:01
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rustsec/rustsec
 - [PushEvent] alex - alex/paramiko
 - [IssueCommentEvent] alex - pyca/cryptography
