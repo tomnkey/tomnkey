@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-10 21:25
+- [sourcebot] 最后更新：2026-08-10 21:17
+- [playwright] 最后更新：2026-08-10 21:11
+- [survey-creator] 最后更新：2026-08-10 19:24
+- [status-app] 最后更新：2026-08-10 18:47
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [PushEvent] bryanveloso - omnyist/questlog
