@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rustsec/rustsec
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-08-10 15:44
+- [survey-creator] 最后更新：2026-08-10 15:36
+- [OmniRoute] 最后更新：2026-08-10 15:19
+- [buf] 最后更新：2026-08-10 15:06
+- [status-go] 最后更新：2026-08-10 13:21
+
+## 🚀 关注动态
 - [DeleteEvent] alex - alex/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
