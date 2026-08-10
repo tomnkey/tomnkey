@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-10 13:57
+- [status-app] 最后更新：2026-08-10 13:51
+- [status-go] 最后更新：2026-08-10 13:21
+- [survey-creator] 最后更新：2026-08-10 12:51
+- [multica] 最后更新：2026-08-10 12:08
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rustsec/rustsec
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [survey-creator] 最后更新：2026-08-10 12:51
 - [status-app] 最后更新：2026-08-10 12:42
 - [OmniRoute] 最后更新：2026-08-10 12:40
