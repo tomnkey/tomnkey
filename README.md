@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [IssueCommentEvent] alex - alex/claude-experiments
+- [PushEvent] alex - alex/claude-experiments
+- [IssueCommentEvent] alex - alex/claude-experiments
+- [PushEvent] alex - alex/claude-experiments
+- [PushEvent] alex - alex/claude-experiments
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-08-17 08:33
+- [sourcebot] 最后更新：2026-08-17 08:33
+- [survey-creator] 最后更新：2026-08-17 08:32
+- [OmniRoute] 最后更新：2026-08-17 08:19
+- [playwright] 最后更新：2026-08-17 06:51
+
+## 🚀 关注动态
 - [PushEvent] alex - alex/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
 - [CreateEvent] alex - alex/cryptography
