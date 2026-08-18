@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-08-18 16:08
+- [servers] 最后更新：2026-08-18 16:04
+- [status-app] 最后更新：2026-08-18 16:02
+- [status-go] 最后更新：2026-08-18 15:47
+- [buf] 最后更新：2026-08-18 15:45
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
