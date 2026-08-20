@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-08-20 01:59
+- [playwright] 最后更新：2026-08-20 01:30
+- [sourcebot] 最后更新：2026-08-20 01:13
+- [servers] 最后更新：2026-08-20 01:12
+- [OmniRoute] 最后更新：2026-08-20 00:27
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
