@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssueCommentEvent] alex - zip-rs/zip2
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [IssueCommentEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-08-20 17:07
+- [ollama] 最后更新：2026-08-20 17:02
+- [status-app] 最后更新：2026-08-20 17:01
+- [playwright] 最后更新：2026-08-20 17:00
+- [buf] 最后更新：2026-08-20 16:59
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 - [IssueCommentEvent] alex - zip-rs/zip2
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
