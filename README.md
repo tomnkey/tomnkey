@@ -23,6 +23,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PullRequestReviewCommentEvent] alex - PyO3/pyo3
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-08-20 10:18
+- [multica] 最后更新：2026-08-20 10:12
+- [status-app] 最后更新：2026-08-20 10:05
+- [ToolJet] 最后更新：2026-08-20 09:56
+- [OmniRoute] 最后更新：2026-08-20 09:37
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PullRequestReviewEvent] alex - PyO3/pyo3
 - [PullRequestReviewCommentEvent] alex - PyO3/pyo3
