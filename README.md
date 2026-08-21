@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [ollama] 最后更新：2026-08-21 22:07
+- [ToolJet] 最后更新：2026-08-21 21:32
+- [status-app] 最后更新：2026-08-21 21:23
+- [status-go] 最后更新：2026-08-21 20:53
+- [playwright] 最后更新：2026-08-21 19:10
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [ollama] 最后更新：2026-08-21 21:14
 - [status-go] 最后更新：2026-08-21 20:53
 - [status-app] 最后更新：2026-08-21 19:57
