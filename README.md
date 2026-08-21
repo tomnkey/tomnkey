@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-08-21 10:17
+- [ToolJet] 最后更新：2026-08-21 10:16
+- [playwright] 最后更新：2026-08-21 10:09
+- [status-app] 最后更新：2026-08-21 09:05
+- [status-go] 最后更新：2026-08-21 08:53
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssueCommentEvent] alex - zip-rs/zip2
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [IssueCommentEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-08-21 09:23
 - [ToolJet] 最后更新：2026-08-21 09:14
 - [status-app] 最后更新：2026-08-21 09:05
