@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [dnsmgr] 最后更新：2026-08-22 12:53
+- [status-app] 最后更新：2026-08-22 07:25
+- [ToolJet] 最后更新：2026-08-22 06:40
+- [sourcebot] 最后更新：2026-08-22 04:03
+- [playwright] 最后更新：2026-08-22 03:59
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/questlog
 - [PushEvent] bryanveloso - omnyist/questlog
