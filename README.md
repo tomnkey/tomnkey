@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PullRequestReviewCommentEvent] alex - certifi/python-certifi
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [WatchEvent] bryanveloso - rektdeckard/departure-mono
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-22 19:55
+- [ollama] 最后更新：2026-08-22 18:42
+- [dnsmgr] 最后更新：2026-08-22 12:53
+- [status-app] 最后更新：2026-08-22 07:25
+- [ToolJet] 最后更新：2026-08-22 06:40
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - certifi/python-certifi
 - [PullRequestReviewCommentEvent] alex - certifi/python-certifi
 - [IssueCommentEvent] alex - pyca/cryptography
