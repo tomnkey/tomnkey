@@ -94,6 +94,25 @@ Here are some ideas to get you started:
 - [ollama] 最后更新：2026-08-22 03:55
 
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssueCommentEvent] alex - pyca/pyopenssl
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-08-22 07:25
+- [ToolJet] 最后更新：2026-08-22 06:40
+- [sourcebot] 最后更新：2026-08-22 04:03
+- [playwright] 最后更新：2026-08-22 03:59
+- [ollama] 最后更新：2026-08-22 03:55
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/questlog
 - [PushEvent] bryanveloso - omnyist/questlog
 - [PushEvent] alex - pyca/pyopenssl
