@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] bryanveloso - omnyist/questlog
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-23 02:09
+- [SmsForwarder] 最后更新：2026-08-23 01:52
+- [status-go] 最后更新：2026-08-23 00:01
+- [ollama] 最后更新：2026-08-22 18:42
+- [dnsmgr] 最后更新：2026-08-22 12:53
+
+## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-08-23 00:54
 - [status-go] 最后更新：2026-08-23 00:01
 - [ollama] 最后更新：2026-08-22 18:42
