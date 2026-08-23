@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-23 00:54
+- [status-go] 最后更新：2026-08-23 00:01
+- [ollama] 最后更新：2026-08-22 18:42
+- [dnsmgr] 最后更新：2026-08-22 12:53
+- [status-app] 最后更新：2026-08-22 07:25
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnypro/scaffolde
 - [PullRequestEvent] bryanveloso - omnypro/scaffolde
 - [CreateEvent] bryanveloso - omnypro/scaffolde
