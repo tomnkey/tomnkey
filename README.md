@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] bryanveloso - omnyist/questlog
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-08-23 07:43
+- [status-app] 最后更新：2026-08-23 07:39
+- [OmniRoute] 最后更新：2026-08-23 05:24
+- [buf] 最后更新：2026-08-23 04:32
+- [SmsForwarder] 最后更新：2026-08-23 01:52
+
+## 🚀 关注动态
 - [PullRequestEvent] bryanveloso - omnypro/scaffolde
 - [CreateEvent] bryanveloso - omnypro/scaffolde
 - [PushEvent] bryanveloso - omnypro/scaffolde
