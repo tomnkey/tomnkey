@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [CreateEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [CreateEvent] bryanveloso - omnypro/scaffolde
+- [PushEvent] bryanveloso - omnypro/scaffolde
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-23 16:13
+- [status-go] 最后更新：2026-08-23 15:42
+- [multica] 最后更新：2026-08-23 15:30
+- [ToolJet] 最后更新：2026-08-23 15:10
+- [status-app] 最后更新：2026-08-23 14:50
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
