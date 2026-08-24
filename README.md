@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - alex/line-counter
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2026-08-24 04:23
+- [ToolJet] 最后更新：2026-08-24 04:22
+- [OmniRoute] 最后更新：2026-08-24 04:10
+- [SmsForwarder] 最后更新：2026-08-24 01:51
+- [playwright] 最后更新：2026-08-23 22:43
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2026-08-24 03:11
 - [ToolJet] 最后更新：2026-08-24 02:59
 - [OmniRoute] 最后更新：2026-08-24 01:55
