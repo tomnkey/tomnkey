@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - tokio-rs/tokio
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-24 17:21
+- [playwright] 最后更新：2026-08-24 17:18
+- [ToolJet] 最后更新：2026-08-24 17:03
+- [ollama] 最后更新：2026-08-24 16:50
+- [status-go] 最后更新：2026-08-24 16:33
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
 - [buf] 最后更新：2026-08-24 16:00
 - [status-app] 最后更新：2026-08-24 15:56
 - [status-go] 最后更新：2026-08-24 15:42
