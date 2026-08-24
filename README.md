@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [PullRequestEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-08-24 02:01
+- [OmniRoute] 最后更新：2026-08-24 01:55
+- [SmsForwarder] 最后更新：2026-08-24 01:51
+- [playwright] 最后更新：2026-08-23 22:43
+- [status-app] 最后更新：2026-08-23 19:37
+
+## 🚀 关注动态
 - [PullRequestEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/questlog
