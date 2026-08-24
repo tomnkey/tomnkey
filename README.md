@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-08-24 13:38
+- [go-ethereum] 最后更新：2026-08-24 13:22
+- [ToolJet] 最后更新：2026-08-24 13:18
+- [OmniRoute] 最后更新：2026-08-24 12:58
+- [status-go] 最后更新：2026-08-24 12:29
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/infra
 - [PushEvent] alex - pyca/infra
 - [PullRequestReviewEvent] alex - pyca/infra
