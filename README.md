@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - alex/line-counter
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-08-24 11:18
+- [status-go] 最后更新：2026-08-24 11:07
+- [multica] 最后更新：2026-08-24 11:02
+- [status-app] 最后更新：2026-08-24 10:30
+- [buf] 最后更新：2026-08-24 10:23
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [CreateEvent] alex - alex/tokio
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+
+## 🌟 Star动态
 - [buf] 最后更新：2026-08-24 10:23
 - [playwright] 最后更新：2026-08-24 10:15
 - [ToolJet] 最后更新：2026-08-24 09:59
