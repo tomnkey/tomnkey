@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [WatchEvent] bryanveloso - MacPaw/cleanmymac-cli
+- [DeleteEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/infra
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-08-25 05:17
+- [ToolJet] 最后更新：2026-08-25 05:02
+- [OmniRoute] 最后更新：2026-08-25 04:44
+- [ollama] 最后更新：2026-08-25 03:23
+- [sourcebot] 最后更新：2026-08-25 03:22
+
+## 🚀 关注动态
 - [DeleteEvent] alex - rustsec/advisory-db
 - [DeleteEvent] alex - alex/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
