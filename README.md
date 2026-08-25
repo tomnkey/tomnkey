@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/infra
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-08-25 08:33
+- [ToolJet] 最后更新：2026-08-25 08:31
+- [OmniRoute] 最后更新：2026-08-25 08:31
+- [multica] 最后更新：2026-08-25 08:27
+- [status-go] 最后更新：2026-08-25 08:24
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - MacPaw/cleanmymac-cli
+- [DeleteEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - rustsec/advisory-db
+- [PushEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/infra
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-08-25 07:36
 - [status-go] 最后更新：2026-08-25 07:35
 - [multica] 最后更新：2026-08-25 07:28
