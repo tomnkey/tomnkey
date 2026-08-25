@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/bcrypt
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-08-25 04:30
+- [multica] 最后更新：2026-08-25 04:30
+- [OmniRoute] 最后更新：2026-08-25 04:28
+- [ollama] 最后更新：2026-08-25 03:23
+- [sourcebot] 最后更新：2026-08-25 03:22
+
+## 🚀 关注动态
+- [DeleteEvent] alex - rustsec/advisory-db
+- [DeleteEvent] alex - alex/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+
+## 🌟 Star动态
 - [ollama] 最后更新：2026-08-25 03:23
 - [sourcebot] 最后更新：2026-08-25 03:22
 - [ToolJet] 最后更新：2026-08-25 03:02
