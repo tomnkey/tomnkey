@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PullRequestReviewCommentEvent] alex - certifi/python-certifi
+- [PullRequestReviewCommentEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-25 23:11
+- [ollama] 最后更新：2026-08-25 23:03
+- [sourcebot] 最后更新：2026-08-25 22:09
+- [go-ethereum] 最后更新：2026-08-25 21:33
+- [buf] 最后更新：2026-08-25 21:11
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
