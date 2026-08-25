@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/infra
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-08-25 18:25
+- [status-go] 最后更新：2026-08-25 18:19
+- [status-app] 最后更新：2026-08-25 18:01
+- [multica] 最后更新：2026-08-25 17:48
+- [OmniRoute] 最后更新：2026-08-25 17:01
+
+## 🚀 关注动态
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
