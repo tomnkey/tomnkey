@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [WatchEvent] bryanveloso - mnemosyne-oss/mnemosyne
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-08-26 02:12
+- [SmsForwarder] 最后更新：2026-08-26 01:51
+- [OmniRoute] 最后更新：2026-08-26 01:05
+- [playwright] 最后更新：2026-08-26 00:46
+- [sourcebot] 最后更新：2026-08-25 22:09
+
+## 🚀 关注动态
 - [WatchEvent] bryanveloso - mnemosyne-oss/mnemosyne
 - [IssueCommentEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
