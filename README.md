@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-08-26 13:42
+- [multica] 最后更新：2026-08-26 13:21
+- [OmniRoute] 最后更新：2026-08-26 13:14
+- [status-go] 最后更新：2026-08-26 13:08
+- [ToolJet] 最后更新：2026-08-26 12:57
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [DeleteEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-08-26 12:28
 - [OmniRoute] 最后更新：2026-08-26 12:28
 - [status-go] 最后更新：2026-08-26 12:27
