@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssuesEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [DeleteEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/pyopenssl
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-08-27 13:23
+- [status-app] 最后更新：2026-08-27 13:19
+- [go-ethereum] 最后更新：2026-08-27 12:57
+- [ToolJet] 最后更新：2026-08-27 12:40
+- [OmniRoute] 最后更新：2026-08-27 11:24
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - pyca/cryptography
