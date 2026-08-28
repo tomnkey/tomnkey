@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-08-28 20:33
+- [OmniRoute] 最后更新：2026-08-28 20:30
+- [buf] 最后更新：2026-08-28 20:17
+- [playwright] 最后更新：2026-08-28 19:59
+- [ollama] 最后更新：2026-08-28 19:46
+
+## 🚀 关注动态
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
