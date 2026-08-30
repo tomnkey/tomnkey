@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] jkp - jkp/Codex.spoon
+- [PushEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [DeleteEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-30 18:16
+- [ToolJet] 最后更新：2026-08-30 14:12
+- [status-app] 最后更新：2026-08-30 11:28
+- [status-go] 最后更新：2026-08-30 09:34
+- [multica] 最后更新：2026-08-30 08:18
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [DeleteEvent] jkp - jkp/Codex.spoon
