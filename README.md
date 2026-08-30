@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [WatchEvent] bryanveloso - michaelforney/oscmix
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-08-30 08:49
+- [OmniRoute] 最后更新：2026-08-30 08:30
+- [multica] 最后更新：2026-08-30 08:18
+- [buf] 最后更新：2026-08-30 04:32
+- [SmsForwarder] 最后更新：2026-08-30 01:34
+
+## 🚀 关注动态
+- [DeleteEvent] jkp - jkp/Codex.spoon
+- [PushEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+- [DeleteEvent] alex - alex/paramiko
+- [WatchEvent] bryanveloso - michaelforney/oscmix
+
+## 🌟 Star动态
 - [SmsForwarder] 最后更新：2026-08-30 01:34
 - [status-go] 最后更新：2026-08-29 22:57
 - [OmniRoute] 最后更新：2026-08-29 22:52
