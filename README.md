@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PullRequestEvent] bryanveloso - omnyist/synthhive
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+- [DeleteEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [servers] 最后更新：2026-08-30 21:43
+- [OmniRoute] 最后更新：2026-08-30 21:03
+- [ToolJet] 最后更新：2026-08-30 21:00
+- [status-app] 最后更新：2026-08-30 11:28
+- [status-go] 最后更新：2026-08-30 09:34
+
+## 🚀 关注动态
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
