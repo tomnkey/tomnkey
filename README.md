@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PullRequestEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-08-31 06:27
+- [multica] 最后更新：2026-08-31 06:26
+- [ToolJet] 最后更新：2026-08-31 06:23
+- [OmniRoute] 最后更新：2026-08-31 06:10
+- [SmsForwarder] 最后更新：2026-08-31 01:38
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/questlog
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/synthhive
