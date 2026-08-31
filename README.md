@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PullRequestEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+- [DeleteEvent] jkp - jkp/Codex.spoon
+- [PushEvent] jkp - jkp/Codex.spoon
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-08-30 23:47
+- [playwright] 最后更新：2026-08-30 22:43
+- [servers] 最后更新：2026-08-30 21:43
+- [ToolJet] 最后更新：2026-08-30 21:00
+- [status-app] 最后更新：2026-08-30 11:28
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [PullRequestEvent] bryanveloso - omnyist/synthhive
