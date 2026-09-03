@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - zip-rs/zip2
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-09-03 21:24
+- [status-app] 最后更新：2026-09-03 20:43
+- [OmniRoute] 最后更新：2026-09-03 20:26
+- [playwright] 最后更新：2026-09-03 20:08
+- [multica] 最后更新：2026-09-03 18:45
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - zip-rs/zip2
 - [PullRequestEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
