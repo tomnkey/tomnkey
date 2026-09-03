@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - alex/claude-experiments
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
+- [servers] 最后更新：2026-09-03 01:42
+- [SmsForwarder] 最后更新：2026-09-03 01:39
+- [OmniRoute] 最后更新：2026-09-03 00:20
+- [ToolJet] 最后更新：2026-09-02 23:30
+- [playwright] 最后更新：2026-09-02 22:36
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - pyca/cryptography
