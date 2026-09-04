@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2026-09-04 04:01
+- [ToolJet] 最后更新：2026-09-04 03:57
+- [OmniRoute] 最后更新：2026-09-04 03:45
+- [go-ethereum] 最后更新：2026-09-04 03:26
+- [multica] 最后更新：2026-09-04 03:00
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - zip-rs/zip2
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-09-04 03:04
 - [multica] 最后更新：2026-09-04 03:00
 - [go-ethereum] 最后更新：2026-09-04 02:52
