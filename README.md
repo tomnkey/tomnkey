@@ -23,6 +23,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
+
+## 🌟 Star动态
+- [SmsForwarder] 最后更新：2026-09-05 01:30
+- [ollama] 最后更新：2026-09-05 00:52
+- [playwright] 最后更新：2026-09-04 22:40
+- [migrate] 最后更新：2026-09-04 21:17
+- [go-ethereum] 最后更新：2026-09-04 20:31
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewCommentEvent] alex - rust-openssl/rust-openssl
