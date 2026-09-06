@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-06 04:03
+- [OmniRoute] 最后更新：2026-09-06 02:32
+- [SmsForwarder] 最后更新：2026-09-06 01:35
+- [ClashMac] 最后更新：2026-09-05 16:56
+- [sourcebot] 最后更新：2026-09-05 11:32
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-06 03:03
 - [OmniRoute] 最后更新：2026-09-06 02:32
 - [SmsForwarder] 最后更新：2026-09-06 01:35
