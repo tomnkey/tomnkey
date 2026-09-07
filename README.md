@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-07 14:06
+- [OmniRoute] 最后更新：2026-09-07 13:59
+- [go-ethereum] 最后更新：2026-09-07 13:58
+- [status-app] 最后更新：2026-09-07 13:50
+- [status-go] 最后更新：2026-09-07 12:48
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-07 13:04
 - [status-app] 最后更新：2026-09-07 13:02
 - [go-ethereum] 最后更新：2026-09-07 13:01
