@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - astral-sh/ty
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-07 10:01
+- [ToolJet] 最后更新：2026-09-07 09:56
+- [status-app] 最后更新：2026-09-07 09:35
+- [SmsForwarder] 最后更新：2026-09-07 01:38
+- [OmniRoute] 最后更新：2026-09-06 21:36
+
+## 🚀 关注动态
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [IssueCommentEvent] alex - astral-sh/ty
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-09-07 09:08
 - [ToolJet] 最后更新：2026-09-07 08:46
 - [status-app] 最后更新：2026-09-07 07:03
