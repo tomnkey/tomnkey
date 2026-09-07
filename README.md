@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - astral-sh/ty
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/pyopenssl
+- [PullRequestReviewEvent] alex - pyca/pyopenssl
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-07 01:03
+- [status-app] 最后更新：2026-09-06 23:30
+- [OmniRoute] 最后更新：2026-09-06 21:36
+- [dnsmgr] 最后更新：2026-09-06 14:48
+- [buf] 最后更新：2026-09-06 04:32
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/pyopenssl
 - [PullRequestReviewEvent] alex - pyca/pyopenssl
