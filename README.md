@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-07 18:54
+- [OmniRoute] 最后更新：2026-09-07 18:37
+- [status-go] 最后更新：2026-09-07 16:29
+- [multica] 最后更新：2026-09-07 16:26
+- [buf] 最后更新：2026-09-07 16:04
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-07 16:39
 - [status-go] 最后更新：2026-09-07 16:29
 - [multica] 最后更新：2026-09-07 16:26
