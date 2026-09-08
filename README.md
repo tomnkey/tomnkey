@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - omnyist/questlog
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-09-08 12:10
+- [status-go] 最后更新：2026-09-08 12:09
+- [status-app] 最后更新：2026-09-08 12:05
+- [ToolJet] 最后更新：2026-09-08 12:02
+- [playwright] 最后更新：2026-09-08 11:39
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+
+## 🌟 Star动态
 - [status-go] 最后更新：2026-09-08 11:05
 - [ToolJet] 最后更新：2026-09-08 11:05
 - [status-app] 最后更新：2026-09-08 11:04
