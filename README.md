@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [SmsForwarder] 最后更新：2026-09-08 01:34
+- [go-ethereum] 最后更新：2026-09-08 01:07
+- [status-go] 最后更新：2026-09-07 22:44
+- [status-app] 最后更新：2026-09-07 22:11
+- [migrate] 最后更新：2026-09-07 21:00
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+- [PullRequestReviewCommentEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [CreateEvent] alex - Homebrew/brew-pip-audit
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2026-09-08 01:07
 - [status-go] 最后更新：2026-09-07 22:44
 - [status-app] 最后更新：2026-09-07 22:11
