@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - tokio-rs/tokio
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-08 09:05
+- [status-go] 最后更新：2026-09-08 08:59
+- [status-app] 最后更新：2026-09-08 08:59
+- [ToolJet] 最后更新：2026-09-08 08:58
+- [SmsForwarder] 最后更新：2026-09-08 01:34
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-09-08 08:06
 - [multica] 最后更新：2026-09-08 08:05
 - [ToolJet] 最后更新：2026-09-08 07:53
