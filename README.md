@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - Homebrew/brew-pip-audit
+- [PullRequestReviewEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-09-08 06:07
+- [ToolJet] 最后更新：2026-09-08 06:01
+- [SmsForwarder] 最后更新：2026-09-08 01:34
+- [go-ethereum] 最后更新：2026-09-08 01:07
+- [status-go] 最后更新：2026-09-07 22:44
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthhive
 - [PushEvent] bryanveloso - omnyist/questlog
 - [PushEvent] bryanveloso - omnyist/questlog
 - [IssueCommentEvent] alex - pyca/cryptography
