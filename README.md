@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - astral-sh/ty
 - [PullRequestEvent] alex - astral-sh/ruff
 - [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-09-08 22:50
+- [migrate] 最后更新：2026-09-08 22:08
+- [playwright] 最后更新：2026-09-08 22:00
+- [multica] 最后更新：2026-09-08 21:16
+- [status-app] 最后更新：2026-09-08 20:21
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - astral-sh/ty
+- [PullRequestEvent] alex - astral-sh/ruff
+- [PushEvent] bryanveloso - omnyist/questlog
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
