@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] bryanveloso - omnyist/synthhive
 
 ## 🌟 Star动态
+- [migrate] 最后更新：2026-09-09 05:06
+- [ToolJet] 最后更新：2026-09-09 04:22
+- [OmniRoute] 最后更新：2026-09-09 03:29
+- [playwright] 最后更新：2026-09-09 01:43
+- [SmsForwarder] 最后更新：2026-09-09 01:34
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - cathrynlavery/diagram-design
+- [DeleteEvent] alex - alex/line-counter
+- [PushEvent] alex - alex/line-counter
+- [DeleteEvent] alex - alex/line-counter
+- [IssuesEvent] alex - golang/go
+- [IssueCommentEvent] alex - astral-sh/ty
+- [PullRequestEvent] alex - astral-sh/ruff
+- [PushEvent] alex - alex/ruff
+- [CreateEvent] alex - alex/ruff
+- [PushEvent] bryanveloso - omnyist/synthhive
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-09 03:58
 - [OmniRoute] 最后更新：2026-09-09 03:29
 - [playwright] 最后更新：2026-09-09 01:43
