@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssuesEvent] alex - golang/go
+- [IssueCommentEvent] alex - astral-sh/ty
+- [PullRequestEvent] alex - astral-sh/ruff
+- [PushEvent] alex - alex/ruff
+- [CreateEvent] alex - alex/ruff
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-09-09 00:10
+- [playwright] 最后更新：2026-09-08 23:54
+- [migrate] 最后更新：2026-09-08 22:08
+- [multica] 最后更新：2026-09-08 21:16
+- [status-app] 最后更新：2026-09-08 20:21
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - astral-sh/ty
 - [PullRequestEvent] alex - astral-sh/ruff
 - [PushEvent] bryanveloso - omnyist/questlog
