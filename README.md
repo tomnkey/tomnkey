@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-09 19:48
+- [ollama] 最后更新：2026-09-09 19:34
+- [status-go] 最后更新：2026-09-09 18:51
+- [sourcebot] 最后更新：2026-09-09 18:46
+- [playwright] 最后更新：2026-09-09 18:18
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-go] 最后更新：2026-09-09 18:51
 - [sourcebot] 最后更新：2026-09-09 18:46
 - [ollama] 最后更新：2026-09-09 18:45
