@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - golang/go
+- [IssueCommentEvent] alex - golang/go
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [PullRequestEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - pyca/ed25519
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-09-10 22:00
+- [sourcebot] 最后更新：2026-09-10 21:29
+- [OmniRoute] 最后更新：2026-09-10 21:26
+- [ollama] 最后更新：2026-09-10 21:16
+- [playwright] 最后更新：2026-09-10 20:55
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewCommentEvent] alex - pyca/cryptography
 - [IssueCommentEvent] alex - golang/go
