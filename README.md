@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - golang/go
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2026-09-10 19:04
+- [OmniRoute] 最后更新：2026-09-10 19:02
+- [buf] 最后更新：2026-09-10 19:01
+- [multica] 最后更新：2026-09-10 18:54
+- [ollama] 最后更新：2026-09-10 18:50
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - golang/go
+- [IssueCommentEvent] alex - golang/go
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [PullRequestEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - pyca/ed25519
+- [PushEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PushEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - pyca/ed25519
+- [IssueCommentEvent] alex - golang/go
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-09-10 18:06
 - [multica] 最后更新：2026-09-10 18:05
 - [status-go] 最后更新：2026-09-10 17:58
