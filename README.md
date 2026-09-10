@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - tokio-rs/tokio
 
 ## 🌟 Star动态
+- [sourcebot] 最后更新：2026-09-10 21:00
+- [OmniRoute] 最后更新：2026-09-10 20:58
+- [playwright] 最后更新：2026-09-10 20:55
+- [status-app] 最后更新：2026-09-10 20:33
+- [status-go] 最后更新：2026-09-10 20:32
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - golang/go
+- [IssueCommentEvent] alex - golang/go
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [PullRequestEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - pyca/ed25519
+- [PushEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
 - [ollama] 最后更新：2026-09-10 19:16
 - [status-go] 最后更新：2026-09-10 19:15
 - [multica] 最后更新：2026-09-10 19:15
