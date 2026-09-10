@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - golang/go
+- [IssueCommentEvent] alex - golang/go
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [PullRequestEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - pyca/ed25519
+- [PushEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-09-10 19:16
+- [status-go] 最后更新：2026-09-10 19:15
+- [multica] 最后更新：2026-09-10 19:15
+- [OmniRoute] 最后更新：2026-09-10 19:13
+- [playwright] 最后更新：2026-09-10 19:05
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - golang/go
 - [IssueCommentEvent] alex - golang/go
 - [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
