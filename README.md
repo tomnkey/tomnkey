@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - golang/go
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-09-10 15:06
+- [status-go] 最后更新：2026-09-10 14:56
+- [multica] 最后更新：2026-09-10 14:54
+- [buf] 最后更新：2026-09-10 14:52
+- [OmniRoute] 最后更新：2026-09-10 14:51
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - golang/go
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
