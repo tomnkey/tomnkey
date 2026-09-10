@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-09-10 11:04
+- [ToolJet] 最后更新：2026-09-10 11:00
+- [multica] 最后更新：2026-09-10 10:59
+- [status-go] 最后更新：2026-09-10 10:50
+- [dnsmgr] 最后更新：2026-09-10 08:13
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
