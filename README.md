@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - openssl/openssl
 - [PullRequestEvent] alex - openssl/openssl
+- [PushEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - astral-sh/ruff
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2026-09-10 00:26
+- [playwright] 最后更新：2026-09-10 00:19
+- [OmniRoute] 最后更新：2026-09-09 23:59
+- [ollama] 最后更新：2026-09-09 23:33
+- [buf] 最后更新：2026-09-09 23:15
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - openssl/openssl
+- [PullRequestEvent] alex - openssl/openssl
 - [IssueCommentEvent] alex - astral-sh/ruff
 - [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
