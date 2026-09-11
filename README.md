@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - tokio-rs/tokio
 
 ## 🌟 Star动态
+- [buf] 最后更新：2026-09-11 14:04
+- [status-app] 最后更新：2026-09-11 14:03
+- [ToolJet] 最后更新：2026-09-11 12:39
+- [status-go] 最后更新：2026-09-11 12:28
+- [multica] 最后更新：2026-09-11 10:51
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - aws/aws-encryption-sdk-python
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - tokio-rs/tokio
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-09-11 12:58
 - [ToolJet] 最后更新：2026-09-11 12:39
 - [buf] 最后更新：2026-09-11 12:34
