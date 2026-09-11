@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/ed25519
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2026-09-11 00:10
+- [ollama] 最后更新：2026-09-10 23:16
+- [OmniRoute] 最后更新：2026-09-10 22:06
+- [status-app] 最后更新：2026-09-10 22:00
+- [sourcebot] 最后更新：2026-09-10 21:29
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - golang/go
+- [IssueCommentEvent] alex - golang/go
+- [ReleaseEvent] bryanveloso - omnypro/perpetual-releases
+- [PullRequestEvent] alex - pyca/ed25519
+- [PullRequestEvent] alex - pyca/ed25519
+
+## 🌟 Star动态
 - [playwright] 最后更新：2026-09-10 22:59
 - [ollama] 最后更新：2026-09-10 22:50
 - [OmniRoute] 最后更新：2026-09-10 22:06
