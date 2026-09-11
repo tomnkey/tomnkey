@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2026-09-11 09:59
+- [multica] 最后更新：2026-09-11 09:58
+- [ToolJet] 最后更新：2026-09-11 09:53
+- [status-app] 最后更新：2026-09-11 09:48
+- [playwright] 最后更新：2026-09-11 09:10
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-09-11 09:06
 - [ToolJet] 最后更新：2026-09-11 09:04
 - [status-app] 最后更新：2026-09-11 07:57
