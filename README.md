@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PushEvent] bryanveloso - omnyist/questlog
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-11 12:08
+- [status-app] 最后更新：2026-09-11 11:43
+- [status-go] 最后更新：2026-09-11 11:29
+- [multica] 最后更新：2026-09-11 10:51
+- [playwright] 最后更新：2026-09-11 09:10
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - tokio-rs/tokio
 - [PushEvent] bryanveloso - omnyist/questlog
 - [DeleteEvent] alex - pyca/cryptography
