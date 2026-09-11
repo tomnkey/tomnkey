@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - golang/go
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-11 05:01
+- [ToolJet] 最后更新：2026-09-11 05:00
+- [status-app] 最后更新：2026-09-11 04:29
+- [sourcebot] 最后更新：2026-09-11 04:24
+- [go-ethereum] 最后更新：2026-09-11 03:15
+
+## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - golang/go
+
+## 🌟 Star动态
 - [go-ethereum] 最后更新：2026-09-11 03:15
 - [SmsForwarder] 最后更新：2026-09-11 01:32
 - [ollama] 最后更新：2026-09-11 01:27
