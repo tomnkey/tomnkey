@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-12 06:53
+- [sourcebot] 最后更新：2026-09-12 06:02
+- [multica] 最后更新：2026-09-12 03:25
+- [SmsForwarder] 最后更新：2026-09-12 01:29
+- [OmniRoute] 最后更新：2026-09-12 01:29
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - aws/aws-encryption-sdk-python
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2026-09-12 06:02
 - [multica] 最后更新：2026-09-12 03:25
 - [SmsForwarder] 最后更新：2026-09-12 01:29
