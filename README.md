@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssuesEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] bryanveloso - bryanveloso/hypnotik.tv
+- [PushEvent] bryanveloso - omnyist/questlog
+
+## 🌟 Star动态
+- [AI-Codereview-Gitlab] 最后更新：2026-09-12 08:39
+- [ToolJet] 最后更新：2026-09-12 07:26
+- [sourcebot] 最后更新：2026-09-12 06:02
+- [multica] 最后更新：2026-09-12 03:25
+- [SmsForwarder] 最后更新：2026-09-12 01:29
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PushEvent] bryanveloso - omnyist/synthform
 - [PushEvent] bryanveloso - omnyist/synthform
