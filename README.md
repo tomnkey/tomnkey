@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [SmsForwarder] 最后更新：2026-09-14 01:40
+- [ToolJet] 最后更新：2026-09-13 17:13
+- [multica] 最后更新：2026-09-13 11:13
+- [ClashMac] 最后更新：2026-09-13 09:41
+- [buf] 最后更新：2026-09-13 04:33
+
+## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnyist/synthform
+- [WatchEvent] bryanveloso - Myseri/xeneon-edge-multitouch-macos
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-13 17:13
 - [multica] 最后更新：2026-09-13 11:13
 - [ClashMac] 最后更新：2026-09-13 09:41
