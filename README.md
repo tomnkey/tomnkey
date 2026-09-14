@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [WatchEvent] bryanveloso - Myseri/xeneon-edge-multitouch-macos
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-14 09:02
+- [status-app] 最后更新：2026-09-14 08:26
+- [status-go] 最后更新：2026-09-14 08:06
+- [go-ethereum] 最后更新：2026-09-14 07:16
+- [SmsForwarder] 最后更新：2026-09-14 06:46
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnyist/synthform
+- [WatchEvent] bryanveloso - Myseri/xeneon-edge-multitouch-macos
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-09-14 08:08
 - [status-go] 最后更新：2026-09-14 08:06
 - [status-app] 最后更新：2026-09-14 07:41
