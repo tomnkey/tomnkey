@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] bryanveloso - omnypro/scaffolde
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [PushEvent] bryanveloso - omnyist/synthform
+- [WatchEvent] bryanveloso - Myseri/xeneon-edge-multitouch-macos
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-09-14 03:35
+- [SmsForwarder] 最后更新：2026-09-14 01:40
+- [ToolJet] 最后更新：2026-09-13 17:13
+- [multica] 最后更新：2026-09-13 11:13
+- [ClashMac] 最后更新：2026-09-13 09:41
+
+## 🚀 关注动态
 - [PullRequestEvent] bryanveloso - omnypro/scaffolde
 - [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
