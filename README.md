@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [WatchEvent] bryanveloso - samanhappy/mcphub
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [IssueCommentEvent] alex - getsentry/sentry
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-15 11:05
+- [status-app] 最后更新：2026-09-15 10:50
+- [multica] 最后更新：2026-09-15 10:47
+- [OmniRoute] 最后更新：2026-09-15 10:24
+- [go-ethereum] 最后更新：2026-09-15 09:18
+
+## 🚀 关注动态
 - [WatchEvent] bryanveloso - samanhappy/mcphub
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [IssueCommentEvent] alex - getsentry/sentry
