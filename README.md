@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [DeleteEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-15 05:05
+- [ToolJet] 最后更新：2026-09-15 04:29
+- [ollama] 最后更新：2026-09-15 04:26
+- [sourcebot] 最后更新：2026-09-15 04:10
+- [OmniRoute] 最后更新：2026-09-15 04:06
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - samanhappy/mcphub
+- [PushEvent] bryanveloso - omnyist/synthhive
+- [IssueCommentEvent] alex - getsentry/sentry
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [sourcebot] 最后更新：2026-09-15 04:07
 - [OmniRoute] 最后更新：2026-09-15 04:06
 - [ToolJet] 最后更新：2026-09-15 03:54
