@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [WatchEvent] bryanveloso - samanhappy/mcphub
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-09-15 14:05
+- [ToolJet] 最后更新：2026-09-15 14:04
+- [status-app] 最后更新：2026-09-15 13:52
+- [multica] 最后更新：2026-09-15 11:09
+- [go-ethereum] 最后更新：2026-09-15 09:18
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [WatchEvent] bryanveloso - samanhappy/mcphub
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-09-15 13:04
 - [ToolJet] 最后更新：2026-09-15 13:01
 - [status-app] 最后更新：2026-09-15 12:39
