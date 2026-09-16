@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [IssueCommentEvent] alex - golang/go
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-09-16 11:01
+- [status-app] 最后更新：2026-09-16 10:50
+- [multica] 最后更新：2026-09-16 10:45
+- [ToolJet] 最后更新：2026-09-16 10:30
+- [buf] 最后更新：2026-09-16 06:48
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - PyO3/pyo3
 - [IssueCommentEvent] alex - golang/go
 - [PullRequestEvent] alex - tokio-rs/tokio
