@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-09-16 22:59
+- [ToolJet] 最后更新：2026-09-16 22:57
+- [playwright] 最后更新：2026-09-16 22:14
+- [buf] 最后更新：2026-09-16 21:23
+- [ollama] 最后更新：2026-09-16 21:10
+
+## 🚀 关注动态
+- [PushEvent] jkp - supertest-ai/livekit-rust-sdks
+- [IssueCommentEvent] jkp - livekit/rust-sdks
+- [PushEvent] jkp - supertest-ai/livekit-rust-sdks
+- [PushEvent] jkp - supertest-ai/livekit-rust-sdks
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [playwright] 最后更新：2026-09-16 22:03
 - [buf] 最后更新：2026-09-16 21:23
 - [ollama] 最后更新：2026-09-16 21:10
