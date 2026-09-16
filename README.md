@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-09-16 02:03
+- [status-app] 最后更新：2026-09-16 01:55
+- [SmsForwarder] 最后更新：2026-09-16 01:34
+- [playwright] 最后更新：2026-09-16 01:20
+- [buf] 最后更新：2026-09-16 01:12
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - golang/go
+- [PullRequestEvent] alex - tokio-rs/tokio
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - PyO3/pyo3
+- [DeleteEvent] alex - alex/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [buf] 最后更新：2026-09-16 01:12
 - [OmniRoute] 最后更新：2026-09-16 01:01
 - [ollama] 最后更新：2026-09-16 00:37
