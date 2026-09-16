@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] jkp - livekit/rust-sdks
+- [PushEvent] jkp - supertest-ai/livekit-rust-sdks
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [FinceptTerminal] 最后更新：2026-09-16 18:57
+- [OmniRoute] 最后更新：2026-09-16 18:56
+- [ollama] 最后更新：2026-09-16 18:36
+- [status-app] 最后更新：2026-09-16 18:28
+- [status-go] 最后更新：2026-09-16 18:17
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
