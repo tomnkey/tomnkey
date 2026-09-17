@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [ForkEvent] jkp - moonrepo/moon
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - alex/metrics
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PullRequestEvent] alex - metrics-rs/metrics
+- [PushEvent] jkp - supertest-ai/livekit-rust-sdks
+- [IssueCommentEvent] jkp - livekit/rust-sdks
+- [PushEvent] jkp - supertest-ai/livekit-rust-sdks
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-17 11:02
+- [status-app] 最后更新：2026-09-17 10:52
+- [multica] 最后更新：2026-09-17 10:26
+- [buf] 最后更新：2026-09-17 09:05
+- [OmniRoute] 最后更新：2026-09-17 08:48
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - metrics-rs/metrics
 - [PushEvent] alex - alex/metrics
 - [IssueCommentEvent] alex - metrics-rs/metrics
