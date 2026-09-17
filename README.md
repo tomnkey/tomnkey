@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2026-09-17 14:47
+- [status-app] 最后更新：2026-09-17 14:41
+- [ToolJet] 最后更新：2026-09-17 14:33
+- [ollama] 最后更新：2026-09-17 14:18
+- [OmniRoute] 最后更新：2026-09-17 13:56
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - moonrepo/moon
+- [IssuesEvent] jkp - moonrepo/moon
+- [CreateEvent] jkp - supertest-ai/moon
+- [CreateEvent] jkp - supertest-ai/moon
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-09-17 14:03
 - [OmniRoute] 最后更新：2026-09-17 13:56
 - [sourcebot] 最后更新：2026-09-17 13:52
