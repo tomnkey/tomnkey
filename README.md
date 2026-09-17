@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/synthform
+- [PullRequestEvent] jkp - moonrepo/moon
+- [IssuesEvent] jkp - moonrepo/moon
+- [CreateEvent] jkp - supertest-ai/moon
+- [CreateEvent] jkp - supertest-ai/moon
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-17 16:59
+- [OmniRoute] 最后更新：2026-09-17 16:49
+- [playwright] 最后更新：2026-09-17 16:47
+- [ollama] 最后更新：2026-09-17 16:46
+- [status-app] 最后更新：2026-09-17 16:04
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - moonrepo/moon
 - [IssuesEvent] jkp - moonrepo/moon
 - [CreateEvent] jkp - supertest-ai/moon
