@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] alex - alex/metrics
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+- [PushEvent] alex - alex/metrics
+- [PushEvent] bryanveloso - omnyist/questlog
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-09-19 00:15
+- [status-app] 最后更新：2026-09-18 22:52
+- [playwright] 最后更新：2026-09-18 20:44
+- [OmniRoute] 最后更新：2026-09-18 18:27
+- [ToolJet] 最后更新：2026-09-18 15:39
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/metrics
 - [PushEvent] bryanveloso - omnyist/questlog
 - [IssueCommentEvent] alex - metrics-rs/metrics
 - [PushEvent] alex - pyca/cryptography
