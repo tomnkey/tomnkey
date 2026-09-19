@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [CreateEvent] jkp - jkp/protonmail-mcp
+- [IssuesEvent] jkp - jerryfane/herdrup
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [PushEvent] alex - alex/metrics
+- [PullRequestReviewEvent] alex - PyO3/pyo3
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-09-19 10:18
+- [OmniRoute] 最后更新：2026-09-19 08:30
+- [FinceptTerminal] 最后更新：2026-09-19 08:12
+- [status-app] 最后更新：2026-09-19 04:47
+- [ollama] 最后更新：2026-09-19 04:40
+
+## 🚀 关注动态
 - [IssuesEvent] jkp - jerryfane/herdrup
 - [PullRequestEvent] alex - pyca/cryptography
 - [PullRequestEvent] alex - pyca/cryptography
