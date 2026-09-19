@@ -40,6 +40,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/protonmail-mcp
 - [PushEvent] jkp - jkp/protonmail-mcp
 - [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [CreateEvent] jkp - jkp/protonmail-mcp
+- [IssuesEvent] jkp - jerryfane/herdrup
+
+## 🌟 Star动态
+- [ClashMac] 最后更新：2026-09-19 13:11
+- [FinceptTerminal] 最后更新：2026-09-19 12:41
+- [multica] 最后更新：2026-09-19 10:18
+- [OmniRoute] 最后更新：2026-09-19 08:30
+- [status-app] 最后更新：2026-09-19 04:47
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
