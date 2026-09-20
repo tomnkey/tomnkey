@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/protonmail-mcp
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-09-20 11:41
+- [ToolJet] 最后更新：2026-09-20 11:37
+- [multica] 最后更新：2026-09-20 11:00
+- [ClashMac] 最后更新：2026-09-20 10:49
+- [feishu-codex-bridge] 最后更新：2026-09-20 10:00
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - moonrepo/moon
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-20 11:03
 - [status-app] 最后更新：2026-09-20 11:02
 - [multica] 最后更新：2026-09-20 11:00
