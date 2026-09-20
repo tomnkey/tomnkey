@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] jkp - letta-ai/letta-code
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-09-20 13:44
+- [ToolJet] 最后更新：2026-09-20 11:37
+- [multica] 最后更新：2026-09-20 11:00
+- [ClashMac] 最后更新：2026-09-20 10:49
+- [feishu-codex-bridge] 最后更新：2026-09-20 10:00
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] alex - alex/openssl
+- [PushEvent] alex - alex/openssl
+- [PullRequestReviewEvent] alex - openssl/openssl
+- [PullRequestReviewCommentEvent] alex - openssl/openssl
+- [PullRequestEvent] jkp - moonrepo/moon
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [IssuesEvent] jkp - letta-ai/letta-code
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-09-20 13:04
 - [ToolJet] 最后更新：2026-09-20 11:37
 - [multica] 最后更新：2026-09-20 11:00
