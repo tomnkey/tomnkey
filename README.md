@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] jkp - moonrepo/moon
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-09-20 04:53
+- [status-app] 最后更新：2026-09-20 04:20
+- [ClashMac] 最后更新：2026-09-20 03:41
+- [feishu-codex-bridge] 最后更新：2026-09-20 03:28
+- [dnsmgr] 最后更新：2026-09-20 01:50
+
+## 🚀 关注动态
 - [PushEvent] jkp - jkp/protonmail-mcp
 - [PushEvent] jkp - jkp/protonmail-mcp
 - [IssuesEvent] jkp - letta-ai/letta-code
