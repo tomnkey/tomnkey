@@ -49,6 +49,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/protonmail-mcp
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-20 00:10
+- [ollama] 最后更新：2026-09-19 20:41
+- [ClashMac] 最后更新：2026-09-19 13:11
+- [FinceptTerminal] 最后更新：2026-09-19 12:41
+- [multica] 最后更新：2026-09-19 10:18
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [IssuesEvent] jkp - letta-ai/letta-code
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] jkp - jkp/protonmail-mcp
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-19 22:42
 - [ollama] 最后更新：2026-09-19 20:41
 - [ClashMac] 最后更新：2026-09-19 13:11
