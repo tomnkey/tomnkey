@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestReviewEvent] alex - pyca/bcrypt
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] jkp - jkp/protonmail-mcp
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-21 10:58
+- [multica] 最后更新：2026-09-21 10:56
+- [status-go] 最后更新：2026-09-21 10:48
+- [status-app] 最后更新：2026-09-21 10:47
+- [buf] 最后更新：2026-09-21 10:25
+
+## 🚀 关注动态
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
 - [CreateEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] jkp - jkp/protonmail-mcp
