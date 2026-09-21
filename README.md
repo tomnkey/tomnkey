@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
+- [PushEvent] jkp - jkp/pi-patty-bg-tasks
+- [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
+- [PushEvent] jkp - jkp/pi-patty-bg-tasks
+- [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
+- [PushEvent] jkp - jkp/pi-patty-bg-tasks
+- [PullRequestEvent] jkp - patty-io/pi-patty-bg-tasks
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-09-21 10:04
+- [multica] 最后更新：2026-09-21 10:04
+- [ToolJet] 最后更新：2026-09-21 10:03
+- [status-app] 最后更新：2026-09-21 09:39
+- [ClashMac] 最后更新：2026-09-21 09:23
+
+## 🚀 关注动态
 - [PushEvent] jkp - jkp/protonmail-mcp
 - [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
 - [PushEvent] jkp - jkp/pi-patty-bg-tasks
