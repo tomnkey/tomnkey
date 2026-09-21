@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [ForkEvent] jkp - patty-io/pi-patty-bg-tasks
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-21 07:17
+- [ToolJet] 最后更新：2026-09-21 07:13
+- [feishu-codex-bridge] 最后更新：2026-09-21 07:07
+- [status-app] 最后更新：2026-09-21 07:03
+- [sourcebot] 最后更新：2026-09-21 05:21
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/protonmail-mcp
+- [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
+- [PushEvent] jkp - jkp/pi-patty-bg-tasks
+- [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
+- [PushEvent] jkp - jkp/pi-patty-bg-tasks
+- [IssueCommentEvent] jkp - patty-io/pi-patty-bg-tasks
+- [PushEvent] jkp - jkp/pi-patty-bg-tasks
+- [PullRequestEvent] jkp - patty-io/pi-patty-bg-tasks
+- [CreateEvent] jkp - jkp/pi-patty-bg-tasks
+- [ForkEvent] jkp - patty-io/pi-patty-bg-tasks
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-09-21 06:11
 - [multica] 最后更新：2026-09-21 06:10
 - [ToolJet] 最后更新：2026-09-21 06:01
