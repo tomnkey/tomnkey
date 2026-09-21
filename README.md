@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [IssuesEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-09-21 21:03
+- [ToolJet] 最后更新：2026-09-21 21:02
+- [OmniRoute] 最后更新：2026-09-21 21:02
+- [status-app] 最后更新：2026-09-21 20:46
+- [status-go] 最后更新：2026-09-21 20:43
+
+## 🚀 关注动态
 - [IssuesEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
 - [PullRequestReviewEvent] alex - alex/rust-asn1
