@@ -27,6 +27,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
 - [CreateEvent] gravityblast - logos-blockchain/lez-programs
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-09-21 18:55
+- [OmniRoute] 最后更新：2026-09-21 18:30
+- [sourcebot] 最后更新：2026-09-21 18:22
+- [playwright] 最后更新：2026-09-21 18:09
+- [go-ethereum] 最后更新：2026-09-21 18:03
+
+## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
 - [IssueCommentEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
