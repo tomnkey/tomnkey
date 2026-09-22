@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - github/advisory-database
+- [IssueCommentEvent] alex - github/advisory-database
+- [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-09-22 19:01
+- [playwright] 最后更新：2026-09-22 18:49
+- [ollama] 最后更新：2026-09-22 18:36
+- [sourcebot] 最后更新：2026-09-22 17:59
+- [OmniRoute] 最后更新：2026-09-22 17:41
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - metrics-rs/metrics
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
