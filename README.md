@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-22 07:06
+- [status-app] 最后更新：2026-09-22 07:00
+- [status-go] 最后更新：2026-09-22 06:55
+- [go-ethereum] 最后更新：2026-09-22 06:48
+- [ToolJet] 最后更新：2026-09-22 06:47
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - alex/openssl
+- [IssuesEvent] alex - rust-openssl/rust-openssl
+- [PushEvent] alex - rust-openssl/rust-openssl
+- [PullRequestReviewEvent] alex - rust-openssl/rust-openssl
+- [DeleteEvent] alex - alex/rust-asn1
+- [PushEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] alex - alex/rust-asn1
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-22 06:07
 - [multica] 最后更新：2026-09-22 06:05
 - [status-app] 最后更新：2026-09-22 06:02
