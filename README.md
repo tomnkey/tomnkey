@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - metrics-rs/metrics
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [feishu-codex-bridge] 最后更新：2026-09-22 13:05
+- [OmniRoute] 最后更新：2026-09-22 13:03
+- [status-app] 最后更新：2026-09-22 13:03
+- [ToolJet] 最后更新：2026-09-22 12:58
+- [status-go] 最后更新：2026-09-22 10:34
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - metrics-rs/metrics
 - [PushEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [DeleteEvent] alex - pyca/cryptography
