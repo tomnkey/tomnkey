@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/infra
+- [PullRequestReviewEvent] alex - pyca/infra
+- [PushEvent] alex - pyca/infra
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-22 11:01
+- [OmniRoute] 最后更新：2026-09-22 10:41
+- [status-app] 最后更新：2026-09-22 10:37
+- [status-go] 最后更新：2026-09-22 10:34
+- [feishu-codex-bridge] 最后更新：2026-09-22 10:21
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - rust-openssl/rust-openssl
 - [PushEvent] alex - alex/openssl
 - [IssuesEvent] alex - rust-openssl/rust-openssl
