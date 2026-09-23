@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-23 08:08
+- [multica] 最后更新：2026-09-23 08:04
+- [ollama] 最后更新：2026-09-23 07:56
+- [status-app] 最后更新：2026-09-23 07:52
+- [sourcebot] 最后更新：2026-09-23 06:50
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - zip-rs/zip2
+- [PullRequestReviewCommentEvent] alex - zip-rs/zip2
+- [PullRequestReviewEvent] alex - zip-rs/zip2
+- [PushEvent] alex - alex/zip2
+- [WatchEvent] bryanveloso - mirendev/runtime
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-09-23 07:07
 - [ToolJet] 最后更新：2026-09-23 07:06
 - [status-app] 最后更新：2026-09-23 07:01
