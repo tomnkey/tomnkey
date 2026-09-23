@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [go-ethereum] 最后更新：2026-09-23 02:04
+- [OmniRoute] 最后更新：2026-09-23 02:03
+- [playwright] 最后更新：2026-09-23 01:39
+- [SmsForwarder] 最后更新：2026-09-23 01:34
+- [ollama] 最后更新：2026-09-23 01:28
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - zip-rs/zip2
+- [PullRequestReviewCommentEvent] alex - zip-rs/zip2
+- [PullRequestReviewEvent] alex - zip-rs/zip2
+- [PushEvent] alex - alex/zip2
+- [WatchEvent] bryanveloso - mirendev/runtime
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-23 01:18
 - [ollama] 最后更新：2026-09-23 00:54
 - [playwright] 最后更新：2026-09-23 00:06
