@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - zip-rs/zip2
+- [PullRequestReviewCommentEvent] alex - zip-rs/zip2
+- [PullRequestReviewEvent] alex - zip-rs/zip2
+- [PushEvent] alex - alex/zip2
+- [WatchEvent] bryanveloso - mirendev/runtime
+- [PullRequestEvent] alex - pyca/cryptography
+- [CreateEvent] alex - alex/cryptography
+- [DeleteEvent] alex - pyca/cryptography
+- [PushEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-09-23 01:18
+- [ollama] 最后更新：2026-09-23 00:54
+- [playwright] 最后更新：2026-09-23 00:06
+- [OmniRoute] 最后更新：2026-09-22 23:23
+- [buf] 最后更新：2026-09-22 23:23
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - zip-rs/zip2
 - [PullRequestReviewCommentEvent] alex - zip-rs/zip2
 - [PullRequestReviewEvent] alex - zip-rs/zip2
