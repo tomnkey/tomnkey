@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] bryanveloso - omnyist/synthhive
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-09-24 11:05
+- [status-go] 最后更新：2026-09-24 10:46
+- [multica] 最后更新：2026-09-24 10:39
+- [ToolJet] 最后更新：2026-09-24 10:36
+- [dnsmgr] 最后更新：2026-09-24 10:34
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnyist/synthhive
 - [DeleteEvent] alex - pyca/cryptography
 - [PushEvent] alex - pyca/cryptography
