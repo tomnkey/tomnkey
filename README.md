@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-09-24 14:06
+- [status-go] 最后更新：2026-09-24 14:06
+- [feishu-codex-bridge] 最后更新：2026-09-24 13:58
+- [OmniRoute] 最后更新：2026-09-24 13:45
+- [ToolJet] 最后更新：2026-09-24 12:57
+
+## 🚀 关注动态
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] gravityblast - logos-blockchain/lez-programs
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
