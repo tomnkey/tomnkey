@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [buf] 最后更新：2026-09-25 16:06
+- [ToolJet] 最后更新：2026-09-25 16:04
+- [OmniRoute] 最后更新：2026-09-25 16:02
+- [playwright] 最后更新：2026-09-25 15:53
+- [go-ethereum] 最后更新：2026-09-25 15:46
+
+## 🚀 关注动态
+- [DeleteEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [DeleteEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+- [IssuesEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-09-25 15:07
 - [OmniRoute] 最后更新：2026-09-25 15:06
 - [status-go] 最后更新：2026-09-25 14:09
