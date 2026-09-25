@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+- [DeleteEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [CreateEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [buf] 最后更新：2026-09-25 17:55
+- [playwright] 最后更新：2026-09-25 17:47
+- [feishu-codex-bridge] 最后更新：2026-09-25 16:39
+- [OmniRoute] 最后更新：2026-09-25 16:27
+- [ToolJet] 最后更新：2026-09-25 16:04
+
+## 🚀 关注动态
+- [DeleteEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
 - [DeleteEvent] jkp - jkp/dotfiles
 - [PushEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
