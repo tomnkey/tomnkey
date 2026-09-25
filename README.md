@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [playwright] 最后更新：2026-09-25 00:12
+- [ToolJet] 最后更新：2026-09-24 23:21
+- [ollama] 最后更新：2026-09-24 22:03
+- [go-ethereum] 最后更新：2026-09-24 21:17
+- [multica] 最后更新：2026-09-24 21:01
+
+## 🚀 关注动态
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [playwright] 最后更新：2026-09-24 23:03
 - [ollama] 最后更新：2026-09-24 22:03
 - [go-ethereum] 最后更新：2026-09-24 21:17
