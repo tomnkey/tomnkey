@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PushEvent] alex - alex/claude-experiments
+- [PushEvent] alex - alex/claude-experiments
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [IssueCommentEvent] alex - tokio-rs/tokio
+- [PullRequestEvent] alex - alex/claude-experiments
+- [CreateEvent] alex - alex/claude-experiments
+- [CreateEvent] gravityblast - logos-blockchain/lez-programs
+- [DeleteEvent] jkp - jkp/dotfiles
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-09-25 23:39
+- [OmniRoute] 最后更新：2026-09-25 23:10
+- [ollama] 最后更新：2026-09-25 22:07
+- [status-app] 最后更新：2026-09-25 21:03
+- [buf] 最后更新：2026-09-25 19:15
+
+## 🚀 关注动态
+- [PushEvent] alex - alex/claude-experiments
 - [IssueCommentEvent] alex - tokio-rs/tokio
 - [IssueCommentEvent] alex - tokio-rs/tokio
 - [PullRequestEvent] alex - alex/claude-experiments
