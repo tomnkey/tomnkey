@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestReviewEvent] alex - alex/verified-garbage
+- [PullRequestReviewCommentEvent] alex - alex/verified-garbage
+- [PullRequestReviewEvent] alex - alex/verified-garbage
+- [PullRequestReviewCommentEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [CreateEvent] alex - alex/verified-garbage
+
+## 🌟 Star动态
+- [servers] 最后更新：2026-09-27 04:00
+- [status-go] 最后更新：2026-09-27 03:47
+- [feishu-codex-bridge] 最后更新：2026-09-27 03:43
+- [playwright] 最后更新：2026-09-27 01:43
+- [SmsForwarder] 最后更新：2026-09-27 01:41
+
+## 🚀 关注动态
 - [PullRequestReviewCommentEvent] alex - alex/verified-garbage
 - [PullRequestReviewCommentEvent] alex - alex/verified-garbage
 - [PullRequestReviewCommentEvent] alex - alex/verified-garbage
