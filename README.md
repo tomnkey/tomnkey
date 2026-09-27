@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - alex/verified-garbage
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-09-27 10:02
+- [ClashMac] 最后更新：2026-09-27 09:48
+- [status-go] 最后更新：2026-09-27 06:13
+- [OmniRoute] 最后更新：2026-09-27 05:01
+- [status-app] 最后更新：2026-09-27 04:48
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [CreateEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [CreateEvent] alex - alex/verified-garbage
+- [CreateEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-09-27 08:51
 - [status-go] 最后更新：2026-09-27 06:13
 - [OmniRoute] 最后更新：2026-09-27 05:01
