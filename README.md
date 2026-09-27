@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [DeleteEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestReviewEvent] alex - alex/verified-garbage
+- [PullRequestReviewCommentEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [CreateEvent] alex - alex/verified-garbage
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-09-27 21:14
+- [multica] 最后更新：2026-09-27 15:00
+- [feishu-codex-bridge] 最后更新：2026-09-27 13:13
+- [ClashMac] 最后更新：2026-09-27 11:00
+- [status-go] 最后更新：2026-09-27 06:13
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - alex/verified-garbage
 - [PullRequestEvent] alex - alex/verified-garbage
 - [PushEvent] alex - alex/verified-garbage
