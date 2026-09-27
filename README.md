@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - alex/verified-garbage
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-09-27 05:01
+- [status-app] 最后更新：2026-09-27 04:48
+- [status-go] 最后更新：2026-09-27 04:46
+- [buf] 最后更新：2026-09-27 04:32
+- [servers] 最后更新：2026-09-27 04:29
+
+## 🚀 关注动态
+- [DeleteEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PullRequestReviewEvent] alex - alex/verified-garbage
+- [PullRequestReviewCommentEvent] alex - alex/verified-garbage
+- [PullRequestReviewEvent] alex - alex/verified-garbage
+- [PullRequestReviewCommentEvent] alex - alex/verified-garbage
+- [PullRequestEvent] alex - alex/verified-garbage
+- [PushEvent] alex - alex/verified-garbage
+- [CreateEvent] alex - alex/verified-garbage
+
+## 🌟 Star动态
 - [servers] 最后更新：2026-09-27 04:00
 - [status-go] 最后更新：2026-09-27 03:47
 - [feishu-codex-bridge] 最后更新：2026-09-27 03:43
