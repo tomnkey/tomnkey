@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/protonmail-mcp
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-09-28 17:28
+- [sourcebot] 最后更新：2026-09-28 16:57
+- [status-app] 最后更新：2026-09-28 16:44
+- [status-go] 最后更新：2026-09-28 16:40
+- [ToolJet] 最后更新：2026-09-28 16:35
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] jkp - jkp/protonmail-mcp
 - [IssueCommentEvent] alex - pyca/verified-garbage
