@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [status-app] 最后更新：2026-09-29 08:08
+- [ToolJet] 最后更新：2026-09-29 08:02
+- [multica] 最后更新：2026-09-29 07:41
+- [go-ethereum] 最后更新：2026-09-29 07:22
+- [OmniRoute] 最后更新：2026-09-29 07:16
+
+## 🚀 关注动态
+- [PushEvent] bryanveloso - omnyist/questlog
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-09-29 07:10
 - [multica] 最后更新：2026-09-29 07:09
 - [OmniRoute] 最后更新：2026-09-29 07:06
