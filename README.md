@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - golang/go
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-10-02 22:25
+- [ToolJet] 最后更新：2026-10-02 21:35
+- [status-app] 最后更新：2026-10-02 20:38
+- [status-go] 最后更新：2026-10-02 20:35
+- [ollama] 最后更新：2026-10-02 18:52
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - golang/go
 - [PushEvent] alex - pyca/verified-garbage
 - [DeleteEvent] alex - pyca/verified-garbage
