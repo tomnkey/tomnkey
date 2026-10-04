@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [ollama] 最后更新：2026-10-04 20:04
+- [witr] 最后更新：2026-10-04 17:31
+- [servers] 最后更新：2026-10-04 08:25
+- [multica] 最后更新：2026-10-04 04:48
+- [buf] 最后更新：2026-10-04 04:33
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [CreateEvent] alex - pyca/verified-garbage
 - [CreateEvent] alex - pyca/verified-garbage
