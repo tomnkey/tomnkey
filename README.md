@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] jkp - jkp/pdf-mcp
 - [PullRequestEvent] jkp - jkp/protonmail-mcp
 - [PullRequestEvent] jkp - jkp/protonmail-mcp
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-10-09 19:59
+- [sourcebot] 最后更新：2026-10-09 19:48
+- [status-go] 最后更新：2026-10-09 19:40
+- [ollama] 最后更新：2026-10-09 19:04
+- [OmniRoute] 最后更新：2026-10-09 18:47
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/pdf-mcp
+- [PullRequestEvent] jkp - jkp/pdf-mcp
+- [PullRequestEvent] jkp - jkp/protonmail-mcp
+- [PullRequestEvent] jkp - jkp/protonmail-mcp
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
