@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [sourcebot] 最后更新：2026-10-09 20:41
+- [status-app] 最后更新：2026-10-09 20:32
+- [ollama] 最后更新：2026-10-09 20:23
+- [status-go] 最后更新：2026-10-09 19:40
+- [OmniRoute] 最后更新：2026-10-09 18:47
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/pdf-mcp
 - [PullRequestEvent] jkp - jkp/pdf-mcp
 - [PullRequestEvent] jkp - jkp/protonmail-mcp
