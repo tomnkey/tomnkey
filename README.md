@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] bryanveloso - omnypro/devpush
+- [PullRequestEvent] bryanveloso - omnypro/devpush
+- [PullRequestEvent] bryanveloso - omnypro/devpush
+- [CreateEvent] bryanveloso - omnypro/devpush
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [playwright] 最后更新：2026-10-12 23:49
+- [ollama] 最后更新：2026-10-12 23:23
+- [status-go] 最后更新：2026-10-12 22:56
+- [ToolJet] 最后更新：2026-10-12 21:37
+- [status-app] 最后更新：2026-10-12 20:18
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
