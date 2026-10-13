@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-10-13 11:07
+- [hermes-agent] 最后更新：2026-10-13 11:06
+- [OmniRoute] 最后更新：2026-10-13 11:04
+- [status-app] 最后更新：2026-10-13 10:58
+- [ToolJet] 最后更新：2026-10-13 10:48
+
+## 🚀 关注动态
 - [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
