@@ -22,6 +22,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/pdf-mcp
+- [PullRequestEvent] jkp - jkp/pdf-mcp
+- [CreateEvent] jkp - jkp/pdf-mcp
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-10-17 08:30
+- [ToolJet] 最后更新：2026-10-17 08:28
+- [hermes-agent] 最后更新：2026-10-17 08:10
+- [playwright] 最后更新：2026-10-17 07:40
+- [dnsmgr] 最后更新：2026-10-17 06:34
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [DeleteEvent] alex - pyca/verified-garbage
