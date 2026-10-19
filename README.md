@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-10-19 17:04
+- [playwright] 最后更新：2026-10-19 17:00
+- [ToolJet] 最后更新：2026-10-19 16:50
+- [ollama] 最后更新：2026-10-19 15:53
+- [go-ethereum] 最后更新：2026-10-19 15:52
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
