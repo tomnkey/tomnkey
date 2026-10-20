@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] alex - certifi/python-certifi
+- [PushEvent] alex - pyca/verified-garbage
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-10-20 19:05
+- [OmniRoute] 最后更新：2026-10-20 19:02
+- [ToolJet] 最后更新：2026-10-20 19:01
+- [go-ethereum] 最后更新：2026-10-20 18:42
+- [status-app] 最后更新：2026-10-20 18:33
+
+## 🚀 关注动态
 - [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
 - [PushEvent] alex - pyca/verified-garbage
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
