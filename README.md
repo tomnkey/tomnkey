@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-10-20 17:04
+- [hermes-agent] 最后更新：2026-10-20 17:04
+- [buf] 最后更新：2026-10-20 17:04
+- [ollama] 最后更新：2026-10-20 16:56
+- [ToolJet] 最后更新：2026-10-20 16:53
+
+## 🚀 关注动态
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PushEvent] alex - pyca/verified-garbage
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [status-go] 最后更新：2026-10-20 16:05
 - [hermes-agent] 最后更新：2026-10-20 16:00
 - [go-ethereum] 最后更新：2026-10-20 15:58
