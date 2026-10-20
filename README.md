@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-10-20 01:17
+- [hermes-agent] 最后更新：2026-10-20 01:09
+- [ToolJet] 最后更新：2026-10-20 00:02
+- [ollama] 最后更新：2026-10-19 23:47
+- [multica] 最后更新：2026-10-19 23:24
+
+## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - pyca/verified-garbage
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
