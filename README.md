@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [ForkEvent] gravityblast - witnessmenow/Spotify-Diy-Thing
+
+## 🌟 Star动态
+- [servers] 最后更新：2026-10-24 18:05
+- [ollama] 最后更新：2026-10-24 18:03
+- [hermes-agent] 最后更新：2026-10-24 17:52
+- [playwright] 最后更新：2026-10-24 17:04
+- [ToolJet] 最后更新：2026-10-24 16:51
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [ForkEvent] gravityblast - witnessmenow/Spotify-Diy-Thing
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
