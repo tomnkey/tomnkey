@@ -27,6 +27,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-10-25 23:04
+- [hermes-agent] 最后更新：2026-10-25 23:01
+- [playwright] 最后更新：2026-10-25 22:43
+- [ToolJet] 最后更新：2026-10-25 22:21
+- [ollama] 最后更新：2026-10-25 20:01
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] bryanveloso - omnypro/figma-to-sketch
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
