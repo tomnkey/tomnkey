@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] bryanveloso - omnypro/discord-markdown-preview
+- [PushEvent] bryanveloso - omnypro/discord-markdown-preview
+- [CreateEvent] bryanveloso - omnypro/discord-markdown-preview
+
+## 🌟 Star动态
+- [ui] 最后更新：2026-10-25 05:58
+- [OmniRoute] 最后更新：2026-10-25 05:40
+- [servers] 最后更新：2026-10-25 05:26
+- [hermes-agent] 最后更新：2026-10-25 05:13
+- [ToolJet] 最后更新：2026-10-25 04:40
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [CreateEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [DeleteEvent] alex - pyca/verified-garbage
