@@ -25,6 +25,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - certifi/python-certifi
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-10-26 18:09
+- [status-app] 最后更新：2026-10-26 18:09
+- [status-go] 最后更新：2026-10-26 18:08
+- [hermes-agent] 最后更新：2026-10-26 18:06
+- [ollama] 最后更新：2026-10-26 18:03
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [IssueCommentEvent] alex - pyca/verified-garbage
