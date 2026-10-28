@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssueCommentEvent] alex - pyca/cryptography
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-10-28 13:02
+- [hermes-agent] 最后更新：2026-10-28 12:58
+- [multica] 最后更新：2026-10-28 12:55
+- [OmniRoute] 最后更新：2026-10-28 12:52
+- [status-app] 最后更新：2026-10-28 12:51
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
 - [status-app] 最后更新：2026-10-28 12:06
 - [ToolJet] 最后更新：2026-10-28 12:05
 - [multica] 最后更新：2026-10-28 12:03
