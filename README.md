@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-10-28 21:04
+- [ollama] 最后更新：2026-10-28 20:58
+- [servers] 最后更新：2026-10-28 20:57
+- [multica] 最后更新：2026-10-28 20:53
+- [OmniRoute] 最后更新：2026-10-28 20:53
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-10-28 20:05
 - [hermes-agent] 最后更新：2026-10-28 20:04
 - [multica] 最后更新：2026-10-28 19:56
