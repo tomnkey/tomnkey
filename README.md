@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [WatchEvent] bryanveloso - jatoran/swe-mux
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - riseproject-dev/riscv-runner
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [status-go] 最后更新：2026-10-29 16:19
+- [ui] 最后更新：2026-10-29 16:15
+- [ToolJet] 最后更新：2026-10-29 15:58
+- [hermes-agent] 最后更新：2026-10-29 15:58
+- [playwright] 最后更新：2026-10-29 15:35
+
+## 🚀 关注动态
 - [WatchEvent] bryanveloso - jatoran/swe-mux
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
