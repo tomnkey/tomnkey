@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [status-go] 最后更新：2026-10-30 09:05
+- [ToolJet] 最后更新：2026-10-30 09:04
+- [ui] 最后更新：2026-10-30 09:01
+- [hermes-agent] 最后更新：2026-10-30 09:00
+- [multica] 最后更新：2026-10-30 08:23
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [hermes-agent] 最后更新：2026-10-30 07:58
 - [multica] 最后更新：2026-10-30 07:45
 - [status-app] 最后更新：2026-10-30 07:37
