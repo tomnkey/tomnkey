@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-10-31 20:01
+- [hermes-agent] 最后更新：2026-10-31 18:04
+- [status-app] 最后更新：2026-10-31 18:02
+- [ui] 最后更新：2026-10-31 16:37
+- [status-go] 最后更新：2026-10-31 15:12
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
