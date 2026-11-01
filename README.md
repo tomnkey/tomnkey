@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-11-01 11:58
+- [hermes-agent] 最后更新：2026-11-01 11:48
+- [go-ethereum] 最后更新：2026-11-01 10:43
+- [dnsmgr] 最后更新：2026-11-01 10:38
+- [FeHelper] 最后更新：2026-11-01 09:12
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [WatchEvent] bryanveloso - vgmtrans/vgmtrans
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [hermes-agent] 最后更新：2026-11-01 11:02
 - [go-ethereum] 最后更新：2026-11-01 10:43
 - [dnsmgr] 最后更新：2026-11-01 10:38
