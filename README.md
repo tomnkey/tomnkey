@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] alex - certifi/python-certifi
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PullRequestEvent] jkp - alltuner/git-sprout
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-11-04 14:03
+- [multica] 最后更新：2026-11-04 14:01
+- [hermes-agent] 最后更新：2026-11-04 13:53
+- [status-app] 最后更新：2026-11-04 13:51
+- [status-go] 最后更新：2026-11-04 13:30
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestReviewEvent] alex - certifi/python-certifi
 - [PullRequestReviewEvent] alex - pyca/cryptography
 - [PullRequestReviewEvent] alex - pyca/cryptography
