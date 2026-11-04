@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [CreateEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - alltuner/git-sprout
+- [ForkEvent] jkp - alltuner/git-sprout
+- [PushEvent] bryanveloso - omnypro/oscilla
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-11-04 08:05
+- [OmniRoute] 最后更新：2026-11-04 08:04
+- [ui] 最后更新：2026-11-04 07:50
+- [ToolJet] 最后更新：2026-11-04 07:50
+- [status-app] 最后更新：2026-11-04 07:28
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/infra
 - [PushEvent] bryanveloso - omnypro/oscilla
 - [PullRequestEvent] jkp - alltuner/git-sprout
