@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - alltuner/git-sprout
+- [ForkEvent] jkp - alltuner/git-sprout
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-11-04 02:00
+- [hermes-agent] 最后更新：2026-11-04 01:56
+- [ToolJet] 最后更新：2026-11-04 01:42
+- [ollama] 最后更新：2026-11-04 01:39
+- [SmsForwarder] 最后更新：2026-11-04 01:18
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - alltuner/git-sprout
 - [ForkEvent] jkp - alltuner/git-sprout
 - [PushEvent] alex - pyca/verified-garbage
