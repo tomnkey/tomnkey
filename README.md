@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-04 04:04
+- [OmniRoute] 最后更新：2026-11-04 03:59
+- [ToolJet] 最后更新：2026-11-04 03:57
+- [multica] 最后更新：2026-11-04 03:44
+- [ollama] 最后更新：2026-11-04 01:39
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - alltuner/git-sprout
+- [ForkEvent] jkp - alltuner/git-sprout
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PushEvent] bryanveloso - omnypro/oscilla
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [hermes-agent] 最后更新：2026-11-04 03:04
 - [multica] 最后更新：2026-11-04 03:00
 - [OmniRoute] 最后更新：2026-11-04 02:53
