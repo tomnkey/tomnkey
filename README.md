@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PushEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-07 07:55
+- [ToolJet] 最后更新：2026-11-07 07:49
+- [OmniRoute] 最后更新：2026-11-07 07:36
+- [ui] 最后更新：2026-11-07 06:02
+- [multica] 最后更新：2026-11-07 05:45
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - christopherpow/nes-test-roms
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [hermes-agent] 最后更新：2026-11-07 07:01
 - [OmniRoute] 最后更新：2026-11-07 06:47
 - [ui] 最后更新：2026-11-07 06:02
