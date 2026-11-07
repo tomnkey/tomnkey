@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [WatchEvent] bryanveloso - christopherpow/nes-test-roms
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-07 04:04
+- [OmniRoute] 最后更新：2026-11-07 03:58
+- [ToolJet] 最后更新：2026-11-07 03:34
+- [ollama] 最后更新：2026-11-07 02:44
+- [SmsForwarder] 最后更新：2026-11-07 01:17
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
