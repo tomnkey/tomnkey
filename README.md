@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] jkp - jkp/dotfiles
 
 ## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-07 02:02
+- [ollama] 最后更新：2026-11-07 01:25
+- [SmsForwarder] 最后更新：2026-11-07 01:17
+- [OmniRoute] 最后更新：2026-11-07 01:10
+- [playwright] 最后更新：2026-11-07 01:02
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
 - [hermes-agent] 最后更新：2026-11-07 01:03
 - [ollama] 最后更新：2026-11-07 01:03
 - [playwright] 最后更新：2026-11-07 01:02
