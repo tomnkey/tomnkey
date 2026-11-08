@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] bryanveloso - omnypro/figma-to-sketch
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-08 16:01
+- [multica] 最后更新：2026-11-08 15:58
+- [ToolJet] 最后更新：2026-11-08 15:54
+- [OmniRoute] 最后更新：2026-11-08 13:07
+- [FinceptTerminal] 最后更新：2026-11-08 12:01
+
+## 🚀 关注动态
 - [PullRequestReviewEvent] alex - pyca/verified-garbage
 - [PullRequestReviewCommentEvent] alex - pyca/verified-garbage
 - [PullRequestReviewEvent] alex - pyca/verified-garbage
