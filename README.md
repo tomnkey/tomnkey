@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestEvent] alex - pyca/cryptography
+- [IssueCommentEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+- [PullRequestReviewEvent] alex - pyca/cryptography
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-11-09 12:06
+- [hermes-agent] 最后更新：2026-11-09 12:06
+- [multica] 最后更新：2026-11-09 12:00
+- [FinceptTerminal] 最后更新：2026-11-09 11:57
+- [status-app] 最后更新：2026-11-09 11:55
+
+## 🚀 关注动态
 - [PushEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
