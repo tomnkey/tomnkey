@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PushEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [DeleteEvent] bryanveloso - omnypro/omnypotent
+- [PushEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [CreateEvent] bryanveloso - omnypro/omnypotent
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-09 11:01
+- [OmniRoute] 最后更新：2026-11-09 10:53
+- [ToolJet] 最后更新：2026-11-09 10:43
+- [ui] 最后更新：2026-11-09 10:36
+- [status-app] 最后更新：2026-11-09 10:29
+
+## 🚀 关注动态
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
