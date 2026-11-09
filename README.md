@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [DeleteEvent] bryanveloso - omnypro/omnypotent
+- [PushEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [CreateEvent] bryanveloso - omnypro/omnypotent
+- [CreateEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-11-09 08:06
+- [hermes-agent] 最后更新：2026-11-09 08:05
+- [ToolJet] 最后更新：2026-11-09 08:02
+- [OmniRoute] 最后更新：2026-11-09 07:54
+- [status-app] 最后更新：2026-11-09 07:53
+
+## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PushEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
 - [PullRequestEvent] bryanveloso - omnypro/omnypotent
