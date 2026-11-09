@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [CreateEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-11-09 09:04
+- [OmniRoute] 最后更新：2026-11-09 09:02
+- [multica] 最后更新：2026-11-09 09:00
+- [go-ethereum] 最后更新：2026-11-09 08:59
+- [hermes-agent] 最后更新：2026-11-09 08:58
+
+## 🚀 关注动态
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [DeleteEvent] bryanveloso - omnypro/omnypotent
+- [PushEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [PullRequestEvent] bryanveloso - omnypro/omnypotent
+- [CreateEvent] bryanveloso - omnypro/omnypotent
+- [CreateEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [multica] 最后更新：2026-11-09 08:06
 - [hermes-agent] 最后更新：2026-11-09 08:05
 - [ToolJet] 最后更新：2026-11-09 08:02
