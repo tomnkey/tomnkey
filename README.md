@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [WatchEvent] gravityblast - multica-ai/andrej-karpathy-skills
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-11-10 08:04
+- [hermes-agent] 最后更新：2026-11-10 08:03
+- [status-app] 最后更新：2026-11-10 07:57
+- [ToolJet] 最后更新：2026-11-10 07:57
+- [status-go] 最后更新：2026-11-10 07:52
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - pyca/verified-garbage
 - [WatchEvent] gravityblast - multica-ai/andrej-karpathy-skills
