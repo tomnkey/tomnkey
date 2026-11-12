@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-12 16:03
+- [status-app] 最后更新：2026-11-12 16:03
+- [status-go] 最后更新：2026-11-12 16:02
+- [multica] 最后更新：2026-11-12 15:43
+- [ToolJet] 最后更新：2026-11-12 15:39
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/Codex.spoon
 - [PullRequestEvent] jkp - jkp/Codex.spoon
 - [PullRequestEvent] alex - pyca/verified-garbage
