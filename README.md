@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-13 06:00
+- [ToolJet] 最后更新：2026-11-13 05:50
+- [multica] 最后更新：2026-11-13 05:43
+- [playwright] 最后更新：2026-11-13 05:05
+- [FinceptTerminal] 最后更新：2026-11-13 04:42
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [CreateEvent] alex - pyca/verified-garbage
