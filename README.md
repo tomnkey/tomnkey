@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] jkp - jkp/Codex.spoon
 
 ## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-13 12:05
+- [ToolJet] 最后更新：2026-11-13 12:03
+- [status-app] 最后更新：2026-11-13 11:51
+- [multica] 最后更新：2026-11-13 11:28
+- [ui] 最后更新：2026-11-13 10:58
+
+## 🚀 关注动态
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+
+## 🌟 Star动态
 - [hermes-agent] 最后更新：2026-11-13 11:02
 - [ui] 最后更新：2026-11-13 10:58
 - [status-app] 最后更新：2026-11-13 10:56
