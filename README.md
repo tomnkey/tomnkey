@@ -26,6 +26,25 @@ Here are some ideas to get you started:
 - [PushEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/Codex.spoon
 - [PullRequestEvent] jkp - jkp/Codex.spoon
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-11-14 06:06
+- [hermes-agent] 最后更新：2026-11-14 05:55
+- [OmniRoute] 最后更新：2026-11-14 05:45
+- [playwright] 最后更新：2026-11-14 05:42
+- [go-ethereum] 最后更新：2026-11-14 05:37
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
 - [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 
