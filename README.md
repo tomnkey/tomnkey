@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PullRequestEvent] jkp - jkp/Codex.spoon
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-14 05:03
+- [OmniRoute] 最后更新：2026-11-14 04:54
+- [multica] 最后更新：2026-11-14 04:46
+- [status-app] 最后更新：2026-11-14 04:40
+- [dnsmgr] 最后更新：2026-11-14 03:56
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
