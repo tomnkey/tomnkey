@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-17 14:58
+- [ToolJet] 最后更新：2026-11-17 14:57
+- [status-app] 最后更新：2026-11-17 14:56
+- [status-go] 最后更新：2026-11-17 14:55
+- [multica] 最后更新：2026-11-17 14:52
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-11-17 14:03
 - [hermes-agent] 最后更新：2026-11-17 14:02
 - [go-ethereum] 最后更新：2026-11-17 14:01
