@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [ToolJet] 最后更新：2026-11-18 08:01
+- [status-go] 最后更新：2026-11-18 07:51
+- [FinceptTerminal] 最后更新：2026-11-18 07:49
+- [multica] 最后更新：2026-11-18 07:46
+- [OmniRoute] 最后更新：2026-11-18 07:43
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-11-18 07:01
 - [multica] 最后更新：2026-11-18 07:00
 - [servers] 最后更新：2026-11-18 07:00
