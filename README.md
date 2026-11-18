@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - AsimovMac/asimov
+- [ForkEvent] jkp - AsimovMac/asimov
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-18 17:02
+- [status-app] 最后更新：2026-11-18 17:00
+- [multica] 最后更新：2026-11-18 16:58
+- [ToolJet] 最后更新：2026-11-18 16:57
+- [playwright] 最后更新：2026-11-18 16:55
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - AsimovMac/asimov
 - [ForkEvent] jkp - AsimovMac/asimov
