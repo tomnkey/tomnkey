@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] alex - pyca/verified-garbage
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-11-18 11:02
+- [ToolJet] 最后更新：2026-11-18 11:01
+- [status-go] 最后更新：2026-11-18 10:59
+- [hermes-agent] 最后更新：2026-11-18 10:51
+- [status-app] 最后更新：2026-11-18 10:26
+
+## 🚀 关注动态
+- [WatchEvent] bryanveloso - NYLLON-SOFTWARE/SignuDoc
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
 - [ClashMac] 最后更新：2026-11-18 10:03
 - [multica] 最后更新：2026-11-18 10:02
 - [ToolJet] 最后更新：2026-11-18 10:02
