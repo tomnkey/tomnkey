@@ -21,6 +21,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-11-20 22:03
+- [playwright] 最后更新：2026-11-20 22:01
+- [hermes-agent] 最后更新：2026-11-20 21:56
+- [status-app] 最后更新：2026-11-20 21:41
+- [ollama] 最后更新：2026-11-20 21:34
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - pyca/verified-garbage
 - [CreateEvent] alex - pyca/verified-garbage
 - [DeleteEvent] alex - pyca/verified-garbage
 - [PushEvent] alex - pyca/verified-garbage
