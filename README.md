@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [CreateEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
+- [multica] 最后更新：2026-11-21 10:01
+- [OmniRoute] 最后更新：2026-11-21 09:58
+- [ToolJet] 最后更新：2026-11-21 09:17
+- [hermes-agent] 最后更新：2026-11-21 08:46
+- [playwright] 最后更新：2026-11-21 04:36
+
+## 🚀 关注动态
 - [IssueCommentEvent] alex - certifi/python-certifi
 - [PullRequestEvent] alex - certifi/python-certifi
 - [PullRequestEvent] jkp - jkp/dotfiles
