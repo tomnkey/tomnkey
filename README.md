@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [IssuesEvent] gravityblast - logos-blockchain/lez-programs
 
 ## 🌟 Star动态
+- [multica] 最后更新：2026-11-21 07:57
+- [hermes-agent] 最后更新：2026-11-21 07:57
+- [OmniRoute] 最后更新：2026-11-21 07:43
+- [playwright] 最后更新：2026-11-21 04:36
+- [ollama] 最后更新：2026-11-21 04:05
+
+## 🚀 关注动态
+- [IssueCommentEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestEvent] alex - certifi/python-certifi
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+- [IssuesEvent] gravityblast - logos-blockchain/lez-programs
+
+## 🌟 Star动态
 - [OmniRoute] 最后更新：2026-11-21 07:02
 - [hermes-agent] 最后更新：2026-11-21 06:44
 - [multica] 最后更新：2026-11-21 05:30
