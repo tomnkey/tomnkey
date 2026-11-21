@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [DeleteEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] jkp - jkp/herbie-f1
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PushEvent] jkp - jkp/herbie-f1
+
+## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-11-21 21:59
+- [multica] 最后更新：2026-11-21 21:59
+- [hermes-agent] 最后更新：2026-11-21 21:38
+- [ollama] 最后更新：2026-11-21 19:52
+- [status-go] 最后更新：2026-11-21 17:59
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [IssueCommentEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] jkp - jkp/herbie-f1
