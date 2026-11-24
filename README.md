@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - handyshed/FluidAudio
+- [PullRequestEvent] jkp - handyshed/FluidAudio
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-11-24 21:02
+- [playwright] 最后更新：2026-11-24 21:01
+- [hermes-agent] 最后更新：2026-11-24 20:48
+- [OmniRoute] 最后更新：2026-11-24 20:48
+- [status-go] 最后更新：2026-11-24 20:46
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] jkp - handyshed/FluidAudio
 - [PullRequestEvent] jkp - handyshed/FluidAudio
 - [PullRequestEvent] alex - pyca/verified-garbage
