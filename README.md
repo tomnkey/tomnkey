@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssuesEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [ForkEvent] bryanveloso - zed-industries/zed
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-11-25 01:57
+- [hermes-agent] 最后更新：2026-11-25 01:52
+- [OmniRoute] 最后更新：2026-11-25 01:45
+- [SmsForwarder] 最后更新：2026-11-25 01:19
+- [status-go] 最后更新：2026-11-25 01:12
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] alex - pyca/verified-garbage
