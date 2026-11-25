@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [WatchEvent] bryanveloso - mjmirza/app-store-compliance
+- [WatchEvent] bryanveloso - elementalsouls/Claude-BugHunter
+- [WatchEvent] bryanveloso - zed-industries/gpui
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssuesEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [IssuesEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-25 10:02
+- [status-app] 最后更新：2026-11-25 10:01
+- [multica] 最后更新：2026-11-25 10:01
+- [ToolJet] 最后更新：2026-11-25 09:49
+- [OmniRoute] 最后更新：2026-11-25 09:25
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] alex - pyca/verified-garbage
