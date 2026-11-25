@@ -18,6 +18,25 @@ Here are some ideas to get you started:
 <!--START_SECTION:dynamic-->
 <!--DYNAMIC-->
 ## 🚀 关注动态
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewCommentEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestReviewEvent] gravityblast - logos-blockchain/lez-programs
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [WatchEvent] bryanveloso - mjmirza/app-store-compliance
+- [WatchEvent] bryanveloso - elementalsouls/Claude-BugHunter
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-11-25 12:05
+- [ToolJet] 最后更新：2026-11-25 12:02
+- [multica] 最后更新：2026-11-25 12:01
+- [hermes-agent] 最后更新：2026-11-25 12:00
+- [OmniRoute] 最后更新：2026-11-25 11:51
+
+## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [WatchEvent] bryanveloso - mjmirza/app-store-compliance
