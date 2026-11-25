@@ -19,6 +19,25 @@ Here are some ideas to get you started:
 <!--DYNAMIC-->
 ## 🚀 关注动态
 - [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] alex - rust-openssl/rust-openssl
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [IssueCommentEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [status-app] 最后更新：2026-11-25 17:00
+- [playwright] 最后更新：2026-11-25 17:00
+- [ollama] 最后更新：2026-11-25 16:56
+- [OmniRoute] 最后更新：2026-11-25 16:48
+- [hermes-agent] 最后更新：2026-11-25 16:44
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
