@@ -24,6 +24,25 @@ Here are some ideas to get you started:
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
 - [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [WatchEvent] bryanveloso - longbridge/nsh
+- [WatchEvent] bryanveloso - longbridge/gpui-kit
+- [PullRequestEvent] jkp - jkp/dotfiles
+
+## 🌟 Star动态
+- [ToolJet] 最后更新：2026-11-26 11:01
+- [status-app] 最后更新：2026-11-26 10:51
+- [OmniRoute] 最后更新：2026-11-26 10:42
+- [hermes-agent] 最后更新：2026-11-26 10:26
+- [playwright] 最后更新：2026-11-26 10:19
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
 - [WatchEvent] bryanveloso - longbridge/nsh
 - [WatchEvent] bryanveloso - longbridge/gpui-kit
 - [PullRequestEvent] jkp - jkp/dotfiles
