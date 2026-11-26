@@ -30,6 +30,25 @@ Here are some ideas to get you started:
 - [WatchEvent] bryanveloso - longbridge/gpui-kit
 
 ## 🌟 Star动态
+- [OmniRoute] 最后更新：2026-11-26 12:59
+- [ToolJet] 最后更新：2026-11-26 12:56
+- [status-app] 最后更新：2026-11-26 12:48
+- [hermes-agent] 最后更新：2026-11-26 12:01
+- [playwright] 最后更新：2026-11-26 12:01
+
+## 🚀 关注动态
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [PullRequestEvent] jkp - jkp/dotfiles
+- [WatchEvent] bryanveloso - longbridge/nsh
+- [WatchEvent] bryanveloso - longbridge/gpui-kit
+
+## 🌟 Star动态
 - [ToolJet] 最后更新：2026-11-26 12:05
 - [OmniRoute] 最后更新：2026-11-26 12:04
 - [status-app] 最后更新：2026-11-26 12:03
