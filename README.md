@@ -20,6 +20,25 @@ Here are some ideas to get you started:
 ## 🚀 关注动态
 - [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] alex - pyca/verified-garbage
+- [PullRequestReviewCommentEvent] alex - pyca/verified-garbage
+- [PullRequestReviewEvent] alex - pyca/verified-garbage
+- [PullRequestReviewCommentEvent] alex - pyca/verified-garbage
+
+## 🌟 Star动态
+- [hermes-agent] 最后更新：2026-11-28 04:01
+- [OmniRoute] 最后更新：2026-11-28 03:31
+- [ToolJet] 最后更新：2026-11-28 03:14
+- [SmsForwarder] 最后更新：2026-11-28 01:19
+- [multica] 最后更新：2026-11-28 01:07
+
+## 🚀 关注动态
+- [PullRequestEvent] alex - pyca/verified-garbage
+- [PullRequestEvent] alex - pyca/verified-garbage
 - [PullRequestReviewEvent] alex - pyca/verified-garbage
 - [PullRequestReviewCommentEvent] alex - pyca/verified-garbage
 - [PullRequestReviewEvent] alex - pyca/verified-garbage
